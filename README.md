@@ -13,7 +13,6 @@ Conclusion: Perturbations in dietary, ileal, microbial, and metabolic signatures
 
 
 The functions used through the code should all be available under the funcs/ directory (with some additional functions that were not eventually used here).  
-Example data files are under the data/ subdirectory within the appropriate directory.
 
 
 ### Raw data is publicly available at the following:
