@@ -1,0 +1,37 @@
+dataset	ID	Name	short_name	used_in_wgcna
+GO: Biological Process	GO:0002274	myeloid leukocyte activation	myeloid leukocyte activation	F
+GO: Biological Process	GO:0006629	lipid metabolic process	lipid metabolic process	F
+GO: Biological Process	GO:0009617	response to bacterium	anibacterial (epithelia)	T
+GO: Biological Process	GO:0016266	O-glycan processing	O-glycan processing	F
+GO: Biological Process	GO:0019730	antimicrobial humoral response	antimicrobial humoral response	F
+GO: Biological Process	GO:0032787	monocarboxylic acid metabolic process	monocarboxylic acid metabolic process	F
+GO: Biological Process	GO:0042110	T cell activation	immune adaptive (T cells)	T
+GO: Biological Process	GO:0046649	lymphocyte activation	lymphocyte activation	F
+GO: Biological Process	GO:0050865	regulation of cell activation	regulation of cell activation	F
+GO: Biological Process	GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	antimicrobial humoral immune response	F
+GO: Biological Process	GO:0098542	defense response to other organism	defense response to other organism	F
+GO: Cellular Component	GO:0001891	phagocytic cup	phagocytic cup	F
+GO: Cellular Component	GO:0005740	mitochondrial envelope	mitochondrial envelope	F
+GO: Cellular Component	GO:0005743	mitochondrial inner membrane	mitochondrial inner membrane	F
+GO: Cellular Component	GO:0005789	endoplasmic reticulum membrane	endoplasmic reticulum membrane	F
+GO: Cellular Component	GO:0005902	microvillus	microvillus	F
+GO: Cellular Component	GO:0030667	secretory granule membrane	secretory granule membrane	F
+GO: Cellular Component	GO:0031966	mitochondrial membrane	mitochondrial membrane	F
+GO: Cellular Component	GO:0032998	Fc-epsilon receptor I complex	Fc-epsilon receptor I complex	F
+GO: Molecular Functio	GO:0004896	cytokine receptor activity	cytokine receptor activity	F
+GO: Molecular Functio	GO:0008194	UDP-glycosyltransferase activity	UDP glycosyltransferase	T
+GO: Molecular Functio	GO:0008289	lipid binding	lipid binding	F
+GO: Molecular Functio	GO:0009055	electron transfer activity	electron transfer activity	F
+GO: Molecular Functio	GO:0016491	oxidoreductase activity	oxidoreductase activity	F
+GO: Molecular Functio	GO:0034235	GPI anchor binding	GPI anchor binding	F
+GO: Molecular Functio	GO:0042287	MHC protein binding	MHC protein binding	F
+GO: Molecular Functio	GO:0045236	CXCR chemokine receptor binding	CXCR chemokine receptor binding	F
+GO: Molecular Functio	GO:0140375	immune receptor activity	immune receptor activity	F
+Pathway	M27451	REACTOME METABOLISM OF LIPIDS	metabolism of lipids	F
+Pathway	M27854	REACTOME FATTY ACID METABOLISM	fatty acid metabolism	F
+Pathway	M746	REACTOME SIGNALING BY GPCR	signaling by GPCR	F
+Pathway	MM14661	REACTOME INNATE IMMUNE SYSTEM	innate immune system	F
+Pathway	MM15636	REACTOME O LINKED GLYCOSYLATION OF MUCINS	mucins glycosylation	T
+GO: Cellular Component	GO:0031012	extracellular matrix	extracellular matrix	T
+GO: Molecular Functio	GO:0005125	cytokine activity	cytokine activity	T
+Pathway	MM15330	REACTOME NEUTROPHIL DEGRANULATION	immune innate (granulocyte)	T

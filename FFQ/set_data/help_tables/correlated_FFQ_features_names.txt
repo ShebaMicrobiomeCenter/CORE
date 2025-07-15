@@ -1,0 +1,10 @@
+org_name	new_name
+Butyric.Capric.Caproic.Caprylic.Lauric.Myristic_zmean	Saturated_fatty_acids_zmean
+Palmitic.SFA_per_kcal.Stearic_zmean	SFA_plus_zmean
+Arachidonic.Cholesterol_mg.d_cal.Choline.Eggs_zmean	Cholesterol_plus_zmean
+DHA.EPA_zmean	DHA_plus_zmean
+Erucic.Parinaric_zmean	Parinaric_plus_zmean
+Carotene.Sretinol_zmean	Sretinol_plus_zmean
+MUFA_per_kcal.Oleic.Tot_fat_per_kcal_zmean	MUFA_plus_zmean
+Cystine.histidine.Isoleucine.Leucine.Lysine.Methionine.phenylalanine.Serine.Threonine.Tryptophan.Tyrosine.Valine_zmean	Tryptophan_plus_zmean
+Iodine.Vitamin_D_zmean	Vitamin_D_plus_zmean

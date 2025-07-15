@@ -1,0 +1,974 @@
+group	dataset	ID	Name	Source	pValue	FDR_BH	FDR_BY	Bonferroni	Genes_from_Input	Genes_in_Annotation	include
+active_down	2	3.40.50.720	-	Gene3D	5.58E-12	1.39E-08	1.27E-07	2.78E-08	44	169	FALSE
+active_down	2	10q24	10q24	NA	2.34E-06	1.03E-03	7.74E-03	2.39E-03	9	35	FALSE
+active_down	3	16q13	16q13	NA	3.02E-06	1.03E-03	7.74E-03	3.09E-03	9	36	FALSE
+active_down	5	19p13.3	19p13.3	NA	1.12E-05	2.29E-03	1.72E-02	1.15E-02	23	237	FALSE
+active_down	24	46	1-acylglycerol-3-phosphate O-acyltransferases|EF-hand domain containing	genenames.org	1.94E-03	3.14E-02	2.06E-01	7.56E-01	4	11	FALSE
+active_down	1	2q37	2q37	NA	4.04E-09	4.13E-06	3.10E-05	4.13E-06	11	31	FALSE
+active_down	ToppCell Atlas	ed7a8e79e5723a5f5a03f542203d9e50bdef5f50	3'-Adult-SmallIntestine-Epithelial|Adult / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	3.17E-156	4.14E-153	4.54E-152	1.04E-151	136	184	FALSE
+active_down	ToppCell Atlas	9042bd0f57213a51503d9df2e4dce3209b7772d3	3'-Adult-SmallIntestine-Epithelial-mature enterocytic-Enterocyte|Adult / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	2.27E-158	3.38E-155	3.70E-154	7.43E-154	138	187	FALSE
+active_down	ToppCell Atlas	ab71b312635a2b2c98d71b60a299f44bc80a3587	3'-Child04-06-SmallIntestine-Epithelial|Child04-06 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	1.16E-176	3.14E-173	3.45E-172	3.77E-172	151	199	FALSE
+active_down	ToppCell Atlas	ee981046217e8759610eb58a670d98f32cd83abc	3'-Child04-06-SmallIntestine-Epithelial-mature enterocytic|Child04-06 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	3.10E-201	1.45E-197	1.59E-196	1.01E-196	163	199	FALSE
+active_down	ToppCell Atlas	0181c13379f869be47804cdb11bbdabcd30b9b23	3'-Child04-06-SmallIntestine-Epithelial-mature enterocytic-Enterocyte|Child04-06 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	7.03E-210	1.15E-205	1.26E-204	2.30E-205	167	199	TRUE
+active_down	ToppCell Atlas	043c65bdf54a1bf0e483fea9ffc042ff5b271764	3'-Child09-12-SmallIntestine-Epithelial|Child09-12 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	9.53E-173	2.22E-169	2.44E-168	3.11E-168	149	199	FALSE
+active_down	ToppCell Atlas	222a060c2c63d30da34e4b71c37aa27a048d7d09	3'-Child09-12-SmallIntestine-Epithelial-mature enterocytic|Child09-12 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	4.10E-204	2.68E-200	2.94E-199	1.34E-199	164	198	FALSE
+active_down	ToppCell Atlas	2967fb2d94662997bfe932ac299c80d6f182fb48	3'-Child09-12-SmallIntestine-Epithelial-mature enterocytic-Enterocyte|Child09-12 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	4.10E-204	2.68E-200	2.94E-199	1.34E-199	164	198	FALSE
+active_down	ToppCell Atlas	ecdef1a0a0b8399e193b922c8ca8c25e63de4a4f	3'-GW trimst-1.5-SmallIntestine-Epithelial|GW trimst-1.5 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	4.59E-158	6.25E-155	6.85E-154	1.50E-153	141	198	FALSE
+active_down	ToppCell Atlas	0ca955b71b97571b45e9e89004f1d0bb9fc9e67b	3'-GW trimst-2-SmallIntestine-Epithelial|GW trimst-2 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	3.09E-170	6.73E-167	7.39E-166	1.01E-165	148	200	FALSE
+active_down	ToppCell Atlas	1e6ac65ce7133de4872dcd7e98e2a9e57d3d61b7	3'-GW trimst-2-SmallIntestine-Epithelial-mature enterocytic|GW trimst-2 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	4.69E-165	8.51E-162	9.34E-161	1.53E-160	145	199	FALSE
+active_down	ToppCell Atlas	38432e3ccbc546dc4c1dc2fb1d8d44f8a6de9424	3'-GW trimst-2-SmallIntestine-Epithelial-mature enterocytic-Enterocyte|GW trimst-2 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	4.69E-165	8.51E-162	9.34E-161	1.53E-160	145	199	FALSE
+active_down	ToppCell Atlas	e3e2233c796d5e9051c8c1b66f70f406f048ed56	3'-Pediatric IBD-SmallIntestine-Epithelial|Pediatric IBD / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	1.60E-167	3.27E-164	3.59E-163	5.24E-163	146	198	FALSE
+active_down	ToppCell Atlas	8fac96132663f54566136ef54b53684d31dfde32	3'-Pediatric IBD-SmallIntestine-Epithelial-mature enterocytic|Pediatric IBD / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	5.79E-202	3.15E-198	3.46E-197	1.89E-197	163	198	FALSE
+active_down	ToppCell Atlas	c48b3f026b16d48b8eca9f74dc1e3f3f39a89322	3'-Pediatric IBD-SmallIntestine-Epithelial-mature enterocytic-Enterocyte|Pediatric IBD / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	2.80E-206	3.05E-202	3.34E-201	9.14E-202	165	198	FALSE
+active_down	ToppCell Atlas	a5fffe381be1ba7d192b68d1d3937ce47663658e	5'-Adult-SmallIntestine|Adult / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	1.06E-174	2.67E-171	2.93E-170	3.47E-170	150	199	FALSE
+active_down	ToppCell Atlas	8d629492d2199de8e036c19e9dacceb9c9e721a0	5'-Adult-SmallIntestine-Epithelial|Adult / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	2.99E-181	9.77E-178	1.07E-176	9.77E-177	153	198	TRUE
+active_down	ToppCell Atlas	01c2721bc82cd672e9477029b4a7ecc77e2f1b00	5'-Adult-SmallIntestine-Epithelial-mature enterocytic|Adult / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	5.28E-197	2.16E-193	2.37E-192	1.73E-192	161	199	FALSE
+active_down	ToppCell Atlas	6e6af8fad09f8e48b3f2ce463d5773b6a69864d1	5'-Adult-SmallIntestine-Epithelial-mature enterocytic-Enterocyte|Adult / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	1.17E-210	3.82E-206	4.19E-205	3.82E-206	167	198	FALSE
+active_down	ToppCell Atlas	a76366611f3561fc8aca7d62d1f0a0ea2bef7792	5'-GW trimst-1.5-SmallIntestine-Epithelial-mature enterocytic-Enterocyte|GW trimst-1.5 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	4.59E-158	6.25E-155	6.85E-154	1.50E-153	141	198	FALSE
+active_down	ToppCell Atlas	914f66e2b4af323d09fa2340a39cf8051d00a422	5'-GW trimst-2-SmallIntestine-Epithelial|GW trimst-2 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	3.68E-163	6.32E-160	6.94E-159	1.20E-158	144	199	FALSE
+active_down	ToppCell Atlas	73bfdf068a8ecbefc1e6afe9686df73658ee042f	5'-GW trimst-2-SmallIntestine-Epithelial-mature enterocytic|GW trimst-2 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	1.27E-162	2.08E-159	2.28E-158	4.15E-158	144	200	FALSE
+active_down	ToppCell Atlas	3e13c9a4ba99a7dfbf738b0fb63fb54b4dee5897	5'-GW trimst-2-SmallIntestine-Epithelial-mature enterocytic-Enterocyte|GW trimst-2 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	9.54E-161	1.49E-157	1.63E-156	3.12E-156	143	200	FALSE
+active_down	2	18614015	A mitochondrial protein compendium elucidates complex I disease biology.	Pubmed	3.77E-70	2.83E-65	3.53E-64	5.66E-65	202	1046	FALSE
+active_down	Mouse Phenotype	MP:0005332	abnormal amino acid level	NA	1.07E-09	9.56E-07	8.91E-06	6.69E-06	86	510	FALSE
+active_down	Mouse Phenotype	MP:0030604	abnormal ammonia homeostasis	NA	3.09E-07	8.05E-05	7.50E-04	1.93E-03	11	21	FALSE
+active_down	Mouse Phenotype	MP:0003947	abnormal cholesterol level	NA	1.72E-07	5.65E-05	5.26E-04	1.07E-03	118	855	FALSE
+active_down	Mouse Phenotype	MP:0005308	abnormal circulating ammonia level	NA	1.67E-08	1.04E-05	9.72E-05	1.04E-04	10	14	FALSE
+active_down	4	HP:0004354	Abnormal circulating carboxylic acid concentration	NA	3.06E-13	4.71E-10	4.38E-09	1.88E-09	94	478	FALSE
+active_down	Mouse Phenotype	MP:0001664	abnormal digestion	NA	9.01E-09	7.04E-06	6.56E-05	5.63E-05	29	104	FALSE
+active_down	Mouse Phenotype	MP:0001663	abnormal digestive system physiology	NA	9.82E-11	1.23E-07	1.14E-06	6.13E-07	102	618	FALSE
+active_down	Mouse Phenotype	MP:0005584	abnormal enzyme/coenzyme activity	NA	7.37E-08	2.82E-05	2.63E-04	4.61E-04	53	285	FALSE
+active_down	Mouse Phenotype	MP:0001666	abnormal intestinal absorption	NA	2.05E-07	6.25E-05	5.82E-04	1.28E-03	19	58	FALSE
+active_down	Mouse Phenotype	MP:0010155	abnormal intestine physiology	NA	2.10E-07	6.25E-05	5.82E-04	1.31E-03	53	294	FALSE
+active_down	Mouse Phenotype	MP:0002118	abnormal lipid homeostasis	NA	1.17E-12	7.29E-09	6.79E-08	7.29E-09	225	1666	FALSE
+active_down	Mouse Phenotype	MP:0001547	abnormal lipid level	NA	3.31E-11	5.17E-08	4.82E-07	2.07E-07	206	1540	FALSE
+active_down	Mouse Phenotype	MP:0010951	abnormal lipid oxidation	NA	9.64E-08	3.35E-05	3.12E-04	6.03E-04	20	61	FALSE
+active_down	Mouse Phenotype	MP:0005266	abnormal metabolism	NA	2.64E-08	1.28E-05	1.19E-04	1.65E-04	129	927	FALSE
+active_down	1	HP:0032245	Abnormal metabolism	NA	6.02E-15	3.70E-11	3.44E-10	3.70E-11	97	472	FALSE
+active_down	Mouse Phenotype	MP:0005502	abnormal renal/urinary system physiology	NA	7.68E-08	2.82E-05	2.63E-04	4.80E-04	101	689	FALSE
+active_down	Mouse Phenotype	MP:0008108	abnormal small intestinal villus morphology	NA	2.30E-07	6.53E-05	6.09E-04	1.44E-03	18	53	FALSE
+active_down	Mouse Phenotype	MP:0012224	abnormal sterol level	NA	3.70E-08	1.65E-05	1.54E-04	2.31E-04	122	868	FALSE
+active_down	Mouse Phenotype	MP:0000187	abnormal triglyceride level	NA	2.66E-08	1.28E-05	1.19E-04	1.66E-04	96	631	FALSE
+active_down	Mouse Phenotype	MP:0009643	abnormal urine homeostasis	NA	5.60E-10	5.83E-07	5.43E-06	3.50E-06	81	463	FALSE
+active_down	3	HP:0004360	Abnormality of acid-base homeostasis	NA	2.47E-13	4.71E-10	4.38E-09	1.52E-09	91	454	FALSE
+active_down	5	HP:0004337	Abnormality of amino acid metabolism	NA	1.22E-12	1.49E-09	1.39E-08	7.47E-09	75	349	FALSE
+active_down	2	HP:0001941	Acidosis	NA	1.81E-13	4.71E-10	4.38E-09	1.11E-09	89	437	FALSE
+active_down	Mouse Phenotype	MP:0010028	aciduria	NA	4.65E-12	1.45E-08	1.35E-07	2.90E-08	24	55	FALSE
+active_down	GO: Molecular Functio	GO:0022804	active transmembrane transporter activity	NA	1.74E-17	1.31E-14	1.09E-13	3.94E-14	97	488	FALSE
+active_down	7	41	Acyl-CoA thioesterases	genenames.org	3.88E-06	2.16E-04	1.41E-03	1.51E-03	6	10	FALSE
+active_down	GO: Biological Process	GO:0006066	alcohol metabolic process	NA	8.95E-31	7.90E-28	7.64E-27	7.90E-27	111	436	FALSE
+active_down	15	398	Aldehyde dehydrogenases	genenames.org	3.31E-04	8.61E-03	5.64E-02	1.29E-01	6	19	FALSE
+active_down	11	399	Aldo-keto reductases	genenames.org	7.34E-05	2.60E-03	1.70E-02	2.86E-02	6	15	FALSE
+active_down	Mouse Phenotype	MP:0003311	aminoaciduria	NA	2.65E-07	7.19E-05	6.70E-04	1.65E-03	13	29	FALSE
+active_down	22	104	Aminopeptidases	genenames.org	1.52E-03	2.69E-02	1.76E-01	5.93E-01	5	17	FALSE
+active_down	18	1220	Ankyrin repeat domain containing|Sterile alpha motif domain containing|PDZ domain containing	genenames.org	1.20E-03	2.60E-02	1.70E-01	4.69E-01	18	152	FALSE
+active_down	GO: Cellular Component	GO:0045177	apical part of cell	NA	9.27E-28	2.59E-25	1.92E-24	8.60E-25	129	604	FALSE
+active_down	GO: Cellular Component	GO:0016324	apical plasma membrane	NA	1.99E-27	3.68E-25	2.73E-24	1.84E-24	114	497	FALSE
+active_down	GO: Molecular Functio	GO:0070330	aromatase activity	NA	1.28E-08	1.38E-06	1.15E-05	2.90E-05	15	34	FALSE
+active_down	20	811	ATP binding cassette subfamily G	genenames.org	1.38E-03	2.69E-02	1.76E-01	5.39E-01	3	5	FALSE
+active_down	GO: Cellular Component	GO:0045178	basal part of cell	NA	3.39E-09	1.38E-07	1.02E-06	3.14E-06	63	381	FALSE
+active_down	GO: Cellular Component	GO:0009925	basal plasma membrane	NA	3.43E-09	1.38E-07	1.02E-06	3.18E-06	60	355	FALSE
+active_down	GO: Cellular Component	GO:0016323	basolateral plasma membrane	NA	3.97E-09	1.53E-07	1.14E-06	3.68E-06	56	322	FALSE
+active_down	GO: Cellular Component	GO:0005903	brush border	NA	1.54E-25	2.05E-23	1.52E-22	1.43E-22	60	168	FALSE
+active_down	GO: Cellular Component	GO:0031526	brush border membrane	NA	3.38E-17	2.24E-15	1.66E-14	3.13E-14	37	98	FALSE
+active_down	1	M40028	BUSSLINGER DUODENAL LATE IMMATURE ENTEROCYTES	C8: Cell Type Signature	2.49E-143	2.56E-139	2.51E-138	2.56E-139	144	177	FALSE
+active_down	3	M40029	BUSSLINGER DUODENAL MATURE ENTEROCYTES	C8: Cell Type Signature	3.94E-91	1.35E-87	1.32E-86	4.04E-87	133	259	FALSE
+active_down	ToppCell Atlas	71d38084d09a96331877384ce6346f0de4bdcef9	C 01|World / shred on cell type and cluster	Human Ileal Epithelial cells from Crohn’s Disease	2.54E-187	9.23E-184	1.01E-182	8.30E-183	156	198	FALSE
+active_down	21	24	Cadherin related|Deafness associated genes	genenames.org	1.52E-03	2.69E-02	1.76E-01	5.93E-01	5	17	FALSE
+active_down	4	CAGGTG V$E12 Q6	CAGGTG V$E12 Q6	TFBS	3.50E-12	9.30E-10	7.02E-09	3.72E-09	185	1950	FALSE
+active_down	5	int:CANX	CANX interactions	NA	2.97E-12	8.73E-09	8.88E-08	4.37E-08	167	1250	FALSE
+active_down	GO: Biological Process	GO:1901135	carbohydrate derivative metabolic process	NA	1.14E-24	5.38E-22	5.20E-21	1.01E-20	195	1209	FALSE
+active_down	GO: Molecular Functio	GO:0015144	carbohydrate transmembrane transporter activity	NA	7.02E-09	8.36E-07	6.94E-06	1.59E-05	18	47	FALSE
+active_down	GO: Molecular Functio	GO:0031406	carboxylic acid binding	NA	2.19E-10	4.13E-08	3.43E-07	4.96E-07	56	286	FALSE
+active_down	GO: Biological Process	GO:0046395	carboxylic acid catabolic process	NA	4.75E-28	3.00E-25	2.90E-24	4.19E-24	83	281	FALSE
+active_down	GO: Biological Process	GO:0019752	carboxylic acid metabolic process	NA	1.17E-51	2.58E-48	2.49E-47	1.03E-47	235	1085	FALSE
+active_down	GO: Molecular Functio	GO:0046943	carboxylic acid transmembrane transporter activity	NA	2.15E-09	3.04E-07	2.53E-06	4.87E-06	41	188	FALSE
+active_down	GO: Cellular Component	GO:0031253	cell projection membrane	NA	7.21E-11	3.34E-09	2.48E-08	6.68E-08	74	441	FALSE
+active_down	GO: Biological Process	GO:0044248	cellular catabolic process	NA	1.76E-22	7.05E-20	6.81E-19	1.55E-18	251	1796	FALSE
+active_down	GO: Biological Process	GO:0044242	cellular lipid catabolic process	NA	1.51E-26	8.87E-24	8.57E-23	1.33E-22	77	257	FALSE
+active_down	GO: Biological Process	GO:0044255	cellular lipid metabolic process	NA	1.20E-48	2.11E-45	2.04E-44	1.06E-44	236	1134	FALSE
+active_down	GO: Biological Process	GO:0071466	cellular response to xenobiotic stimulus	NA	5.62E-25	2.92E-22	2.82E-21	4.96E-21	75	258	FALSE
+active_down	3	int:CFD	CFD interactions	NA	1.21E-13	5.93E-10	6.04E-09	1.78E-09	183	1360	FALSE
+active_down	23	482	Charged multivesicular body proteins|ESCRT-III associated factors	genenames.org	1.94E-03	3.14E-02	2.06E-01	7.56E-01	4	11	FALSE
+active_down	4	ctd:D002995	Clofibric Acid	CTD	1.03E-37	1.15E-33	1.30E-32	4.61E-33	156	727	FALSE
+active_down	GO: Cellular Component	GO:0098862	cluster of actin-based cell projections	NA	9.53E-20	8.03E-18	5.95E-17	8.84E-17	64	237	FALSE
+active_down	2	int:COQ9	COQ9 interactions	NA	5.36E-14	3.95E-10	4.02E-09	7.89E-10	56	238	FALSE
+active_down	10	1001	Cytochrome P450 family 2	genenames.org	6.58E-05	2.57E-03	1.68E-02	2.57E-02	9	35	FALSE
+active_down	Mouse Phenotype	MP:0014461	decreased lipid level	NA	2.12E-08	1.20E-05	1.12E-04	1.32E-04	106	716	FALSE
+active_down	Mouse Phenotype	MP:0012225	decreased sterol level	NA	3.80E-07	9.49E-05	8.85E-04	2.37E-03	67	414	FALSE
+active_down	2	M40212	DESCARTES FETAL INTESTINE INTESTINAL EPITHELIAL CELLS	C8: Cell Type Signature	1.26E-96	6.47E-93	6.35E-92	1.29E-92	142	279	FALSE
+active_down	Coexpression Atlas	gudmap developingKidney e15.5 early proxim tubul 1000	DevelopingKidney e15.5 early proxim tubul emap-28005 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	1.02E-100	1.53E-97	1.38E-96	4.59E-97	258	784	FALSE
+active_down	Coexpression Atlas	gudmap developingKidney e15.5 early proxim tubul 500	DevelopingKidney e15.5 early proxim tubul emap-28005 top-relative-expression-ranked 500	Gudmap Mouse MOE430.2	2.60E-73	1.30E-70	1.17E-69	1.17E-69	156	393	FALSE
+active_down	Coexpression Atlas	gudmap developingKidney e15.5 Proximal Tubules 1000	DevelopingKidney e15.5 Proximal Tubules emap-28005 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	4.56E-53	1.08E-50	9.68E-50	2.05E-49	191	758	FALSE
+active_down	Coexpression Atlas	gudmap developingLowerUrinaryTract P2 bladder urothelium (LCM) 1000	DevelopingLowerUrinaryTract P2 bladder urothelium (LCM) emap-30380 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	2.85E-49	6.38E-47	5.74E-46	1.28E-45	188	778	FALSE
+active_down	Mouse Phenotype	MP:0005381	digestive/alimentary phenotype	NA	7.85E-12	1.63E-08	1.52E-07	4.90E-08	202	1479	FALSE
+active_down	Coexpression Atlas	duodenum	duodenum	Human Protein Atlas	5.18E-169	1.16E-165	1.04E-164	2.32E-165	218	321	FALSE
+active_down	GO: Molecular Functio	GO:0009055	electron transfer activity	NA	1.58E-11	3.58E-09	2.97E-08	3.58E-08	37	136	TRUE
+active_down	GO: Cellular Component	GO:0005789	endoplasmic reticulum membrane	NA	4.64E-28	2.59E-25	1.92E-24	4.30E-25	213	1302	TRUE
+active_down	GO: Cellular Component	GO:0098827	endoplasmic reticulum subcompartment	NA	8.77E-28	2.59E-25	1.92E-24	8.13E-25	213	1308	FALSE
+active_down	4	MODULE 43	Energy pathways.	C4:CM: Cancer Modules	3.93E-18	9.16E-16	6.79E-15	3.66E-15	42	99	FALSE
+active_down	4	chr16q13	Ensembl 110 genes in cytogenetic band chr16q13	MSigDB C1	9.61E-06	2.29E-03	1.72E-02	9.83E-03	9	41	FALSE
+active_down	ToppCell Atlas	1dd980fd066aef21694395a4b69df938501d9631	Enterocyte|World / shred on cell type and cluster	Human Ileal Epithelial cells from Crohn’s Disease	7.14E-180	2.12E-176	2.33E-175	2.33E-175	152	197	FALSE
+active_down	17	550	Fatty acid binding protein family	genenames.org	1.12E-03	2.57E-02	1.68E-01	4.37E-01	5	16	FALSE
+active_down	GO: Biological Process	GO:0009062	fatty acid catabolic process	NA	2.12E-20	7.49E-18	7.24E-17	1.87E-16	45	120	FALSE
+active_down	GO: Biological Process	GO:0006631	fatty acid metabolic process	NA	2.42E-33	2.38E-30	2.30E-29	2.14E-29	120	470	FALSE
+active_down	4	M1475	FLECHNER BIOPSY KIDNEY TRANSPLANT REJECTED VS OK DN	C2:CGP: Chemical and Genetic Perturbations	1.62E-84	4.15E-81	4.07E-80	1.66E-80	182	553	FALSE
+active_down	1	int:FNDC5	FNDC5 interactions	NA	9.24E-15	1.36E-10	1.38E-09	1.36E-10	198	1470	FALSE
+active_down	5	MODULE 55	Genes in the cancer module 55.	C4:CM: Cancer Modules	1.30E-17	2.18E-15	1.62E-14	1.21E-14	155	831	FALSE
+active_down	1	GAVISH 3CA METAPROGRAM EPITHELIAL PDAC RELATED 3	Genes upregulated in subsets of cells of a given type within various tumors	C4:3CA: Curated Cancer Cell Atlas gene sets	5.84E-34	5.45E-31	4.04E-30	5.45E-31	41	50	FALSE
+active_down	4	20877624	Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression.	Pubmed	1.09E-57	4.09E-53	5.11E-52	1.64E-52	173	926	FALSE
+active_down	8	567	Glutathione S-transferases	genenames.org	2.98E-05	1.45E-03	9.49E-03	1.16E-02	8	25	FALSE
+active_down	13	1045	HAD Asp-based non-protein phosphatases	genenames.org	1.48E-04	4.45E-03	2.91E-02	5.78E-02	5	11	FALSE
+active_down	GO: Biological Process	GO:0042445	hormone metabolic process	NA	6.41E-24	2.83E-21	2.73E-20	5.66E-20	81	306	FALSE
+active_down	2	M40696	HOXA2 TARGET GENES	MSigDB	1.59E-12	7.10E-10	5.36E-09	1.69E-09	160	1595	FALSE
+active_down	4	hsa-miR-466:mirSVR highEffct	hsa-miR-466:mirSVR nonconserved highEffect-0.5	MicroRNA.org	1.93E-52	3.90E-49	3.73E-48	1.56E-48	190	1918	FALSE
+active_down	5	CID000000961	hydroxyl radicals	Stitch	7.59E-37	6.81E-33	7.68E-32	3.40E-32	226	1341	FALSE
+active_down	Mouse Phenotype	MP:0005309	increased circulating ammonia level	NA	1.67E-08	1.04E-05	9.72E-05	1.04E-04	10	14	FALSE
+active_down	Mouse Phenotype	MP:0010180	increased susceptibility to weight loss	NA	7.05E-08	2.82E-05	2.63E-04	4.41E-04	20	60	FALSE
+active_down	5	14651853	Integrated analysis of protein composition, tissue diversity, and gene regulation in mouse mitochondria.	Pubmed	6.91E-53	2.07E-48	2.59E-47	1.04E-47	126	542	FALSE
+active_down	Pathway	M9257	KEGG DRUG METABOLISM CYTOCHROME P450	KEGG Legacy Pathways	5.22E-19	2.97E-16	2.64E-15	2.08E-15	35	72	FALSE
+active_down	Pathway	M16794	KEGG METABOLISM OF XENOBIOTICS BY CYTOCHROME P450	KEGG Legacy Pathways	1.73E-18	8.61E-16	7.63E-15	6.89E-15	34	70	FALSE
+active_down	Pathway	M6391	KEGG PEROXISOME	KEGG Legacy Pathways	4.08E-13	7.97E-11	7.06E-10	1.63E-09	30	78	FALSE
+active_down	Pathway	M9488	KEGG RETINOL METABOLISM	KEGG Legacy Pathways	6.25E-16	2.27E-13	2.01E-12	2.49E-12	30	64	FALSE
+active_down	Coexpression Atlas	gudmap kidney adult CortVasc Tie2 k1 1000	kidney adult CortVasc Tie2 k-means-cluster#1 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	5.52E-48	1.18E-45	1.06E-44	2.48E-44	113	314	FALSE
+active_down	Coexpression Atlas	gudmap kidney adult JuxtaGlom Ren1 Captopr k2 1000	kidney adult JuxtaGlom Ren1 Captopr k-means-cluster#2 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	2.71E-63	9.37E-61	8.42E-60	1.22E-59	154	441	FALSE
+active_down	Coexpression Atlas	gudmap kidney adult JuxtaGlom Ren1 Captopr 1000	kidney adult JuxtaGlom Ren1 Captopr top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	3.95E-46	7.38E-44	6.63E-43	1.77E-42	183	778	FALSE
+active_down	Coexpression Atlas	gudmap kidney adult JuxtaGlom Ren1 k4 1000	kidney adult JuxtaGlom Ren1 k-means-cluster#4 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	9.02E-62	2.89E-59	2.60E-58	4.05E-58	126	304	FALSE
+active_down	Coexpression Atlas	gudmap kidney adult JuxtaGlom Ren1 1000	kidney adult JuxtaGlom Ren1 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	3.00E-83	2.25E-80	2.02E-79	1.35E-79	239	799	FALSE
+active_down	Coexpression Atlas	gudmap kidney adult JuxtaGlom Ren1 500	kidney adult JuxtaGlom Ren1 top-relative-expression-ranked 500	Gudmap Mouse MOE430.2	9.83E-48	2.00E-45	1.80E-44	4.41E-44	128	400	FALSE
+active_down	Coexpression Atlas	gudmap kidney adult RenalCortexMixed Std k1 1000	kidney adult RenalCortexMixed Std k-means-cluster#1 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	6.05E-59	1.60E-56	1.43E-55	2.71E-55	156	482	FALSE
+active_down	Coexpression Atlas	gudmap kidney adult RenalCortexMixed Std k2 500	kidney adult RenalCortexMixed Std k-means-cluster#2 top-relative-expression-ranked 500	Gudmap Mouse MOE430.2	7.46E-47	1.46E-44	1.31E-43	3.35E-43	99	248	FALSE
+active_down	Coexpression Atlas	gudmap kidney adult RenalCortexMixed Std 1000	kidney adult RenalCortexMixed Std top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	5.26E-100	5.91E-97	5.31E-96	2.36E-96	270	861	FALSE
+active_down	Coexpression Atlas	gudmap kidney adult RenalCortexMixed Std 500	kidney adult RenalCortexMixed Std top-relative-expression-ranked 500	Gudmap Mouse MOE430.2	5.17E-66	2.11E-63	1.89E-62	2.32E-62	154	424	FALSE
+active_down	Coexpression Atlas	gudmap kidney single cell adult RenalCortexMixed Scamp k1 1000	kidney single cell adult RenalCortexMixed StemCellamp k-means-cluster#1 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	2.23E-79	1.25E-76	1.13E-75	1.00E-75	239	831	FALSE
+active_down	Coexpression Atlas	gudmap kidney single cell adult RenalCortexMixed Scamp k4 500	kidney single cell adult RenalCortexMixed StemCellamp k-means-cluster#4 top-relative-expression-ranked 500	Gudmap Mouse MOE430.2	1.25E-59	3.51E-57	3.16E-56	5.62E-56	141	393	FALSE
+active_down	Coexpression Atlas	gudmap kidney single cell adult RenalCortexMixed Scamp 1000	kidney single cell adult RenalCortexMixed StemCellamp top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	2.13E-80	1.36E-77	1.22E-76	9.54E-77	249	887	FALSE
+active_down	3	19056867	Large-scale proteomics and phosphoproteomics of urinary exosomes.	Pubmed	3.42E-67	1.71E-62	2.14E-61	5.13E-62	195	1016	FALSE
+active_down	GO: Molecular Functio	GO:0008289	lipid binding	NA	3.97E-10	6.92E-08	5.74E-07	8.99E-07	137	1016	TRUE
+active_down	GO: Biological Process	GO:0016042	lipid catabolic process	NA	1.92E-26	1.06E-23	1.02E-22	1.70E-22	97	387	FALSE
+active_down	GO: Biological Process	GO:0006629	lipid metabolic process	NA	6.46E-54	1.90E-50	1.84E-49	5.70E-50	303	1599	TRUE
+active_down	1	C0023893	Liver Cirrhosis, Experimental	DisGeNET Curated	1.63E-21	1.65E-17	1.61E-16	1.65E-17	109	774	FALSE
+active_down	2	MODULE 23	Liver genes - metabolism and xenobiotics.	C4:CM: Cancer Modules	1.14E-20	5.32E-18	3.94E-17	1.06E-17	125	562	FALSE
+active_down	5	C0376358	Malignant neoplasm of prostate	DisGeNET Curated	4.38E-11	7.36E-08	7.21E-07	4.42E-07	73	616	FALSE
+active_down	25	958	Membrane spanning 4-domains	genenames.org	2.01E-03	3.14E-02	2.06E-01	7.85E-01	5	18	FALSE
+active_down	Coexpression Atlas	mendel RNAseq e17.5 Urothelium ShhCreRFP 2500	mendel RNAseq e17.5 Urothelium ShhCreRFP 2500	Gudmap RNAseq	5.07E-64	1.90E-61	1.70E-60	2.28E-60	323	1629	FALSE
+active_down	Coexpression Atlas	mendel RNAseq e17.5 Urothelium ShhCreRFP 2500 K1	mendel RNAseq e17.5 Urothelium ShhCreRFP 2500 K1	Gudmap RNAseq	1.71E-44	3.07E-42	2.76E-41	7.68E-41	208	987	FALSE
+active_down	Coexpression Atlas	mendel RNAseq e18.5 Urothelium Krt5CreRFP 2500	mendel RNAseq e18.5 Urothelium Krt5CreRFP 2500	Gudmap RNAseq	9.95E-61	2.98E-58	2.68E-57	4.47E-57	352	1928	FALSE
+active_down	Coexpression Atlas	PCBC ratio MESO-15 blastocyst vs MESO-15 amniotic fluid MSC cfr-2X-p05	MESO-15 blastocyst vs MESO-15 amniotic fluid MSC-Confounder removed-fold2.0 adjp0.05	PCBC_AltAnalyze	4.57E-87	4.10E-84	3.69E-83	2.05E-83	236	751	FALSE
+active_down	Coexpression Atlas	PCBC ratio MESO-15 vs MESO-5 cfr-2X-p05	Mesoderm Day 15 vs Mesoderm Day 5-Confounder removed-fold2.0 adjp0.05	PCBC_AltAnalyze	3.67E-66	1.65E-63	1.48E-62	1.65E-62	252	1049	FALSE
+active_down	Coexpression Atlas	PCBC ratio MESO-15 vs SC cfr-2X-p05	Mesoderm Day 15 vs Pluripotent Stem Cells-Confounder removed-fold2.0 adjp0.05	PCBC_AltAnalyze	2.14E-57	5.35E-55	4.80E-54	9.62E-54	313	1648	FALSE
+active_down	2	EFO 0004725	metabolite measurement	GWAS	3.86E-20	1.95E-16	1.91E-15	3.89E-16	87	560	FALSE
+active_down	9	638	Metallothioneins	genenames.org	3.36E-05	1.46E-03	9.53E-03	1.31E-02	7	19	FALSE
+active_down	GO: Cellular Component	GO:0042579	microbody	NA	4.92E-17	2.85E-15	2.11E-14	4.56E-14	49	167	FALSE
+active_down	GO: Cellular Component	GO:0031907	microbody lumen	NA	7.62E-14	3.72E-12	2.75E-11	7.06E-11	25	57	FALSE
+active_down	GO: Cellular Component	GO:0005740	mitochondrial envelope	NA	7.18E-24	8.32E-22	6.17E-21	6.66E-21	159	912	TRUE
+active_down	GO: Cellular Component	GO:0005743	mitochondrial inner membrane	NA	1.25E-18	9.68E-17	7.17E-16	1.16E-15	110	596	TRUE
+active_down	GO: Cellular Component	GO:0031966	mitochondrial membrane	NA	3.93E-20	3.64E-18	2.70E-17	3.64E-17	144	857	TRUE
+active_down	GO: Molecular Functio	GO:0033293	monocarboxylic acid binding	NA	1.68E-10	3.46E-08	2.87E-07	3.81E-07	34	127	FALSE
+active_down	GO: Biological Process	GO:0072329	monocarboxylic acid catabolic process	NA	3.23E-23	1.36E-20	1.31E-19	2.85E-19	54	150	FALSE
+active_down	GO: Biological Process	GO:0032787	monocarboxylic acid metabolic process	NA	6.59E-47	9.70E-44	9.37E-43	5.82E-43	180	738	TRUE
+active_down	5	hsa-miR-548ab	NA	MirDB	2.76E-51	3.78E-48	3.62E-47	2.24E-47	145	1176	FALSE
+active_down	3	hsa-miR-3646	NA	MirDB	2.12E-55	5.72E-52	5.48E-51	1.72E-51	191	1852	FALSE
+active_down	2	hsa-miR-335-3p	NA	MirDB	1.50E-57	6.05E-54	5.80E-53	1.21E-53	193	1829	FALSE
+active_down	1	hsa-miR-3662	NA	MirDB	7.79E-59	6.30E-55	6.04E-54	6.30E-55	203	1972	FALSE
+active_down	1	IPR016040	NAD(P)-bd dom	InterPro	3.32E-12	1.39E-08	1.27E-07	1.66E-08	45	173	FALSE
+active_down	3	1150	NADH:ubiquinone oxidoreductase supernumerary subunits	genenames.org	1.69E-08	1.92E-06	1.26E-05	6.58E-06	12	30	FALSE
+active_down	4	int:NDUFA3	NDUFA3 interactions	NA	1.42E-12	5.21E-09	5.30E-08	2.08E-08	38	134	FALSE
+active_down	4	71	Nuclear hormone receptors	genenames.org	1.97E-08	1.92E-06	1.26E-05	7.67E-06	15	49	FALSE
+active_down	GO: Cellular Component	GO:0042175	nuclear outer membrane-endoplasmic reticulum membrane network	NA	1.76E-26	2.73E-24	2.02E-23	1.64E-23	213	1337	FALSE
+active_down	19	667	Nudix hydrolase family	genenames.org	1.31E-03	2.69E-02	1.76E-01	5.10E-01	6	24	FALSE
+active_down	GO: Cellular Component	GO:0031967	organelle envelope	NA	1.33E-20	1.37E-18	1.01E-17	1.23E-17	210	1456	FALSE
+active_down	GO: Cellular Component	GO:0019866	organelle inner membrane	NA	2.51E-17	1.79E-15	1.33E-14	2.33E-14	114	654	FALSE
+active_down	GO: Cellular Component	GO:0031984	organelle subcompartment	NA	1.12E-27	2.59E-25	1.92E-24	1.04E-24	252	1672	FALSE
+active_down	GO: Molecular Functio	GO:0043177	organic acid binding	NA	1.60E-09	2.42E-07	2.01E-06	3.63E-06	56	301	FALSE
+active_down	GO: Biological Process	GO:0016054	organic acid catabolic process	NA	4.75E-28	3.00E-25	2.90E-24	4.19E-24	83	281	FALSE
+active_down	GO: Biological Process	GO:0006082	organic acid metabolic process	NA	3.39E-55	1.50E-51	1.45E-50	3.00E-51	245	1115	FALSE
+active_down	GO: Molecular Functio	GO:0005342	organic acid transmembrane transporter activity	NA	7.49E-10	1.21E-07	1.01E-06	1.69E-06	42	189	FALSE
+active_down	GO: Molecular Functio	GO:0008514	organic anion transmembrane transporter activity	NA	3.09E-13	1.17E-10	9.67E-10	6.99E-10	59	266	FALSE
+active_down	GO: Biological Process	GO:1901615	organic hydroxy compound metabolic process	NA	3.86E-34	4.26E-31	4.12E-30	3.41E-30	148	659	FALSE
+active_down	GO: Biological Process	GO:0019637	organophosphate metabolic process	NA	5.07E-29	3.73E-26	3.60E-25	4.47E-25	191	1084	FALSE
+active_down	GO: Molecular Functio	GO:0016491	oxidoreductase activity	NA	9.59E-30	2.17E-26	1.80E-25	2.17E-26	163	806	TRUE
+active_down	GO: Molecular Functio	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	NA	5.03E-14	2.28E-11	1.89E-10	1.14E-10	42	144	FALSE
+active_down	GO: Molecular Functio	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	NA	2.85E-08	2.68E-06	2.23E-05	6.44E-05	40	197	FALSE
+active_down	GO: Molecular Functio	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	NA	3.16E-08	2.86E-06	2.38E-05	7.16E-05	20	62	FALSE
+active_down	GO: Molecular Functio	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	NA	4.32E-13	1.40E-10	1.16E-09	9.78E-10	39	134	FALSE
+active_down	3	MODULE 93	Oxidoreductases.	C4:CM: Cancer Modules	3.11E-20	9.65E-18	7.16E-17	2.90E-17	62	182	FALSE
+active_down	GO: Biological Process	GO:0043436	oxoacid metabolic process	NA	1.16E-55	1.03E-51	9.90E-51	1.03E-51	245	1109	FALSE
+active_down	GO: Cellular Component	GO:0005782	peroxisomal matrix	NA	7.62E-14	3.72E-12	2.75E-11	7.06E-11	25	57	FALSE
+active_down	GO: Cellular Component	GO:0005777	peroxisome	NA	4.92E-17	2.85E-15	2.11E-14	4.56E-14	49	167	FALSE
+active_down	16	939	Plakins	genenames.org	4.67E-04	1.14E-02	7.46E-02	1.82E-01	4	8	FALSE
+active_down	GO: Cellular Component	GO:0098590	plasma membrane region	NA	2.38E-16	1.30E-14	9.60E-14	2.20E-13	208	1565	FALSE
+active_down	3	ctd:D011285	Pregnenolone Carbonitrile	CTD	6.30E-39	9.43E-35	1.06E-33	2.83E-34	248	1504	FALSE
+active_down	GO: Biological Process	GO:0034308	primary alcohol metabolic process	NA	9.13E-21	3.36E-18	3.24E-17	8.06E-17	46	123	FALSE
+active_down	GO: Molecular Functio	GO:0042803	protein homodimerization activity	NA	2.96E-09	3.94E-07	3.27E-06	6.69E-06	114	824	FALSE
+active_down	1	23376485	Proteomic analysis of podocyte exosome-enriched fraction from normal human urine.	Pubmed	1.46E-103	2.19E-98	2.74E-97	2.19E-98	315	1744	FALSE
+active_down	Pathway	M10320	REACTOME BIOLOGICAL OXIDATIONS	Reactome Pathways	1.80E-28	3.59E-25	3.18E-24	7.18E-25	77	220	FALSE
+active_down	Pathway	MM14838	REACTOME BIOLOGICAL OXIDATIONS	Reactome Pathways	3.51E-24	3.50E-21	3.10E-20	1.40E-20	71	218	FALSE
+active_down	Pathway	M45012	REACTOME DRUG ADME	Reactome Pathways	2.12E-15	6.49E-13	5.76E-12	8.44E-12	39	109	FALSE
+active_down	Pathway	MM15692	REACTOME DRUG ADME	Reactome Pathways	9.18E-14	2.29E-11	2.03E-10	3.66E-10	38	115	FALSE
+active_down	Pathway	M27854	REACTOME FATTY ACID METABOLISM	Reactome Pathways	5.98E-18	2.65E-15	2.35E-14	2.38E-14	55	177	TRUE
+active_down	Pathway	MM15573	REACTOME FATTY ACID METABOLISM	Reactome Pathways	1.79E-16	7.13E-14	6.32E-13	7.13E-13	52	172	FALSE
+active_down	Pathway	MM14563	REACTOME METABOLISM	Reactome Pathways	3.10E-65	1.24E-61	1.10E-60	1.24E-61	367	1802	FALSE
+active_down	Pathway	M27451	REACTOME METABOLISM OF LIPIDS	Reactome Pathways	1.14E-25	1.52E-22	1.35E-21	4.56E-22	153	746	TRUE
+active_down	Pathway	MM15193	REACTOME METABOLISM OF LIPIDS	Reactome Pathways	2.00E-22	1.33E-19	1.18E-18	7.97E-19	128	610	FALSE
+active_down	Pathway	M18311	REACTOME METABOLISM OF VITAMINS AND COFACTORS	Reactome Pathways	4.47E-13	8.11E-11	7.19E-10	1.79E-09	50	192	FALSE
+active_down	Pathway	M738	REACTOME PHASE I FUNCTIONALIZATION OF COMPOUNDS	Reactome Pathways	8.22E-14	2.19E-11	1.94E-10	3.28E-10	36	104	FALSE
+active_down	Pathway	M18788	REACTOME PHASE II CONJUGATION OF COMPOUNDS	Reactome Pathways	4.19E-13	7.97E-11	7.06E-10	1.67E-09	36	109	FALSE
+active_down	Pathway	M27932	REACTOME PROTEIN LOCALIZATION	Reactome Pathways	3.81E-12	6.08E-10	5.39E-09	1.52E-08	44	164	FALSE
+active_down	Pathway	M5988	REACTOME SLC MEDIATED TRANSMEMBRANE TRANSPORT	Reactome Pathways	2.10E-13	4.66E-11	4.14E-10	8.39E-10	59	247	FALSE
+active_down	Pathway	MM15076	REACTOME SLC MEDIATED TRANSMEMBRANE TRANSPORT	Reactome Pathways	1.51E-13	3.55E-11	3.15E-10	6.04E-10	57	232	FALSE
+active_down	Pathway	M516	REACTOME THE CITRIC ACID TCA CYCLE AND RESPIRATORY ELECTRON TRANSPORT	Reactome Pathways	1.32E-12	2.28E-10	2.03E-09	5.25E-09	47	178	FALSE
+active_down	Pathway	M27287	REACTOME TRANSPORT OF SMALL MOLECULES	Reactome Pathways	1.67E-12	2.78E-10	2.47E-09	6.68E-09	119	726	FALSE
+active_down	GO: Cellular Component	GO:0070469	respirasome	NA	1.19E-09	5.25E-08	3.89E-07	1.10E-06	29	108	FALSE
+active_down	GO: Cellular Component	GO:0098803	respiratory chain complex	NA	6.96E-09	2.58E-07	1.91E-06	6.46E-06	26	96	FALSE
+active_down	GO: Biological Process	GO:0009410	response to xenobiotic stimulus	NA	3.44E-22	1.32E-19	1.28E-18	3.04E-18	114	567	FALSE
+active_down	1	ctd:C089730	rosiglitazone	CTD	7.66E-56	3.44E-51	3.88E-50	3.44E-51	289	1571	FALSE
+active_down	14	728	S ribosomal proteins	genenames.org	3.26E-04	8.61E-03	5.64E-02	1.27E-01	8	34	FALSE
+active_down	GO: Molecular Functio	GO:0015291	secondary active transmembrane transporter activity	NA	3.10E-12	8.78E-10	7.29E-09	7.02E-09	61	295	FALSE
+active_down	4	EFO 0005653	serum metabolite measurement	GWAS	9.53E-12	2.41E-08	2.36E-07	9.63E-08	100	944	FALSE
+active_down	2	743	Short chain dehydrogenase/reductase superfamily	genenames.org	4.33E-12	8.43E-10	5.52E-09	1.69E-09	23	76	FALSE
+active_down	Coexpression Atlas	small intestine	small intestine	Human Protein Atlas	1.11E-207	4.97E-204	4.47E-203	4.97E-204	249	339	FALSE
+active_down	GO: Biological Process	GO:0044282	small molecule catabolic process	NA	9.83E-36	1.24E-32	1.20E-31	8.68E-32	118	433	FALSE
+active_down	2	ctd:C016104	sodium bichromate	CTD	4.48E-39	9.43E-35	1.06E-33	2.01E-34	260	1614	FALSE
+active_down	1	752	Solute carriers	genenames.org	4.99E-30	1.95E-27	1.27E-26	1.95E-27	86	395	FALSE
+active_down	GO: Molecular Functio	GO:0015294	solute:monoatomic cation symporter activity	NA	6.46E-09	8.13E-07	6.75E-06	1.46E-05	31	124	FALSE
+active_down	GO: Molecular Functio	GO:0015370	solute:sodium symporter activity	NA	1.55E-08	1.60E-06	1.33E-05	3.51E-05	24	83	FALSE
+active_down	GO: Molecular Functio	GO:0005496	steroid binding	NA	1.81E-08	1.78E-06	1.48E-05	4.10E-05	32	136	FALSE
+active_down	GO: Biological Process	GO:0008202	steroid metabolic process	NA	1.16E-24	5.38E-22	5.20E-21	1.02E-20	94	386	FALSE
+active_down	6	762	Sulfotransferases, cytosolic	genenames.org	2.90E-06	1.88E-04	1.23E-03	1.13E-03	7	14	FALSE
+active_down	GO: Molecular Functio	GO:0015293	symporter activity	NA	1.05E-11	2.64E-09	2.19E-08	2.38E-08	41	160	FALSE
+active_down	5	MM3735	TABULA MURIS SENIS LARGE INTESTINE ENTEROCYTE OF EPITHELIUM OF LARGE INTESTINE AGEING	M8: Cell Type Signature	3.75E-83	7.69E-80	7.55E-79	3.85E-79	274	1241	FALSE
+active_down	GO: Molecular Functio	GO:0046906	tetrapyrrole binding	NA	8.49E-09	9.61E-07	7.98E-06	1.92E-05	36	160	FALSE
+active_down	12	1215	Transmembrane BAX inhibitor motif containing	genenames.org	1.09E-04	3.55E-03	2.32E-02	4.26E-02	4	6	FALSE
+active_down	GO: Molecular Functio	GO:0022857	transmembrane transporter activity	NA	2.49E-16	1.41E-13	1.17E-12	5.62E-13	178	1213	FALSE
+active_down	GO: Molecular Functio	GO:0005215	transporter activity	NA	8.90E-20	1.01E-16	8.36E-16	2.01E-16	201	1332	FALSE
+active_down	4	IPR002213	UDP glucos trans	InterPro	1.59E-08	1.59E-05	1.45E-04	7.96E-05	12	21	FALSE
+active_down	5	363	UDP glucuronosyltransferases|Minor histocompatibility antigens	genenames.org	3.99E-08	3.11E-06	2.04E-05	1.56E-05	12	32	FALSE
+active_down	5	PS00375	UDPGT	PROSITE	1.59E-08	1.59E-05	1.45E-04	7.96E-05	12	21	FALSE
+active_down	3	PF00201	UDPGT	Pfam	1.59E-08	1.59E-05	1.45E-04	7.96E-05	12	21	FALSE
+active_down	3	EFO 0005116	urinary metabolite measurement	GWAS	7.99E-12	2.41E-08	2.36E-07	8.07E-08	42	245	FALSE
+active_down	5	V$HNF1 01	V$HNF1 01	TFBS	2.48E-11	5.27E-09	3.98E-08	2.64E-08	38	195	FALSE
+active_down	1	V$HNF4 01	V$HNF4 01	TFBS	2.95E-13	3.14E-10	2.37E-09	3.14E-10	43	212	FALSE
+active_down	3	V$HNF4 Q6	V$HNF4 Q6	TFBS	2.00E-12	7.10E-10	5.36E-09	2.13E-09	41	206	FALSE
+active_down	Pathway	MM15942	WP AMINO ACID METABOLISM	WikiPathways	3.75E-13	7.87E-11	6.98E-10	1.49E-09	34	98	FALSE
+active_down	Pathway	MM15844	WP METAPATHWAY BIOTRANSFORMATION	WikiPathways	1.26E-14	3.60E-12	3.19E-11	5.03E-11	46	153	FALSE
+active_down	Pathway	M39588	WP METAPATHWAY BIOTRANSFORMATION PHASE I AND II	WikiPathways	8.02E-24	6.40E-21	5.67E-20	3.20E-20	64	183	FALSE
+active_down	Pathway	M39428	WP NUCLEAR RECEPTORS META PATHWAY	WikiPathways	1.28E-15	4.25E-13	3.77E-12	5.10E-12	73	314	FALSE
+active_down	GO: Biological Process	GO:0006805	xenobiotic metabolic process	NA	2.58E-29	2.07E-26	2.00E-25	2.28E-25	60	146	FALSE
+active_up	1	2.60.40.10	-	Gene3D	1.96E-35	1.25E-31	1.17E-30	1.25E-31	207	663	FALSE
+active_up	5	12q13.3	12q13.3	NA	1.50E-05	2.80E-03	2.15E-02	1.82E-02	12	51	FALSE
+active_up	4	4q21	4q21	NA	4.16E-07	1.26E-04	9.70E-04	5.05E-04	9	20	FALSE
+active_up	3	24952961	A high-resolution spatiotemporal atlas of gene expression of the developing mouse brain.	Pubmed	3.82E-49	4.48E-44	5.98E-43	1.34E-43	326	1937	FALSE
+active_up	Mouse Phenotype	MP:0002420	abnormal adaptive immunity	NA	4.55E-107	3.58E-103	3.42E-102	3.58E-103	532	1481	TRUE
+active_up	2	HP:0002846	Abnormal B cell morphology	NA	1.72E-13	3.89E-10	3.68E-09	1.25E-09	101	352	FALSE
+active_up	Mouse Phenotype	MP:0002459	abnormal B cell physiology	NA	1.02E-43	3.84E-41	3.66E-40	8.06E-40	224	613	FALSE
+active_up	Mouse Phenotype	MP:0012382	abnormal blood cell physiology	NA	8.09E-104	1.27E-100	1.22E-99	6.37E-100	538	1532	FALSE
+active_up	Mouse Phenotype	MP:0002421	abnormal cell-mediated immunity	NA	2.88E-105	1.13E-101	1.08E-100	2.26E-101	523	1454	TRUE
+active_up	Mouse Phenotype	MP:0003009	abnormal cytokine secretion	NA	2.91E-58	2.08E-55	1.99E-54	2.29E-54	261	665	FALSE
+active_up	Mouse Phenotype	MP:0002462	abnormal granulocyte physiology	NA	4.74E-44	1.87E-41	1.78E-40	3.73E-40	129	250	TRUE
+active_up	Mouse Phenotype	MP:0001545	abnormal hematopoietic system physiology	NA	4.23E-101	5.54E-98	5.29E-97	3.33E-97	552	1617	FALSE
+active_up	Mouse Phenotype	MP:0001800	abnormal humoral immune response	NA	8.92E-46	3.90E-43	3.72E-42	7.02E-42	215	561	FALSE
+active_up	Mouse Phenotype	MP:0001819	abnormal immune cell physiology	NA	5.37E-104	1.06E-100	1.01E-99	4.22E-100	518	1441	FALSE
+active_up	Mouse Phenotype	MP:0002723	abnormal immune serum protein physiology	NA	2.35E-71	2.64E-68	2.52E-67	1.85E-67	398	1155	FALSE
+active_up	Mouse Phenotype	MP:0001845	abnormal inflammatory response	NA	1.86E-43	6.66E-41	6.35E-40	1.46E-39	372	1301	FALSE
+active_up	Mouse Phenotype	MP:0002419	abnormal innate immunity	NA	1.71E-65	1.35E-62	1.29E-61	1.35E-61	271	660	TRUE
+active_up	Mouse Phenotype	MP:0008568	abnormal interleukin secretion	NA	2.12E-41	6.68E-39	6.37E-38	1.67E-37	187	477	FALSE
+active_up	Mouse Phenotype	MP:0002442	abnormal leukocyte physiology	NA	2.17E-104	5.69E-101	5.43E-100	1.71E-100	513	1416	FALSE
+active_up	1	HP:0002733	Abnormal lymph node morphology	NA	2.10E-17	1.52E-13	1.44E-12	1.52E-13	90	262	FALSE
+active_up	Mouse Phenotype	MP:0000717	abnormal lymphocyte cell number	NA	1.43E-45	5.94E-43	5.67E-42	1.13E-41	389	1361	FALSE
+active_up	Mouse Phenotype	MP:0002619	abnormal lymphocyte morphology	NA	3.54E-49	2.15E-46	2.05E-45	2.79E-45	416	1454	FALSE
+active_up	4	HP:0004332	Abnormal lymphocyte morphology	NA	2.53E-13	3.89E-10	3.68E-09	1.84E-09	131	509	FALSE
+active_up	Mouse Phenotype	MP:0003945	abnormal lymphocyte physiology	NA	9.19E-66	8.04E-63	7.67E-62	7.23E-62	348	978	FALSE
+active_up	Mouse Phenotype	MP:0002451	abnormal macrophage physiology	NA	1.96E-41	6.43E-39	6.14E-38	1.54E-37	179	445	FALSE
+active_up	Mouse Phenotype	MP:0008247	abnormal mononuclear cell morphology	NA	1.22E-49	8.02E-47	7.66E-46	9.63E-46	492	1838	FALSE
+active_up	Mouse Phenotype	MP:0002452	abnormal professional antigen presenting cell physiology	NA	2.00E-70	1.96E-67	1.87E-66	1.57E-66	360	995	FALSE
+active_up	Mouse Phenotype	MP:0020000	abnormal response to antigen	NA	6.13E-49	3.45E-46	3.29E-45	4.82E-45	258	718	FALSE
+active_up	Mouse Phenotype	MP:0005025	abnormal response to infection	NA	3.73E-47	1.84E-44	1.75E-43	2.94E-43	252	706	FALSE
+active_up	Mouse Phenotype	MP:0002444	abnormal T cell physiology	NA	8.49E-48	4.46E-45	4.25E-44	6.68E-44	224	584	FALSE
+active_up	GO: Cellular Component	GO:0070161	anchoring junction	NA	4.62E-15	6.05E-13	4.62E-12	5.44E-12	200	987	FALSE
+active_up	GO: Cellular Component	GO:0005604	basement membrane	NA	1.53E-16	2.58E-14	1.98E-13	1.81E-13	51	125	FALSE
+active_up	ToppCell Atlas	c58a5dc0a0d74a21ca15ee8b7a0197de32afa045	Biopsy Control (H.)-Immune-Monocytes|Biopsy Control (H.) / Sample group, Lineage and Cell type	COVID-19 Lung Atlas	1.11E-147	1.51E-144	1.66E-143	3.64E-143	152	200	FALSE
+active_up	ToppCell Atlas	1c30eebbe16a331039a9063b93774b5daf518b6e	Bronchial Biopsy-Immune|Bronchial Biopsy / Tissue, Lineage and Cell class of Lung Cells from 10X	A Cellular Census of Human Lungs (Vieira Braga et al)	5.35E-175	1.75E-170	1.92E-169	1.75E-170	166	198	FALSE
+active_up	ToppCell Atlas	bd828596c5b3fd5e4156f555e532f3de99d32f92	Bronchial Biopsy-Immune-Dendritic cells|Bronchial Biopsy / Tissue, Lineage and Cell class of Lung Cells from 10X	A Cellular Census of Human Lungs (Vieira Braga et al)	5.69E-163	3.73E-159	4.09E-158	1.86E-158	159	196	FALSE
+active_up	ToppCell Atlas	b78d277a1d80ef27c11593ffc68ff8a8abae111f	Bronchial Brush-Immune|Bronchial Brush / Tissue, Lineage and Cell class of Lung Cells from 10X	A Cellular Census of Human Lungs (Vieira Braga et al)	3.67E-164	4.01E-160	4.40E-159	1.20E-159	160	197	FALSE
+active_up	ToppCell Atlas	b4d42456a8cc96d87ad8ec0e550960f3b0a3752f	Bronchial Brush-Immune-Dendritic cells|Bronchial Brush / Tissue, Lineage and Cell class of Lung Cells from 10X	A Cellular Census of Human Lungs (Vieira Braga et al)	3.67E-164	4.01E-160	4.40E-159	1.20E-159	160	197	FALSE
+active_up	5	CAGGTG V$E12 Q6	CAGGTG V$E12 Q6	TFBS	8.71E-28	1.91E-25	1.45E-24	9.54E-25	321	1950	FALSE
+active_up	1	471	CD molecules|C-type lectin domain family	genenames.org	1.35E-67	7.04E-65	4.82E-64	7.04E-65	168	394	FALSE
+active_up	3	590	CD molecules|V-set domain containing|Sialic acid binding Ig like lectins	genenames.org	5.05E-20	8.80E-18	6.02E-17	2.64E-17	59	163	FALSE
+active_up	GO: Biological Process	GO:0001775	cell activation	NA	1.53E-89	1.62E-85	1.60E-84	1.62E-85	437	1410	FALSE
+active_up	GO: Biological Process	GO:0007155	cell adhesion	NA	1.85E-80	6.54E-77	6.44E-76	1.96E-76	481	1735	FALSE
+active_up	GO: Cellular Component	GO:0031252	cell leading edge	NA	2.45E-15	3.60E-13	2.76E-12	2.88E-12	123	507	FALSE
+active_up	GO: Cellular Component	GO:0009986	cell surface	NA	8.24E-45	9.71E-42	7.43E-41	9.71E-42	310	1184	FALSE
+active_up	GO: Biological Process	GO:0098609	cell-cell adhesion	NA	1.50E-46	8.86E-44	8.72E-43	1.60E-42	301	1112	FALSE
+active_up	GO: Cellular Component	GO:0030055	cell-substrate junction	NA	5.81E-10	2.71E-08	2.07E-07	6.84E-07	98	445	FALSE
+active_up	GO: Molecular Functio	GO:0008009	chemokine activity	NA	1.15E-08	1.41E-06	1.17E-05	2.67E-05	23	52	FALSE
+active_up	GO: Molecular Functio	GO:0042379	chemokine receptor binding	NA	6.64E-08	6.45E-06	5.38E-05	1.55E-04	29	82	FALSE
+active_up	GO: Biological Process	GO:0006935	chemotaxis	NA	8.74E-46	4.64E-43	4.57E-42	9.28E-42	251	851	FALSE
+active_up	1	ctd:D002737	Chloroprene	CTD	2.10E-72	9.59E-68	1.09E-66	9.59E-68	378	1349	FALSE
+active_up	GO: Molecular Functio	GO:0005518	collagen binding	NA	3.40E-11	6.62E-09	5.51E-08	7.94E-08	34	82	FALSE
+active_up	GO: Cellular Component	GO:0005581	collagen trimer	NA	3.34E-14	3.93E-12	3.01E-11	3.93E-11	41	97	FALSE
+active_up	GO: Cellular Component	GO:0062023	collagen-containing extracellular matrix	NA	9.61E-35	1.89E-32	1.44E-31	1.13E-31	168	532	FALSE
+active_up	4	490	Collagens	genenames.org	2.77E-16	3.62E-14	2.47E-13	1.45E-13	27	46	FALSE
+active_up	GO: Cellular Component	GO:0098644	complex of collagen trimers	NA	3.19E-10	1.56E-08	1.20E-07	3.75E-07	15	21	FALSE
+active_up	ToppCell Atlas	5cfd9e600c417d7e7146a620a1871dde7163389b	control-Myeloid|control / Severity, Lineage and Cell class of Nasopharyngeal (NS) Samples from Patients and Controls	Upper Airway and Bronchi Atlas of COVID-19 Patients	9.67E-160	5.28E-156	5.79E-155	3.17E-155	158	198	FALSE
+active_up	ToppCell Atlas	646a8d47dddffdfd2d8a62245ea6cd49f9510a1a	control-Myeloid-Non-resident Macrophage|control / Severity, Lineage and Cell class of Nasopharyngeal (NS) Samples from Patients and Controls	Upper Airway and Bronchi Atlas of COVID-19 Patients	3.15E-159	1.47E-155	1.62E-154	1.03E-154	157	196	FALSE
+active_up	GO: Molecular Functio	GO:0015026	coreceptor activity	NA	6.99E-09	9.60E-07	8.00E-06	1.63E-05	28	71	FALSE
+active_up	GO: Molecular Functio	GO:0045236	CXCR chemokine receptor binding	NA	3.55E-10	5.53E-08	4.60E-07	8.29E-07	14	18	TRUE
+active_up	GO: Molecular Functio	GO:0005125	cytokine activity	NA	3.85E-08	4.09E-06	3.40E-05	8.99E-05	62	249	FALSE
+active_up	GO: Molecular Functio	GO:0019955	cytokine binding	NA	2.95E-16	1.38E-13	1.15E-12	6.89E-13	58	151	FALSE
+active_up	GO: Biological Process	GO:0001816	cytokine production	NA	1.09E-47	6.78E-45	6.67E-44	1.15E-43	303	1110	FALSE
+active_up	GO: Molecular Functio	GO:0004896	cytokine receptor activity	NA	6.48E-14	2.16E-11	1.80E-10	1.51E-10	41	95	TRUE
+active_up	GO: Molecular Functio	GO:0005126	cytokine receptor binding	NA	1.79E-10	2.99E-08	2.49E-07	4.19E-07	82	327	FALSE
+active_up	GO: Cellular Component	GO:0030659	cytoplasmic vesicle membrane	NA	9.11E-12	5.65E-10	4.32E-09	1.07E-08	235	1304	FALSE
+active_up	GO: Molecular Functio	GO:0008092	cytoskeletal protein binding	NA	7.52E-09	9.75E-07	8.12E-06	1.76E-05	205	1135	FALSE
+active_up	4	int:DCN	DCN interactions	NA	1.03E-12	4.24E-09	4.36E-08	1.69E-08	25	43	FALSE
+active_up	Mouse Phenotype	MP:0011182	decreased hematopoietic cell number	NA	8.37E-42	2.86E-39	2.73E-38	6.59E-38	451	1728	FALSE
+active_up	Mouse Phenotype	MP:0000221	decreased leukocyte cell number	NA	3.30E-46	1.53E-43	1.46E-42	2.60E-42	380	1309	FALSE
+active_up	Coexpression Atlas	gudmap dev gonad e11.5 F ReproVasc Flk 1000	dev gonad e11.5 F ReproVasc Flk top-relative-expression-ranked 1000	Gudmap Mouse ST 1.0	1.49E-99	1.15E-96	1.03E-95	6.87E-96	326	817	FALSE
+active_up	Coexpression Atlas	gudmap dev gonad e11.5 M ReproVasc Flk k4 1000	dev gonad e11.5 M ReproVasc Flk k-means-cluster#4 top-relative-expression-ranked 1000	Gudmap Mouse ST 1.0	4.97E-88	1.91E-85	1.72E-84	2.29E-84	238	514	FALSE
+active_up	Coexpression Atlas	gudmap dev gonad e11.5 M ReproVasc Flk 1000	dev gonad e11.5 M ReproVasc Flk top-relative-expression-ranked 1000	Gudmap Mouse ST 1.0	7.90E-83	1.89E-80	1.70E-79	3.64E-79	298	795	FALSE
+active_up	Coexpression Atlas	gudmap dev gonad e12.5 F gudmap devVasOvary Flk 1000	dev gonad e12.5 F DevVasOvary Flk top-relative-expression-ranked 1000	Gudmap Mouse ST 1.0	1.26E-93	5.81E-91	5.24E-90	5.81E-90	318	817	FALSE
+active_up	Coexpression Atlas	gudmap dev gonad e12.5 M gudmap devVasTestis Flk 1000	dev gonad e12.5 M DevVasTestis Flk top-relative-expression-ranked 1000	Gudmap Mouse ST 1.0	4.41E-93	1.84E-90	1.66E-89	2.03E-89	324	847	FALSE
+active_up	Coexpression Atlas	gudmap dev gonad e13.5 F gudmap devVascOvary Flk k3 1000	dev gonad e13.5 F DevVascOvary Flk k-means-cluster#3 top-relative-expression-ranked 1000	Gudmap Mouse ST 1.0	1.31E-84	4.01E-82	3.62E-81	6.02E-81	248	570	FALSE
+active_up	Coexpression Atlas	gudmap dev gonad e13.5 F gudmap devVascOvary Flk 1000	dev gonad e13.5 F DevVascOvary Flk top-relative-expression-ranked 1000	Gudmap Mouse ST 1.0	6.58E-98	3.37E-95	3.03E-94	3.03E-94	327	831	FALSE
+active_up	Coexpression Atlas	gudmap dev gonad e13.5 M gudmap devVasTestis Flk k3 1000	dev gonad e13.5 M DevVasTestis Flk k-means-cluster#3 top-relative-expression-ranked 1000	Gudmap Mouse ST 1.0	6.21E-82	1.36E-79	1.23E-78	2.86E-78	233	523	FALSE
+active_up	Coexpression Atlas	gudmap dev gonad e13.5 M gudmap devVasTestis Flk 1000	dev gonad e13.5 M DevVasTestis Flk top-relative-expression-ranked 1000	Gudmap Mouse ST 1.0	1.15E-80	2.20E-78	1.98E-77	5.28E-77	306	846	FALSE
+active_up	Coexpression Atlas	gudmap developingKidney e15.5 Endothelial cells 1000	DevelopingKidney e15.5 Endothelial cells emap-29965 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	4.32E-135	9.95E-132	8.96E-131	1.99E-131	356	761	FALSE
+active_up	Coexpression Atlas	gudmap developingKidney e15.5 Endothelial cells 500	DevelopingKidney e15.5 Endothelial cells emap-29965 top-relative-expression-ranked 500	Gudmap Mouse MOE430.2	1.30E-110	1.99E-107	1.79E-106	5.96E-107	225	384	FALSE
+active_up	Coexpression Atlas	DevelopingKidney e15.5 Endothelial cells emap-29977 k5 1000	DevelopingKidney e15.5 Endothelial cells emap-29977 k-means-cluster#5 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	1.35E-103	1.24E-100	1.12E-99	6.21E-100	232	430	FALSE
+active_up	Coexpression Atlas	DevelopingKidney e15.5 Endothelial cells emap-29977 1000	DevelopingKidney e15.5 Endothelial cells emap-29977 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	2.72E-135	9.95E-132	8.96E-131	1.25E-131	357	764	FALSE
+active_up	Coexpression Atlas	DevelopingKidney e15.5 Endothelial cells emap-29977 500	DevelopingKidney e15.5 Endothelial cells emap-29977 top-relative-expression-ranked 500	Gudmap Mouse MOE430.2	2.19E-106	2.52E-103	2.27E-102	1.01E-102	221	384	FALSE
+active_up	5	ctd:D004237	Diuron	CTD	1.60E-55	1.46E-51	1.65E-50	7.31E-51	409	1736	FALSE
+active_up	4	21308776	DLK1 is a novel regulator of bone mass that mediates estrogen deficiency-induced bone loss in mice.	Pubmed	2.56E-44	2.25E-39	3.00E-38	9.00E-39	73	145	FALSE
+active_up	GO: Cellular Component	GO:0005788	endoplasmic reticulum lumen	NA	2.58E-13	2.53E-11	1.94E-10	3.04E-10	88	336	FALSE
+active_up	1	chr19p13	Ensembl 110 genes in cytogenetic band chr19p13	MSigDB C1	1.46E-11	1.77E-08	1.36E-07	1.77E-08	91	785	FALSE
+active_up	3	chr19q13	Ensembl 110 genes in cytogenetic band chr19q13	MSigDB C1	3.61E-07	1.26E-04	9.70E-04	4.38E-04	107	1190	FALSE
+active_up	2	chr1q23	Ensembl 110 genes in cytogenetic band chr1q23	MSigDB C1	8.91E-08	5.41E-05	4.15E-04	1.08E-04	34	226	FALSE
+active_up	GO: Molecular Functio	GO:0008047	enzyme activator activity	NA	1.64E-08	1.92E-06	1.60E-05	3.84E-05	137	697	FALSE
+active_up	GO: Molecular Functio	GO:0030234	enzyme regulator activity	NA	5.26E-11	9.45E-09	7.88E-08	1.23E-07	260	1438	FALSE
+active_up	GO: Cellular Component	GO:0030312	external encapsulating structure	NA	8.52E-40	5.02E-37	3.84E-36	1.00E-36	204	667	FALSE
+active_up	GO: Cellular Component	GO:0009897	external side of plasma membrane	NA	7.27E-35	1.71E-32	1.31E-31	8.56E-32	177	576	FALSE
+active_up	GO: Cellular Component	GO:0031012	extracellular matrix	NA	1.82E-39	7.16E-37	5.47E-36	2.15E-36	203	665	FALSE
+active_up	2	24006456	Extracellular matrix secretion by cardiac fibroblasts: role of microRNA-29b and microRNA-30c.	Pubmed	6.11E-51	1.07E-45	1.43E-44	2.15E-45	102	248	FALSE
+active_up	GO: Molecular Functio	GO:0005201	extracellular matrix structural constituent	NA	1.07E-23	8.29E-21	6.91E-20	2.49E-20	78	189	FALSE
+active_up	GO: Molecular Functio	GO:0030020	extracellular matrix structural constituent conferring tensile strength	NA	4.08E-15	1.59E-12	1.32E-11	9.52E-12	27	42	FALSE
+active_up	Coexpression Atlas	facebase RNAseq e14.5 palate poster oral Tgfbr2 WT 2500	facebase RNAseq e14.5 palate poster oral Tgfbr2 WT 2500	Gudmap RNAseq	2.54E-87	9.00E-85	8.11E-84	1.17E-83	451	1519	FALSE
+active_up	4	M39166	GAO LARGE INTESTINE ADULT CI MESENCHYMAL CELLS	C8: Cell Type Signature	1.68E-172	4.49E-169	4.42E-168	1.80E-168	252	361	FALSE
+active_up	3	M39167	GAO LARGE INTESTINE ADULT CJ IMMUNE CELLS	C8: Cell Type Signature	6.21E-173	2.21E-169	2.18E-168	6.63E-169	298	505	FALSE
+active_up	5	MODULE 46	Genes in the cancer module 46.	C4:CM: Cancer Modules	1.02E-41	1.89E-39	1.40E-38	9.43E-39	175	394	FALSE
+active_up	2	GGGAGGRR V$MAZ Q6	GGGAGGRR V$MAZ Q6	TFBS	1.17E-32	6.42E-30	4.86E-29	1.28E-29	321	1836	FALSE
+active_up	GO: Molecular Functio	GO:0005539	glycosaminoglycan binding	NA	2.20E-17	1.28E-14	1.07E-13	5.14E-14	86	270	FALSE
+active_up	GO: Molecular Functio	GO:0019838	growth factor binding	NA	7.45E-10	1.09E-07	9.06E-07	1.74E-06	49	160	FALSE
+active_up	GO: Molecular Functio	GO:0005096	GTPase activator activity	NA	4.10E-08	4.16E-06	3.47E-05	9.56E-05	69	289	FALSE
+active_up	GO: Molecular Functio	GO:0030695	GTPase regulator activity	NA	2.36E-13	6.88E-11	5.73E-10	5.50E-10	122	510	FALSE
+active_up	Coexpression Atlas	gudmap RNAseq e15.5 Podocytes 2500	gudmap RNAseq e15.5 Podocytes 2500	Gudmap RNAseq	1.26E-83	3.62E-81	3.26E-80	5.79E-80	506	1860	FALSE
+active_up	GO: Molecular Functio	GO:0008201	heparin binding	NA	1.24E-11	2.63E-09	2.19E-08	2.89E-08	60	197	FALSE
+active_up	3	hsa-miR-1275:mirSVR lowEffct	hsa-miR-1275:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	9.09E-96	2.49E-92	2.38E-91	7.45E-92	308	1825	FALSE
+active_up	2	hsa-miR-3151:mirSVR lowEffct	hsa-miR-3151:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	1.41E-99	5.79E-96	5.55E-95	1.16E-95	315	1842	FALSE
+active_up	4	hsa-miR-3184:mirSVR lowEffct	hsa-miR-3184:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	4.59E-93	9.42E-90	9.03E-89	3.77E-89	309	1880	FALSE
+active_up	1	hsa-miR-324-3p:mirSVR lowEffct	hsa-miR-324-3p:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	1.19E-99	5.79E-96	5.55E-95	9.78E-96	321	1907	FALSE
+active_up	5	hsa-miR-484:mirSVR lowEffct	hsa-miR-484:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	7.83E-92	1.29E-88	1.23E-87	6.42E-88	303	1833	FALSE
+active_up	5	20452482	Identification of fetal and maternal single nucleotide polymorphisms in candidate genes that predispose to spontaneous preterm labor with intact membranes.	Pubmed	5.61E-44	3.95E-39	5.27E-38	1.97E-38	82	186	FALSE
+active_up	4	SM00409	IG	SMART	2.03E-29	2.58E-26	2.41E-25	1.29E-25	144	421	FALSE
+active_up	5	IPR003599	Ig sub	InterPro	2.03E-29	2.58E-26	2.41E-25	1.29E-25	144	421	FALSE
+active_up	3	IPR007110	Ig-like dom	InterPro	1.49E-29	2.58E-26	2.41E-25	9.48E-26	162	503	FALSE
+active_up	2	IPR013783	Ig-like fold	InterPro	4.96E-34	1.58E-30	1.47E-29	3.16E-30	213	706	FALSE
+active_up	1	MODULE 84	Immune (humoral) and inflammatory response.	C4:CM: Cancer Modules	1.92E-76	1.77E-73	1.31E-72	1.77E-73	268	546	FALSE
+active_up	GO: Biological Process	GO:0002252	immune effector process	NA	1.36E-55	1.45E-52	1.43E-51	1.45E-51	267	842	FALSE
+active_up	GO: Molecular Functio	GO:0140375	immune receptor activity	NA	4.14E-24	4.83E-21	4.03E-20	9.67E-21	72	163	TRUE
+active_up	4	MODULE 75	Immune response.	C4:CM: Cancer Modules	2.81E-44	6.45E-42	4.78E-41	2.58E-41	180	398	FALSE
+active_up	GO: Molecular Functio	GO:0019865	immunoglobulin binding	NA	1.01E-07	9.47E-06	7.89E-05	2.37E-04	17	34	FALSE
+active_up	GO: Biological Process	GO:0006954	inflammatory response	NA	3.67E-60	4.87E-57	4.80E-56	3.90E-56	318	1061	TRUE
+active_up	GO: Molecular Functio	GO:0005178	integrin binding	NA	3.08E-13	7.97E-11	6.64E-10	7.18E-10	58	173	FALSE
+active_up	2	594	I-set domain containing|Immunoglobulin like domain containing	genenames.org	2.73E-32	7.14E-30	4.88E-29	1.43E-29	81	193	FALSE
+active_up	5	int:JAK1	JAK1 interactions	NA	1.08E-10	3.14E-07	3.23E-06	1.78E-06	67	244	FALSE
+active_up	Pathway	M16476	KEGG CELL ADHESION MOLECULES CAMS	KEGG Legacy Pathways	2.74E-15	1.05E-12	9.49E-12	1.26E-11	55	133	FALSE
+active_up	Pathway	M4844	KEGG CHEMOKINE SIGNALING PATHWAY	KEGG Legacy Pathways	1.20E-16	6.14E-14	5.54E-13	5.53E-13	71	189	FALSE
+active_up	Pathway	M9809	KEGG CYTOKINE CYTOKINE RECEPTOR INTERACTION	KEGG Legacy Pathways	1.27E-19	9.74E-17	8.78E-16	5.84E-16	94	265	FALSE
+active_up	3	int:KIT	KIT interactions	NA	8.85E-14	4.86E-10	5.00E-09	1.46E-09	48	125	FALSE
+active_up	GO: Cellular Component	GO:0030027	lamellipodium	NA	7.23E-12	5.33E-10	4.07E-09	8.52E-09	66	234	FALSE
+active_up	5	MM457	LAZARO GENETIC MOUSE MODEL HIGH GRADE SMALL CELL NEUROENDOCRINE LUNG CARCINOMA DN	M2:CGP: Chemical and Genetic Perturbations	2.42E-157	5.16E-154	5.09E-153	2.58E-153	559	1809	FALSE
+active_up	GO: Biological Process	GO:0045321	leukocyte activation	NA	6.51E-80	1.73E-76	1.70E-75	6.91E-76	385	1227	FALSE
+active_up	5	EFO 0004308	leukocyte count	GWAS	3.13E-28	9.49E-25	9.68E-24	4.74E-24	298	1911	FALSE
+active_up	GO: Biological Process	GO:0002521	leukocyte differentiation	NA	3.27E-45	1.51E-42	1.49E-41	3.47E-41	248	841	FALSE
+active_up	GO: Biological Process	GO:0002443	leukocyte mediated immunity	NA	2.92E-46	1.63E-43	1.61E-42	3.10E-42	188	535	FALSE
+active_up	2	MM1335	LIU OVARIAN CANCER TUMORS AND XENOGRAFTS XDGS DN	M2:CGP: Chemical and Genetic Perturbations	0.00E+00	0.00E+00	0.00E+00	0.00E+00	766	1556	FALSE
+active_up	1	M45001	LIU OVARIAN CANCER TUMORS AND XENOGRAFTS XDGS DN	C2:CGP: Chemical and Genetic Perturbations	0.00E+00	0.00E+00	0.00E+00	0.00E+00	771	1716	FALSE
+active_up	1	C0023893	Liver Cirrhosis, Experimental	DisGeNET Curated	1.92E-74	2.91E-70	2.96E-69	2.91E-70	236	774	FALSE
+active_up	GO: Biological Process	GO:0040011	locomotion	NA	2.31E-55	2.23E-52	2.20E-51	2.46E-51	450	1861	FALSE
+active_up	3	MODULE 5	Lung genes.	C4:CM: Cancer Modules	1.66E-49	5.09E-47	3.76E-46	1.53E-46	198	434	FALSE
+active_up	3	HP:0002716	Lymphadenopathy	NA	2.03E-13	3.89E-10	3.68E-09	1.47E-09	79	247	FALSE
+active_up	GO: Biological Process	GO:0046649	lymphocyte activation	NA	2.14E-58	2.53E-55	2.49E-54	2.27E-54	304	1005	TRUE
+active_up	3	ctd:D058185	Magnetite Nanoparticles	CTD	5.45E-56	8.31E-52	9.40E-51	2.49E-51	340	1310	FALSE
+active_up	4	C0006142	Malignant neoplasm of breast	DisGeNET Curated	8.95E-31	3.39E-27	3.46E-26	1.36E-26	205	1074	FALSE
+active_up	GO: Cellular Component	GO:0098857	membrane microdomain	NA	1.37E-12	1.24E-10	9.48E-10	1.61E-09	107	455	FALSE
+active_up	GO: Cellular Component	GO:0045121	membrane raft	NA	2.80E-12	2.36E-10	1.80E-09	3.30E-09	106	454	FALSE
+active_up	2	int:MMP2	MMP2 interactions	NA	3.07E-14	2.53E-10	2.60E-09	5.06E-10	39	86	FALSE
+active_up	1	int:MMP9	MMP9 interactions	NA	1.18E-14	1.94E-10	2.00E-09	1.94E-10	34	66	FALSE
+active_up	3	EFO 0005091	monocyte count	GWAS	8.47E-32	4.27E-28	4.36E-27	1.28E-27	238	1319	FALSE
+active_up	Coexpression Atlas	GSM538239 500	Myeloid Cells, DC.103-11b+.Lv, CD45+ CD11c+ MHC-II + CD11b high CD103-, Liver, avg-3	Immgen.org, GSE15907	3.37E-99	2.22E-96	2.00E-95	1.55E-95	222	411	TRUE
+active_up	Coexpression Atlas	GSM854271 500	Myeloid Cells, DC.103-11b+24-.Lu, MHCII+ CD11c+ CD103- CD11b+ CD24-, Lung, avg-2	Immgen.org, GSE15907	2.92E-83	7.46E-81	6.72E-80	1.34E-79	206	414	TRUE
+active_up	Coexpression Atlas	GSM854276 500	Myeloid Cells, DC.11cloSer.Salm3.SI, CD45+ MHCII+ Gr1- CD11c-lo CD11b+, Small Intestine, avg-4	Immgen.org, GSE15907	2.31E-81	4.82E-79	4.35E-78	1.06E-77	190	364	FALSE
+active_up	Coexpression Atlas	GSM854280 500	Myeloid Cells, DC.11cloSer.SI, CD45+ MHCII+ CD11c-lo CD11b+, Small Intestine, avg-5	Immgen.org, GSE15907	1.52E-83	4.11E-81	3.70E-80	6.98E-80	196	377	TRUE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	NA	ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation	FALSE
+active_up	1	20237496	New genetic associations detected in a host response study to hepatitis B vaccine.	Pubmed	3.48E-87	1.22E-81	1.63E-80	1.22E-81	246	824	FALSE
+active_up	2	ctd:C029938	nickel sulfate	CTD	7.46E-57	1.71E-52	1.93E-51	3.41E-52	390	1600	FALSE
+active_up	ToppCell Atlas	846852943a8ff60f746fd49498240e25ca1c1b09	NS-control-d 0-4-Myeloid|d 0-4 / Location, Severity, dps group, Lineage and Cell class of Upper airway (combined)	Upper Airway and Bronchi Atlas of COVID-19 Patients	6.74E-158	2.76E-154	3.02E-153	2.20E-153	157	198	FALSE
+active_up	ToppCell Atlas	496a1115071a1be6928786192de49f3adf197dfb	NS-control-d 0-4-Myeloid-Non-resident Macrophage|d 0-4 / Location, Severity, dps group, Lineage and Cell class of Upper airway (combined)	Upper Airway and Bronchi Atlas of COVID-19 Patients	6.82E-155	1.86E-151	2.04E-150	2.23E-150	155	197	FALSE
+active_up	ToppCell Atlas	1791f1b1195ac1735ca2c1e6adf04a7f39d63ac1	NS-moderate-d 0-4-Myeloid|d 0-4 / Location, Severity, dps group, Lineage and Cell class of Upper airway (combined)	Upper Airway and Bronchi Atlas of COVID-19 Patients	1.89E-152	3.87E-149	4.25E-148	6.20E-148	154	198	FALSE
+active_up	GO: Molecular Functio	GO:0060589	nucleoside-triphosphatase regulator activity	NA	4.22E-13	9.84E-11	8.20E-10	9.84E-10	122	514	FALSE
+active_up	4	ctd:C041786	palm oil	CTD	9.00E-56	1.03E-51	1.16E-50	4.12E-51	407	1720	FALSE
+active_up	Pathway	M18	PID INTEGRIN1 PATHWAY	PID Pathways	4.83E-15	1.71E-12	1.55E-11	2.23E-11	36	66	FALSE
+active_up	GO: Biological Process	GO:0030335	positive regulation of cell migration	NA	2.01E-45	9.72E-43	9.57E-42	2.14E-41	222	706	FALSE
+active_up	GO: Biological Process	GO:0002684	positive regulation of immune system process	NA	1.39E-71	2.96E-68	2.91E-67	1.48E-67	372	1235	FALSE
+active_up	Coexpression Atlas	PP epoMEP 1000	PP epoMEP top-relative-expression-ranked 1000	PCBC	3.51E-85	1.15E-82	1.04E-81	1.62E-81	340	974	FALSE
+active_up	Coexpression Atlas	PP GMP 1000	PP GMP top-relative-expression-ranked 1000	PCBC	8.52E-99	4.90E-96	4.42E-95	3.92E-95	362	983	FALSE
+active_up	Coexpression Atlas	PP GMP 500	PP GMP top-relative-expression-ranked 500	PCBC	9.90E-80	1.82E-77	1.64E-76	4.56E-76	223	494	FALSE
+active_up	Coexpression Atlas	PP HSC 1000	PP HSC top-relative-expression-ranked 1000	PCBC	8.22E-83	1.89E-80	1.70E-79	3.78E-79	337	977	FALSE
+active_up	GO: Cellular Component	GO:0098636	protein complex involved in cell adhesion	NA	1.28E-11	7.51E-10	5.75E-09	1.50E-08	28	59	FALSE
+active_up	ToppCell Atlas	dff0ca657bfb42083000e3d0125b54480b034a93	proximal-3-Hematologic|3 / Location, Lineage, Cell class (ontology) and Donor from 10X sequencing (macrophage renamed)	Human Lung Cell Atlas (HLCA)	4.79E-150	7.47E-147	8.19E-146	1.57E-145	153	199	FALSE
+active_up	ToppCell Atlas	183e388ac837585c50fed1189496167c9e61511e	proximal-Hematologic|proximal / Location, Lineage, Cell class (ontology) and Donor from 10X sequencing (macrophage renamed)	Human Lung Cell Atlas (HLCA)	4.79E-150	7.47E-147	8.19E-146	1.57E-145	153	199	FALSE
+active_up	ToppCell Atlas	437e2f84b64d99928aedbab7366ff0ec91e74038	PSB-critical-LOC-Myeloid|LOC / Location, Severity, dps group, Lineage and Cell class of Upper airway (combined)	Upper Airway and Bronchi Atlas of COVID-19 Patients	1.81E-163	1.48E-159	1.63E-158	5.94E-159	160	198	FALSE
+active_up	ToppCell Atlas	eada9bcac5c113561b806bb800cd53c6bb78e16a	PSB-critical-LOC-Myeloid-Macrophage|LOC / Location, Severity, dps group, Lineage and Cell class of Upper airway (combined)	Upper Airway and Bronchi Atlas of COVID-19 Patients	4.79E-150	7.47E-147	8.19E-146	1.57E-145	153	199	FALSE
+active_up	Pathway	M27103	REACTOME ASSEMBLY OF COLLAGEN FIBRILS AND OTHER MULTIMERIC STRUCTURES	Reactome Pathways	9.15E-14	1.69E-11	1.52E-10	4.22E-10	33	61	FALSE
+active_up	Pathway	MM14796	REACTOME ASSEMBLY OF COLLAGEN FIBRILS AND OTHER MULTIMERIC STRUCTURES	Reactome Pathways	5.79E-15	1.77E-12	1.60E-11	2.67E-11	30	48	FALSE
+active_up	Pathway	M26953	REACTOME COLLAGEN DEGRADATION	Reactome Pathways	1.04E-14	2.83E-12	2.55E-11	4.80E-11	35	64	FALSE
+active_up	Pathway	M631	REACTOME COLLAGEN FORMATION	Reactome Pathways	3.48E-14	7.66E-12	6.90E-11	1.61E-10	42	90	FALSE
+active_up	Pathway	MM14573	REACTOME COLLAGEN FORMATION	Reactome Pathways	1.63E-14	3.77E-12	3.40E-11	7.53E-11	39	78	FALSE
+active_up	Pathway	M1060	REACTOME CYTOKINE SIGNALING IN IMMUNE SYSTEM	Reactome Pathways	2.15E-19	1.42E-16	1.28E-15	9.91E-16	200	792	FALSE
+active_up	Pathway	M587	REACTOME DEGRADATION OF THE EXTRACELLULAR MATRIX	Reactome Pathways	3.72E-14	7.81E-12	7.04E-11	1.72E-10	55	140	FALSE
+active_up	Pathway	M610	REACTOME EXTRACELLULAR MATRIX ORGANIZATION	Reactome Pathways	1.35E-31	6.23E-28	5.61E-27	6.23E-28	122	300	FALSE
+active_up	Pathway	MM14572	REACTOME EXTRACELLULAR MATRIX ORGANIZATION	Reactome Pathways	4.97E-29	1.15E-25	1.03E-24	2.29E-25	107	256	FALSE
+active_up	Pathway	MM14472	REACTOME HEMOSTASIS	Reactome Pathways	6.14E-15	1.77E-12	1.60E-11	2.83E-11	144	559	FALSE
+active_up	Pathway	MM14662	REACTOME IMMUNE SYSTEM	Reactome Pathways	6.83E-24	1.05E-20	9.47E-20	3.15E-20	375	1707	FALSE
+active_up	Pathway	MM14661	REACTOME INNATE IMMUNE SYSTEM	Reactome Pathways	5.12E-16	2.36E-13	2.13E-12	2.36E-12	229	1011	TRUE
+active_up	Pathway	M16441	REACTOME INTEGRIN CELL SURFACE INTERACTIONS	Reactome Pathways	2.11E-21	1.95E-18	1.76E-17	9.76E-18	49	85	FALSE
+active_up	Pathway	MM14867	REACTOME INTEGRIN CELL SURFACE INTERACTIONS	Reactome Pathways	1.87E-22	2.16E-19	1.95E-18	8.64E-19	46	73	FALSE
+active_up	Pathway	M27605	REACTOME INTERLEUKIN 10 SIGNALING	Reactome Pathways	1.18E-14	3.04E-12	2.74E-11	5.46E-11	29	46	FALSE
+active_up	Pathway	M27609	REACTOME INTERLEUKIN 4 AND INTERLEUKIN 13 SIGNALING	Reactome Pathways	7.74E-16	3.25E-13	2.93E-12	3.57E-12	50	111	FALSE
+active_up	Pathway	MM15330	REACTOME NEUTROPHIL DEGRANULATION	Reactome Pathways	7.54E-14	1.45E-11	1.31E-10	3.48E-10	134	522	FALSE
+active_up	Pathway	M874	REACTOME SIGNALING BY INTERLEUKINS	Reactome Pathways	2.53E-18	1.46E-15	1.32E-14	1.17E-14	136	474	FALSE
+active_up	GO: Biological Process	GO:0050865	regulation of cell activation	NA	1.24E-65	2.20E-62	2.16E-61	1.32E-61	279	819	TRUE
+active_up	GO: Biological Process	GO:0030155	regulation of cell adhesion	NA	2.61E-55	2.31E-52	2.27E-51	2.77E-51	292	972	FALSE
+active_up	GO: Biological Process	GO:0001817	regulation of cytokine production	NA	7.93E-45	3.37E-42	3.32E-41	8.42E-41	284	1038	FALSE
+active_up	GO: Biological Process	GO:0050776	regulation of immune response	NA	3.50E-50	2.66E-47	2.62E-46	3.72E-46	297	1050	FALSE
+active_up	GO: Biological Process	GO:0002682	regulation of immune system process	NA	7.43E-87	3.94E-83	3.88E-82	7.88E-83	507	1812	FALSE
+active_up	GO: Biological Process	GO:0002694	regulation of leukocyte activation	NA	1.22E-61	1.85E-58	1.82E-57	1.30E-57	259	754	FALSE
+active_up	GO: Biological Process	GO:0051249	regulation of lymphocyte activation	NA	2.30E-49	1.63E-46	1.60E-45	2.44E-45	214	634	FALSE
+active_up	GO: Biological Process	GO:0032101	regulation of response to external stimulus	NA	2.02E-52	1.65E-49	1.62E-48	2.14E-48	364	1396	FALSE
+active_up	ToppCell Atlas	7b6c69df943842b566a596e30bb50dbe80dccc83	renal cortex nuclei-Adult normal reference-Immune|Adult normal reference / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	9.81E-151	1.78E-147	1.96E-146	3.21E-146	152	195	FALSE
+active_up	ToppCell Atlas	72cd61b868d57862ec9c230ea68913d3829b0f2b	renal cortex nuclei-Adult normal reference-Immune-Myeloid-Monocytic|Adult normal reference / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	4.44E-153	9.69E-150	1.06E-148	1.45E-148	154	197	FALSE
+active_up	ToppCell Atlas	0523aec9713ae21e6b879aa98e07fa2576610d5f	renal cortex nuclei-Hypertensive with+without-CKD-Immune|Hypertensive with+without-CKD / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	4.44E-153	9.69E-150	1.06E-148	1.45E-148	154	197	FALSE
+active_up	ToppCell Atlas	04adf46975aa4194ea40c7480f8a517def5d929c	renal cortex nuclei-Hypertensive with+without-CKD-Immune-Myeloid|Hypertensive with+without-CKD / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	2.00E-155	6.53E-152	7.16E-151	6.53E-151	156	199	FALSE
+active_up	ToppCell Atlas	96883ad8e189a46ed5b7eaafc0543e53682d26ed	renal cortex nuclei-Renal AKI (acute kidney injury)-Immune-Myeloid|Renal AKI (acute kidney injury) / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	2.98E-154	7.50E-151	8.23E-150	9.75E-150	155	198	FALSE
+active_up	ToppCell Atlas	623f9d64c9e800d2d7f623392bf2f22b563f0249	renal cortex nuclei-Renal AKI (acute kidney injury)-Immune-Myeloid-Monocytic|Renal AKI (acute kidney injury) / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	7.01E-149	1.04E-145	1.14E-144	2.29E-144	152	198	FALSE
+active_up	ToppCell Atlas	0866ab6792cee274a71991d5c37a37f574ff446e	renal medulla nuclei-Adult normal reference-Immune|Adult normal reference / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	8.99E-148	1.28E-144	1.40E-143	2.94E-143	150	194	FALSE
+active_up	ToppCell Atlas	2d485373bfd9bb4bb9236bf0b31d03e132c8018f	renal medulla nuclei-Hypertensive with+without-CKD-Immune|Hypertensive with+without-CKD / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	3.39E-156	1.23E-152	1.35E-151	1.11E-151	155	195	FALSE
+active_up	ToppCell Atlas	4370473693d2dd4a8c451a4c477eb79baa33ae12	renal medulla nuclei-Hypertensive with+without-CKD-Immune-Myeloid|Hypertensive with+without-CKD / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	6.60E-152	1.27E-148	1.40E-147	2.16E-147	153	196	FALSE
+active_up	ToppCell Atlas	ce8215d503cad3a9bc7d5d2be4adb57408015593	renal medulla nuclei-Renal AKI (acute kidney injury)-Immune|Renal AKI (acute kidney injury) / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	3.69E-147	4.83E-144	5.30E-143	1.21E-142	150	195	FALSE
+active_up	ToppCell Atlas	96f16bcd393a0d3f8df479b172b5360ae5a1e663	renal papilla nuclei-Adult normal reference-Immune|Adult normal reference / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	5.13E-155	1.53E-151	1.67E-150	1.68E-150	154	194	FALSE
+active_up	4	RGAGGAARY V$PU1 Q6	RGAGGAARY V$PU1 Q6	TFBS	2.37E-28	6.50E-26	4.92E-25	2.60E-25	112	400	FALSE
+active_up	2	C0003873	Rheumatoid Arthritis	DisGeNET Curated	1.62E-37	1.23E-33	1.25E-32	2.46E-33	77	174	FALSE
+active_up	GO: Cellular Component	GO:0001726	ruffle	NA	2.67E-10	1.37E-08	1.05E-07	3.14E-07	58	209	FALSE
+active_up	1	RYTTCCTG V$ETS2 B	RYTTCCTG V$ETS2 B	TFBS	1.39E-52	1.53E-49	1.16E-48	1.53E-49	229	866	FALSE
+active_up	GO: Cellular Component	GO:0030141	secretory granule	NA	7.00E-12	5.33E-10	4.07E-09	8.24E-09	191	1002	FALSE
+active_up	GO: Cellular Component	GO:0030667	secretory granule membrane	NA	5.86E-14	6.28E-12	4.80E-11	6.90E-11	90	339	TRUE
+active_up	GO: Cellular Component	GO:0099503	secretory vesicle	NA	8.44E-12	5.64E-10	4.31E-09	9.95E-09	227	1248	FALSE
+active_up	5	741	SH2 domain containing|Suppressors of cytokine signaling	genenames.org	1.43E-15	1.49E-13	1.02E-12	7.46E-13	40	101	FALSE
+active_up	GO: Cellular Component	GO:0098552	side of membrane	NA	2.48E-35	7.30E-33	5.59E-32	2.92E-32	227	835	FALSE
+active_up	GO: Molecular Functio	GO:0005102	signaling receptor binding	NA	3.44E-25	8.04E-22	6.70E-21	8.04E-22	363	1756	FALSE
+active_up	GO: Molecular Functio	GO:0031267	small GTPase binding	NA	2.99E-08	3.33E-06	2.77E-05	6.98E-05	77	333	FALSE
+active_up	Coexpression Atlas	GSM777043 500	Stromal Cells, Fi.MTS15+.Th, CD45- PDGFRa+ MTS15+, Thymus, avg-3	Immgen.org, GSE15907	3.54E-81	7.08E-79	6.38E-78	1.63E-77	212	445	FALSE
+active_up	GO: Biological Process	GO:0042110	T cell activation	NA	3.72E-48	2.47E-45	2.43E-44	3.95E-44	229	717	TRUE
+active_up	GO: Biological Process	GO:0042330	taxis	NA	1.39E-45	7.03E-43	6.92E-42	1.48E-41	251	853	FALSE
+active_up	GO: Cellular Component	GO:0070820	tertiary granule	NA	1.23E-10	6.90E-09	5.28E-08	1.45E-07	50	164	FALSE
+active_up	GO: Cellular Component	GO:0070821	tertiary granule membrane	NA	2.08E-10	1.11E-08	8.52E-08	2.45E-07	30	73	FALSE
+active_up	3	TGGAAA V$NFAT Q4 01	TGGAAA V$NFAT Q4 01	TFBS	8.43E-32	3.08E-29	2.33E-28	9.24E-29	275	1491	FALSE
+active_up	5	HP:0020100	Unusual fungal infection	NA	2.68E-13	3.89E-10	3.68E-09	1.95E-09	48	115	FALSE
+active_up	GO: Biological Process	GO:0001944	vasculature development	NA	4.95E-45	2.19E-42	2.16E-41	5.25E-41	323	1254	FALSE
+active_up	GO: Cellular Component	GO:0012506	vesicle membrane	NA	8.62E-12	5.64E-10	4.31E-09	1.02E-08	238	1324	FALSE
+active_up	2	MODULE 45	Whole blood genes.	C4:CM: Cancer Modules	1.79E-57	8.25E-55	6.11E-54	1.65E-54	251	581	FALSE
+active_up	Pathway	MM15943	WP CHEMOKINE SIGNALING PATHWAY	WikiPathways	5.31E-15	1.75E-12	1.58E-11	2.45E-11	67	184	FALSE
+active_up	Pathway	M39508	WP TYROBP CAUSAL NETWORK IN MICROGLIA	WikiPathways	4.83E-14	9.69E-12	8.74E-11	2.23E-10	33	60	FALSE
+active_up	Pathway	MM15966	WP TYROBP CAUSAL NETWORK IN MICROGLIA	WikiPathways	1.27E-14	3.08E-12	2.77E-11	5.85E-11	33	58	FALSE
+remission_down	3	2.60.40.10	-	Gene3D	1.02E-22	9.38E-20	7.98E-19	2.82E-19	84	663	FALSE
+remission_down	ToppCell Atlas	2969515fa33d911e4eb55634fa2846f68a9f7896	11.5-Airway-Immune|Airway / Age, Tissue, Lineage and Cell class	Human Fetal Lung in Development	5.01E-109	1.61E-104	1.77E-103	1.61E-104	92	200	FALSE
+remission_down	ToppCell Atlas	f73573b5d9c735f2a2c718472b7d12b10f2a3718	11.5-Airway-Immune-Hematopoietic, Macrophage|Airway / Age, Tissue, Lineage and Cell class	Human Fetal Lung in Development	4.70E-103	2.16E-99	2.36E-98	1.51E-98	88	196	FALSE
+remission_down	ToppCell Atlas	dd61854de202c805100bad58f1ce08c3bd04bb58	11.5-Distal-Immune-Hematopoietic, Macrophage|Distal / Age, Tissue, Lineage and Cell class	Human Fetal Lung in Development	1.38E-100	3.17E-97	3.47E-96	4.44E-96	87	199	FALSE
+remission_down	5	19q13.3	19q13.3	NA	7.74E-06	9.02E-04	6.27E-03	4.51E-03	9	82	FALSE
+remission_down	ToppCell Atlas	be038619157aeaa7a57ebd66392de940df4f8127	3'-GW trimst-1-SmallIntestine-Hematopoietic-Myeloid|GW trimst-1 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	4.10E-99	4.88E-96	5.35E-95	1.32E-94	86	198	FALSE
+remission_down	ToppCell Atlas	09a2c0c0f9c2442743414236c2d5c1f27be66e4c	3'-GW trimst-2-SmallIntestine-Hematopoietic-Myeloid|GW trimst-2 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	4.49E-101	1.11E-97	1.22E-96	1.44E-96	87	197	FALSE
+remission_down	ToppCell Atlas	23314bed02edadccdc5da4fa153142a25e4a440e	5'-GW trimst-1.5-SmallIntestine-Hematopoietic|GW trimst-1.5 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	8.69E-108	9.31E-104	1.02E-102	2.79E-103	91	198	FALSE
+remission_down	ToppCell Atlas	79c8ab15e73f727c5e110ab9eab3ccb5edf9f714	5'-GW trimst-1.5-SmallIntestine-Hematopoietic-Myeloid|GW trimst-1.5 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	4.10E-99	4.88E-96	5.35E-95	1.32E-94	86	198	FALSE
+remission_down	4	24952961	A high-resolution spatiotemporal atlas of gene expression of the developing mouse brain.	Pubmed	1.89E-14	4.62E-10	5.58E-09	1.85E-09	96	1937	FALSE
+remission_down	Mouse Phenotype	MP:0002420	abnormal adaptive immunity	NA	2.35E-34	1.10E-30	9.94E-30	1.10E-30	164	1481	TRUE
+remission_down	4	HP:0002846	Abnormal B cell morphology	NA	7.46E-09	5.93E-06	5.31E-05	3.23E-05	35	352	FALSE
+remission_down	Mouse Phenotype	MP:0012382	abnormal blood cell physiology	NA	2.21E-30	2.07E-27	1.87E-26	1.03E-26	160	1532	FALSE
+remission_down	Mouse Phenotype	MP:0002421	abnormal cell-mediated immunity	NA	1.57E-32	3.68E-29	3.32E-28	7.36E-29	159	1454	TRUE
+remission_down	5	HP:0010987	Abnormal cellular immune system morphology	NA	8.23E-09	5.93E-06	5.31E-05	3.56E-05	56	759	FALSE
+remission_down	Mouse Phenotype	MP:0003009	abnormal cytokine secretion	NA	1.62E-19	6.90E-17	6.23E-16	7.59E-16	82	665	FALSE
+remission_down	Mouse Phenotype	MP:0002462	abnormal granulocyte physiology	NA	7.42E-22	3.86E-19	3.49E-18	3.48E-18	51	250	TRUE
+remission_down	Mouse Phenotype	MP:0001545	abnormal hematopoietic system physiology	NA	3.39E-29	2.65E-26	2.39E-25	1.59E-25	163	1617	FALSE
+remission_down	Mouse Phenotype	MP:0001819	abnormal immune cell physiology	NA	6.92E-32	1.08E-28	9.75E-28	3.24E-28	157	1441	FALSE
+remission_down	Mouse Phenotype	MP:0002723	abnormal immune serum protein physiology	NA	1.21E-24	8.06E-22	7.28E-21	5.65E-21	125	1155	FALSE
+remission_down	1	HP:0032251	Abnormal immune system morphology	NA	3.33E-09	5.93E-06	5.31E-05	1.44E-05	58	783	FALSE
+remission_down	Mouse Phenotype	MP:0005000	abnormal immune tolerance	NA	1.06E-17	3.48E-15	3.14E-14	4.95E-14	59	403	FALSE
+remission_down	Mouse Phenotype	MP:0001845	abnormal inflammatory response	NA	7.11E-15	1.39E-12	1.25E-11	3.33E-11	113	1301	FALSE
+remission_down	Mouse Phenotype	MP:0002419	abnormal innate immunity	NA	4.64E-22	2.72E-19	2.46E-18	2.18E-18	86	660	TRUE
+remission_down	Mouse Phenotype	MP:0002442	abnormal leukocyte physiology	NA	4.02E-31	4.71E-28	4.25E-27	1.89E-27	154	1416	FALSE
+remission_down	Mouse Phenotype	MP:0000717	abnormal lymphocyte cell number	NA	4.40E-15	8.95E-13	8.08E-12	2.06E-11	117	1361	FALSE
+remission_down	Mouse Phenotype	MP:0002619	abnormal lymphocyte morphology	NA	2.41E-15	5.13E-13	4.63E-12	1.13E-11	123	1454	FALSE
+remission_down	Mouse Phenotype	MP:0003945	abnormal lymphocyte physiology	NA	5.95E-16	1.33E-13	1.20E-12	2.79E-12	96	978	FALSE
+remission_down	Mouse Phenotype	MP:0008247	abnormal mononuclear cell morphology	NA	7.08E-18	2.55E-15	2.30E-14	3.32E-14	151	1838	FALSE
+remission_down	Mouse Phenotype	MP:0002463	abnormal neutrophil physiology	NA	1.11E-17	3.48E-15	3.14E-14	5.21E-14	37	164	FALSE
+remission_down	Mouse Phenotype	MP:0008195	abnormal professional antigen presenting cell morphology	NA	9.88E-17	2.44E-14	2.20E-13	4.63E-13	81	724	FALSE
+remission_down	Mouse Phenotype	MP:0002452	abnormal professional antigen presenting cell physiology	NA	9.35E-21	4.38E-18	3.96E-17	4.38E-17	107	995	FALSE
+remission_down	Mouse Phenotype	MP:0005005	abnormal self tolerance	NA	2.86E-17	7.44E-15	6.72E-14	1.34E-13	58	399	FALSE
+remission_down	Mouse Phenotype	MP:0002425	abnormal susceptibility to autoimmune disorder	NA	2.11E-14	3.94E-12	3.56E-11	9.86E-11	46	307	FALSE
+remission_down	2	HP:0011122	Abnormality of skin physiology	NA	4.14E-09	5.93E-06	5.31E-05	1.79E-05	48	583	FALSE
+remission_down	GO: Cellular Component	GO:0015629	actin cytoskeleton	NA	2.35E-05	1.01E-03	7.16E-03	1.61E-02	40	565	FALSE
+remission_down	GO: Biological Process	GO:0002253	activation of immune response	NA	2.70E-17	7.23E-15	6.75E-14	1.74E-13	67	600	FALSE
+remission_down	GO: Biological Process	GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	NA	1.21E-17	3.70E-15	3.46E-14	7.77E-14	55	415	FALSE
+remission_down	2	ctd:D000395	Air Pollutants, Occupational	CTD	3.07E-14	4.58E-10	4.98E-09	9.16E-10	66	725	FALSE
+remission_down	Mouse Phenotype	MP:0001844	autoimmune response	NA	2.25E-17	6.21E-15	5.61E-14	1.06E-13	58	397	FALSE
+remission_down	5	EFO 0005090	basophil count	GWAS	9.44E-09	1.20E-05	1.13E-04	6.09E-05	35	483	FALSE
+remission_down	4	ctd:C030935	benz(a)anthracene	CTD	4.28E-12	3.19E-08	3.47E-07	1.28E-07	88	1252	FALSE
+remission_down	GO: Cellular Component	GO:0032059	bleb	NA	2.68E-04	7.68E-03	5.46E-02	1.84E-01	4	10	FALSE
+remission_down	GO: Molecular Functio	GO:0005509	calcium ion binding	NA	4.66E-06	4.95E-04	3.83E-03	5.94E-03	54	779	FALSE
+remission_down	GO: Molecular Functio	GO:0030246	carbohydrate binding	NA	1.95E-08	4.98E-06	3.85E-05	2.49E-05	34	317	FALSE
+remission_down	GO: Molecular Functio	GO:0038024	cargo receptor activity	NA	1.38E-05	1.10E-03	8.48E-03	1.76E-02	14	99	FALSE
+remission_down	1	471	CD molecules|C-type lectin domain family	genenames.org	1.01E-28	2.62E-26	1.61E-25	2.62E-26	62	394	FALSE
+remission_down	2	590	CD molecules|V-set domain containing|Sialic acid binding Ig like lectins	genenames.org	1.98E-15	2.57E-13	1.58E-12	5.14E-13	29	163	FALSE
+remission_down	GO: Biological Process	GO:0001775	cell activation	NA	2.76E-36	8.86E-33	8.28E-32	1.77E-32	150	1410	FALSE
+remission_down	GO: Biological Process	GO:0007155	cell adhesion	NA	9.74E-21	4.47E-18	4.18E-17	6.26E-17	138	1735	FALSE
+remission_down	GO: Cellular Component	GO:0031252	cell leading edge	NA	1.23E-04	4.45E-03	3.17E-02	8.46E-02	35	507	FALSE
+remission_down	GO: Cellular Component	GO:0009986	cell surface	NA	1.14E-19	7.85E-17	5.58E-16	7.85E-17	107	1184	FALSE
+remission_down	1	ctd:D002737	Chloroprene	CTD	7.76E-17	2.31E-12	2.52E-11	2.31E-12	104	1349	FALSE
+remission_down	GO: Cellular Component	GO:0062023	collagen-containing extracellular matrix	NA	3.07E-04	8.44E-03	6.00E-02	2.11E-01	35	532	FALSE
+remission_down	2	C0009402	Colorectal Carcinoma	DisGeNET Curated	1.14E-09	3.15E-06	2.94E-05	7.34E-06	46	702	FALSE
+remission_down	GO: Molecular Functio	GO:0015026	coreceptor activity	NA	8.84E-06	7.51E-04	5.81E-03	1.13E-02	12	71	FALSE
+remission_down	5	494	C-type lectin domain family	genenames.org	3.78E-10	1.96E-08	1.20E-07	9.79E-08	13	47	FALSE
+remission_down	GO: Molecular Functio	GO:0004896	cytokine receptor activity	NA	3.06E-07	5.64E-05	4.36E-04	3.90E-04	16	95	TRUE
+remission_down	GO: Cellular Component	GO:0030659	cytoplasmic vesicle membrane	NA	2.83E-06	1.62E-04	1.15E-03	1.95E-03	78	1304	FALSE
+remission_down	Mouse Phenotype	MP:0011182	decreased hematopoietic cell number	NA	1.57E-17	4.60E-15	4.15E-14	7.36E-14	144	1728	FALSE
+remission_down	Mouse Phenotype	MP:0000221	decreased leukocyte cell number	NA	6.00E-19	2.34E-16	2.11E-15	2.81E-15	123	1309	FALSE
+remission_down	Mouse Phenotype	MP:0005016	decreased lymphocyte cell number	NA	1.80E-16	4.21E-14	3.80E-13	8.42E-13	97	976	FALSE
+remission_down	ToppCell Atlas	ab2213e3742f92798922ea318d76328b6ca18b13	Dendritic cell|World / shred by cell class for turbinate	Respiratory Tissues from Nasal Brushing to Parenchyma	4.76E-108	7.66E-104	8.39E-103	1.53E-103	91	197	FALSE
+remission_down	3	M40157	DESCARTES FETAL CEREBELLUM MICROGLIA	C8: Cell Type Signature	1.89E-78	5.93E-75	5.77E-74	1.78E-74	136	652	FALSE
+remission_down	5	M40210	DESCARTES FETAL INTESTINE MYELOID CELLS	C8: Cell Type Signature	2.12E-67	4.00E-64	3.89E-63	2.00E-63	82	230	FALSE
+remission_down	4	MM3641	DESCARTES ORGANOGENESIS WHITE BLOOD CELLS	M8: Cell Type Signature	1.67E-71	3.93E-68	3.82E-67	1.57E-67	126	615	FALSE
+remission_down	2	21308776	DLK1 is a novel regulator of bone mass that mediates estrogen deficiency-induced bone loss in mice.	Pubmed	7.17E-19	3.51E-14	4.24E-13	7.02E-14	28	145	FALSE
+remission_down	4	chr17p13	Ensembl 110 genes in cytogenetic band chr17p13	MSigDB C1	5.32E-06	7.75E-04	5.38E-03	3.10E-03	19	347	FALSE
+remission_down	1	chr19p13	Ensembl 110 genes in cytogenetic band chr19p13	MSigDB C1	9.54E-11	5.56E-08	3.86E-07	5.56E-08	41	785	FALSE
+remission_down	2	chr19q13	Ensembl 110 genes in cytogenetic band chr19q13	MSigDB C1	3.14E-06	7.75E-04	5.38E-03	1.83E-03	42	1190	FALSE
+remission_down	3	chr1q23	Ensembl 110 genes in cytogenetic band chr1q23	MSigDB C1	5.31E-06	7.75E-04	5.38E-03	3.09E-03	15	226	FALSE
+remission_down	GO: Cellular Component	GO:0009897	external side of plasma membrane	NA	1.44E-18	4.96E-16	3.53E-15	9.92E-16	68	576	FALSE
+remission_down	GO: Cellular Component	GO:0032997	Fc receptor complex	NA	1.42E-06	1.09E-04	7.72E-04	9.77E-04	6	12	FALSE
+remission_down	GO: Cellular Component	GO:0032998	Fc-epsilon receptor I complex	NA	1.42E-07	1.95E-05	1.38E-04	9.73E-05	6	9	TRUE
+remission_down	4	555	Fibronectin type III domain containing	genenames.org	1.52E-10	9.85E-09	6.04E-08	3.94E-08	23	160	FALSE
+remission_down	GO: Cellular Component	GO:0101003	ficolin-1-rich granule membrane	NA	2.63E-04	7.68E-03	5.46E-02	1.81E-01	9	61	FALSE
+remission_down	Coexpression Atlas	geo heart 2500 K4	geo heart top-relative-expression-ranked 2500 k-means-cluster#4	PCBC	1.56E-47	7.03E-45	6.25E-44	6.33E-44	83	334	FALSE
+remission_down	3	HP:0001913	Granulocytopenia	NA	5.21E-09	5.93E-06	5.31E-05	2.25E-05	15	67	FALSE
+remission_down	GO: Molecular Functio	GO:0005096	GTPase activator activity	NA	2.24E-05	1.56E-03	1.21E-02	2.86E-02	26	289	FALSE
+remission_down	GO: Molecular Functio	GO:0030695	GTPase regulator activity	NA	6.53E-10	2.71E-07	2.10E-06	8.33E-07	49	510	FALSE
+remission_down	GO: Molecular Functio	GO:0005085	guanyl-nucleotide exchange factor activity	NA	4.23E-07	6.73E-05	5.20E-04	5.39E-04	26	233	FALSE
+remission_down	GO: Molecular Functio	GO:0030107	HLA-A specific inhibitory MHC class I receptor activity	NA	8.47E-06	7.51E-04	5.81E-03	1.08E-02	4	5	FALSE
+remission_down	GO: Molecular Functio	GO:0030109	HLA-B specific inhibitory MHC class I receptor activity	NA	2.47E-05	1.57E-03	1.22E-02	3.14E-02	4	6	FALSE
+remission_down	2	hsa-miR-1909:mirSVR lowEffct	hsa-miR-1909:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	1.70E-30	6.45E-27	6.14E-26	1.29E-26	97	1900	FALSE
+remission_down	3	hsa-miR-3175:mirSVR lowEffct	hsa-miR-3175:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	9.01E-30	2.28E-26	2.17E-25	6.83E-26	94	1829	FALSE
+remission_down	1	hsa-miR-324-3p:mirSVR lowEffct	hsa-miR-324-3p:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	2.01E-34	1.52E-30	1.45E-29	1.52E-30	103	1907	FALSE
+remission_down	5	hsa-miR-4254:mirSVR lowEffct	hsa-miR-4254:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	3.62E-27	5.44E-24	5.18E-23	2.74E-23	93	1944	FALSE
+remission_down	4	hsa-miR-920:mirSVR lowEffct	hsa-miR-920:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	1.31E-29	2.48E-26	2.35E-25	9.90E-26	96	1913	FALSE
+remission_down	1	SM00409	IG	SMART	4.77E-23	6.61E-20	5.62E-19	1.32E-19	66	421	FALSE
+remission_down	2	IPR003599	Ig sub	InterPro	4.77E-23	6.61E-20	5.62E-19	1.32E-19	66	421	FALSE
+remission_down	5	IPR007110	Ig-like dom	InterPro	2.40E-21	1.33E-18	1.13E-17	6.67E-18	70	503	FALSE
+remission_down	4	IPR013783	Ig-like fold	InterPro	4.29E-22	2.97E-19	2.53E-18	1.19E-18	86	706	FALSE
+remission_down	1	MODULE 84	Immune (humoral) and inflammatory response.	C4:CM: Cancer Modules	8.90E-23	5.97E-20	4.23E-19	5.97E-20	79	546	FALSE
+remission_down	GO: Biological Process	GO:0002252	immune effector process	NA	2.05E-23	1.46E-20	1.37E-19	1.32E-19	93	842	FALSE
+remission_down	GO: Molecular Functio	GO:0140375	immune receptor activity	NA	4.62E-15	5.88E-12	4.55E-11	5.88E-12	32	163	TRUE
+remission_down	GO: Biological Process	GO:0002768	immune response-regulating cell surface receptor signaling pathway	NA	2.25E-18	8.01E-16	7.49E-15	1.44E-14	55	400	FALSE
+remission_down	GO: Biological Process	GO:0002764	immune response-regulating signaling pathway	NA	1.29E-17	3.77E-15	3.53E-14	8.30E-14	65	561	FALSE
+remission_down	GO: Molecular Functio	GO:0019865	immunoglobulin binding	NA	2.48E-06	3.16E-04	2.44E-03	3.16E-03	9	34	FALSE
+remission_down	GO: Molecular Functio	GO:0019763	immunoglobulin receptor activity	NA	6.37E-05	3.38E-03	2.61E-02	8.12E-02	5	13	FALSE
+remission_down	GO: Biological Process	GO:0006954	inflammatory response	NA	1.59E-19	6.02E-17	5.62E-16	1.02E-15	99	1061	TRUE
+remission_down	GO: Molecular Functio	GO:0032396	inhibitory MHC class I receptor activity	NA	4.04E-05	2.29E-03	1.77E-02	5.15E-02	5	12	FALSE
+remission_down	GO: Cellular Component	GO:0008305	integrin complex	NA	1.00E-04	3.83E-03	2.73E-02	6.90E-02	7	32	FALSE
+remission_down	3	594	I-set domain containing|Immunoglobulin like domain containing	genenames.org	7.26E-12	6.27E-10	3.85E-09	1.88E-09	27	193	FALSE
+remission_down	Pathway	M16476	KEGG CELL ADHESION MOLECULES CAMS	KEGG Legacy Pathways	9.72E-07	1.73E-04	1.47E-03	2.76E-03	19	133	FALSE
+remission_down	Pathway	M4844	KEGG CHEMOKINE SIGNALING PATHWAY	KEGG Legacy Pathways	1.31E-06	2.07E-04	1.77E-03	3.73E-03	23	189	FALSE
+remission_down	Pathway	M2164	KEGG LEUKOCYTE TRANSENDOTHELIAL MIGRATION	KEGG Legacy Pathways	1.10E-05	1.38E-03	1.18E-02	3.13E-02	16	116	FALSE
+remission_down	4	int:KIT	KIT interactions	NA	1.05E-05	3.19E-02	3.18E-01	1.27E-01	16	125	FALSE
+remission_down	2	int:LCP2	LCP2 interactions	NA	4.45E-07	2.69E-03	2.69E-02	5.38E-03	12	55	FALSE
+remission_down	GO: Biological Process	GO:0045321	leukocyte activation	NA	1.83E-36	8.86E-33	8.28E-32	1.18E-32	139	1227	FALSE
+remission_down	GO: Biological Process	GO:0002443	leukocyte mediated immunity	NA	7.10E-22	3.80E-19	3.55E-18	4.56E-18	70	535	FALSE
+remission_down	2	M45001	LIU OVARIAN CANCER TUMORS AND XENOGRAFTS XDGS DN	C2:CGP: Chemical and Genetic Perturbations	8.23E-79	3.88E-75	3.78E-74	7.76E-75	211	1716	FALSE
+remission_down	1	MM1335	LIU OVARIAN CANCER TUMORS AND XENOGRAFTS XDGS DN	M2:CGP: Chemical and Genetic Perturbations	4.77E-86	4.50E-82	4.37E-81	4.50E-82	210	1556	FALSE
+remission_down	1	C0023893	Liver Cirrhosis, Experimental	DisGeNET Curated	3.82E-17	2.46E-13	2.30E-12	2.46E-13	63	774	FALSE
+remission_down	GO: Biological Process	GO:0046649	lymphocyte activation	NA	3.78E-29	6.07E-26	5.67E-25	2.43E-25	113	1005	TRUE
+remission_down	GO: Biological Process	GO:0046651	lymphocyte proliferation	NA	1.87E-17	5.22E-15	4.88E-14	1.20E-13	55	419	FALSE
+remission_down	GO: Cellular Component	GO:0098857	membrane microdomain	NA	2.17E-06	1.35E-04	9.63E-04	1.49E-03	37	455	FALSE
+remission_down	GO: Cellular Component	GO:0045121	membrane raft	NA	2.06E-06	1.35E-04	9.63E-04	1.41E-03	37	454	FALSE
+remission_down	GO: Molecular Functio	GO:0042288	MHC class I protein binding	NA	2.33E-05	1.56E-03	1.21E-02	2.97E-02	8	34	FALSE
+remission_down	GO: Molecular Functio	GO:0032393	MHC class I receptor activity	NA	2.91E-05	1.77E-03	1.37E-02	3.71E-02	6	18	FALSE
+remission_down	GO: Molecular Functio	GO:0023025	MHC class Ib protein complex binding	NA	7.04E-06	6.91E-04	5.34E-03	8.98E-03	5	9	FALSE
+remission_down	GO: Molecular Functio	GO:0032394	MHC class Ib receptor activity	NA	4.12E-05	2.29E-03	1.77E-02	5.26E-02	6	19	FALSE
+remission_down	GO: Molecular Functio	GO:0042287	MHC protein binding	NA	1.39E-06	1.97E-04	1.53E-03	1.78E-03	12	60	TRUE
+remission_down	5	23383108	Modulation of cytokine release and gene expression by the immunosuppressive domain of gp41 of HIV-1.	Pubmed	1.65E-13	3.22E-09	3.89E-08	1.61E-08	20	108	FALSE
+remission_down	3	EFO 0005091	monocyte count	GWAS	1.46E-09	3.15E-06	2.94E-05	9.44E-06	69	1319	FALSE
+remission_down	GO: Molecular Functio	GO:0048029	monosaccharide binding	NA	6.83E-05	3.48E-03	2.69E-02	8.71E-02	13	100	FALSE
+remission_down	Coexpression Atlas	GSM854258 500	Myeloid Cells, DC.103-11b+.Salm3.SI, CD45+ MHCII+ Gr1- CD11c-hi CD11b+ CD103- F480+, Small Intestine, avg-4	Immgen.org, GSE15907	1.45E-36	2.35E-34	2.09E-33	5.87E-33	75	368	FALSE
+remission_down	Coexpression Atlas	GSM854262 500	Myeloid Cells, DC.103-11b+.SI, CD45+ MHCII+ CD11c-hi CD11b+ CD103- F4/80+, Small Intestine, avg-7	Immgen.org, GSE15907	3.68E-38	7.52E-36	6.68E-35	1.49E-34	78	381	FALSE
+remission_down	Coexpression Atlas	GSM854273 500	Myeloid Cells, DC.103-11b+F4/80lo.Kd, CD45+ CD11c+ I-A/I-E+ CD11b+ F4/80lo, Kidney, avg-3	Immgen.org, GSE15907	2.28E-42	6.60E-40	5.87E-39	9.24E-39	85	406	TRUE
+remission_down	Coexpression Atlas	GSM854280 500	Myeloid Cells, DC.11cloSer.SI, CD45+ MHCII+ CD11c-lo CD11b+, Small Intestine, avg-5	Immgen.org, GSE15907	1.34E-37	2.38E-35	2.11E-34	5.43E-34	77	377	FALSE
+remission_down	Coexpression Atlas	GSM854322 500	Myeloid Cells, MF.Medl.SLN, CD11b+ CD169+ F4/80+, Lymph Node, avg-2	Immgen.org, GSE15907	5.08E-40	1.29E-37	1.14E-36	2.06E-36	81	391	TRUE
+remission_down	Coexpression Atlas	GSM605868 500	Myeloid Cells, Mo.6C+II+.Bl, CD115+ B220- CD43+ Ly6C+ MHCIIint, Blood, avg-4	Immgen.org, GSE15907	1.07E-37	2.08E-35	1.84E-34	4.36E-34	80	408	FALSE
+remission_down	Coexpression Atlas	GSM605878 500	Myeloid Cells, Mo.6C-II+.Bl, CD115+ B220- CD43+ Ly6C- MHCIIhi, Blood, avg-2	Immgen.org, GSE15907	5.97E-40	1.43E-37	1.27E-36	2.42E-36	83	413	TRUE
+remission_down	GO: Biological Process	GO:0002274	myeloid leukocyte activation	NA	1.15E-21	5.70E-19	5.33E-18	7.41E-18	55	341	TRUE
+remission_down	5	GNF2 CARD15	Neighborhood of CARD15	C4:CGN: Cancer Gene Neighborhoods	3.68E-16	4.94E-14	3.50E-13	2.47E-13	24	70	FALSE
+remission_down	3	GNF2 CASP1	Neighborhood of CASP1	C4:CGN: Cancer Gene Neighborhoods	1.33E-20	2.97E-18	2.11E-17	8.92E-18	34	111	FALSE
+remission_down	4	GNF2 HCK	Neighborhood of HCK	C4:CGN: Cancer Gene Neighborhoods	6.96E-19	1.17E-16	8.28E-16	4.67E-16	30	94	FALSE
+remission_down	1	20237496	New genetic associations detected in a host response study to hepatitis B vaccine.	Pubmed	3.48E-28	3.41E-23	4.12E-22	3.41E-23	78	824	FALSE
+remission_down	2	M30087	NFKBIA TARGET GENES	MSigDB	2.18E-10	1.11E-07	8.30E-07	2.21E-07	75	1327	FALSE
+remission_down	GO: Molecular Functio	GO:0060589	nucleoside-triphosphatase regulator activity	NA	8.51E-10	2.71E-07	2.10E-06	1.09E-06	49	514	FALSE
+remission_down	GO: Molecular Functio	GO:0038187	pattern recognition receptor activity	NA	3.09E-07	5.64E-05	4.36E-04	3.95E-04	10	35	FALSE
+remission_down	ToppCell Atlas	b2aee2f67da373a10b0c25e7797e30e3811543a8	PCW 05-06-Hematologic Myeloid|PCW 05-06 / Celltypes from embryonic and fetal-stage human lung	A topographic atlas defines developmental origins of cell heterogeneity in the human embryonic lung	2.54E-101	6.81E-98	7.46E-97	8.17E-97	87	196	FALSE
+remission_down	ToppCell Atlas	9a6c5b7c8e88cf7a261f8e052df1709d2c0a91f0	PCW 05-06-Hematologic Myeloid-Hem Myeloid monocytic|PCW 05-06 / Celltypes from embryonic and fetal-stage human lung	A topographic atlas defines developmental origins of cell heterogeneity in the human embryonic lung	2.45E-100	4.64E-97	5.09E-96	7.89E-96	86	193	FALSE
+remission_down	ToppCell Atlas	85c5d07189eb7bb413f708a3ca40de08af3cb106	PCW 07-8.5-Hematologic ErythroMegGranulo-Hem Granulocytic|PCW 07-8.5 / Celltypes from embryonic and fetal-stage human lung	A topographic atlas defines developmental origins of cell heterogeneity in the human embryonic lung	4.34E-100	7.35E-97	8.05E-96	1.40E-95	86	194	FALSE
+remission_down	ToppCell Atlas	518cc3baeb7cf2ad068692cbe85fd75be67f1872	PCW 07-8.5-Hematologic Myeloid-Hem Myeloid monocytic|PCW 07-8.5 / Celltypes from embryonic and fetal-stage human lung	A topographic atlas defines developmental origins of cell heterogeneity in the human embryonic lung	7.66E-100	1.12E-96	1.23E-95	2.46E-95	86	195	FALSE
+remission_down	ToppCell Atlas	fad22d5cf62016cad979e6943e357106d8d2a4b4	PCW 07-8.5-Hematologic Myeloid-Hem Myeloid monocytic-im immature monocyte1 (10)|PCW 07-8.5 / Celltypes from embryonic and fetal-stage human lung	A topographic atlas defines developmental origins of cell heterogeneity in the human embryonic lung	4.34E-100	7.35E-97	8.05E-96	1.40E-95	86	194	FALSE
+remission_down	ToppCell Atlas	7e7383093efaadceadd4d1f900c2d39cd690102e	PCW 07-8.5-Hematologic Myeloid-Hem Myeloid monocytic-im proliferating myeloid (8)|PCW 07-8.5 / Celltypes from embryonic and fetal-stage human lung	A topographic atlas defines developmental origins of cell heterogeneity in the human embryonic lung	4.48E-104	2.88E-100	3.15E-99	1.44E-99	88	192	FALSE
+remission_down	ToppCell Atlas	5f46f9aca1c7f76416e861aa94d24fc1d6266113	PCW 13-14-Hematologic Myeloid-Hem Myeloid monocytic-im myeloid progenitor3 (13)|PCW 13-14 / Celltypes from embryonic and fetal-stage human lung	A topographic atlas defines developmental origins of cell heterogeneity in the human embryonic lung	7.66E-100	1.12E-96	1.23E-95	2.46E-95	86	195	FALSE
+remission_down	GO: Cellular Component	GO:0001891	phagocytic cup	NA	7.83E-07	7.69E-05	5.47E-04	5.38E-04	9	31	TRUE
+remission_down	Pathway	M88	PID CD8 TCR PATHWAY	PID Pathways	5.01E-06	7.12E-04	6.07E-03	1.42E-02	11	53	FALSE
+remission_down	Pathway	M34	PID TCR PATHWAY	PID Pathways	1.69E-08	4.79E-06	4.09E-05	4.79E-05	15	64	FALSE
+remission_down	GO: Biological Process	GO:0050867	positive regulation of cell activation	NA	2.69E-18	9.09E-16	8.49E-15	1.73E-14	62	500	FALSE
+remission_down	GO: Biological Process	GO:0001819	positive regulation of cytokine production	NA	5.36E-20	2.15E-17	2.01E-16	3.45E-16	72	607	FALSE
+remission_down	GO: Biological Process	GO:0050778	positive regulation of immune response	NA	4.44E-22	2.59E-19	2.43E-18	2.85E-18	90	831	FALSE
+remission_down	GO: Biological Process	GO:0002684	positive regulation of immune system process	NA	4.75E-29	6.10E-26	5.70E-25	3.05E-25	127	1235	FALSE
+remission_down	GO: Biological Process	GO:0002696	positive regulation of leukocyte activation	NA	4.86E-18	1.56E-15	1.46E-14	3.12E-14	60	477	FALSE
+remission_down	Coexpression Atlas	PP epoMEP 1000	PP epoMEP top-relative-expression-ranked 1000	PCBC	1.31E-62	1.77E-59	1.57E-58	5.30E-59	157	974	FALSE
+remission_down	Coexpression Atlas	PP epoMEP 2500 K3	PP epoMEP top-relative-expression-ranked 2500 k-means-cluster#3	PCBC	6.93E-41	1.88E-38	1.67E-37	2.82E-37	122	883	FALSE
+remission_down	Coexpression Atlas	PP epoMEP 500	PP epoMEP top-relative-expression-ranked 500	PCBC	8.29E-55	4.81E-52	4.27E-51	3.37E-51	107	496	FALSE
+remission_down	Coexpression Atlas	PP GMP 1000	PP GMP top-relative-expression-ranked 1000	PCBC	1.78E-76	7.24E-73	6.44E-72	7.24E-73	174	983	FALSE
+remission_down	Coexpression Atlas	PP GMP 1000 K2	PP GMP top-relative-expression-ranked 1000 k-means-cluster#2	PCBC	6.42E-47	2.61E-44	2.32E-43	2.61E-43	107	592	FALSE
+remission_down	Coexpression Atlas	PP GMP 500	PP GMP top-relative-expression-ranked 500	PCBC	6.50E-70	1.32E-66	1.17E-65	2.64E-66	122	494	FALSE
+remission_down	Coexpression Atlas	PP GMP 500 K3	PP GMP top-relative-expression-ranked 500 k-means-cluster#3	PCBC	4.05E-45	1.37E-42	1.22E-41	1.64E-41	71	249	FALSE
+remission_down	Coexpression Atlas	PP HSC 1000	PP HSC top-relative-expression-ranked 1000	PCBC	5.56E-60	4.51E-57	4.01E-56	2.26E-56	154	977	FALSE
+remission_down	Coexpression Atlas	PP HSC 500	PP HSC top-relative-expression-ranked 500	PCBC	5.29E-57	3.58E-54	3.18E-53	2.15E-53	109	493	FALSE
+remission_down	Coexpression Atlas	PP MEG 1000	PP MEG top-relative-expression-ranked 1000	PCBC	1.94E-37	3.28E-35	2.91E-34	7.87E-34	124	983	FALSE
+remission_down	Coexpression Atlas	PP MEG 1000 K3	PP MEG top-relative-expression-ranked 1000 k-means-cluster#3	PCBC	1.35E-37	2.38E-35	2.11E-34	5.46E-34	70	306	FALSE
+remission_down	Coexpression Atlas	PP MEG 500 K1	PP MEG top-relative-expression-ranked 500 k-means-cluster#1	PCBC	6.11E-39	1.38E-36	1.23E-35	2.48E-35	53	152	FALSE
+remission_down	Coexpression Atlas	PP MEP 1000	PP MEP top-relative-expression-ranked 1000	PCBC	5.91E-52	3.00E-49	2.66E-48	2.40E-48	144	980	FALSE
+remission_down	Coexpression Atlas	PP MEP 1000 K3	PP MEP top-relative-expression-ranked 1000 k-means-cluster#3	PCBC	1.69E-46	6.25E-44	5.55E-43	6.87E-43	99	507	FALSE
+remission_down	Coexpression Atlas	PP MEP 500	PP MEP top-relative-expression-ranked 500	PCBC	5.77E-45	1.80E-42	1.60E-41	2.34E-41	96	493	FALSE
+remission_down	Coexpression Atlas	PP MEP 500 K4	PP MEP top-relative-expression-ranked 500 k-means-cluster#4	PCBC	3.70E-38	7.52E-36	6.68E-35	1.50E-34	65	254	FALSE
+remission_down	4	DOID:612 (is implicated in)	primary immunodeficiency disease (is implicated in)	AllianceGenome	3.17E-09	5.11E-06	4.78E-05	2.04E-05	11	42	FALSE
+remission_down	3	int:PTPN6	PTPN6 interactions	NA	8.90E-06	3.19E-02	3.18E-01	1.08E-01	26	278	FALSE
+remission_down	5	CID000067874	p-trifluoromethylphenol	Stitch	2.56E-11	1.53E-07	1.66E-06	7.63E-07	22	118	FALSE
+remission_down	Pathway	M1058	REACTOME ADAPTIVE IMMUNE SYSTEM	Reactome Pathways	1.20E-06	2.00E-04	1.71E-03	3.40E-03	61	829	FALSE
+remission_down	Pathway	M41808	REACTOME CDC42 GTPASE CYCLE	Reactome Pathways	9.80E-06	1.33E-03	1.13E-02	2.79E-02	19	155	FALSE
+remission_down	Pathway	M16523	REACTOME GENERATION OF SECOND MESSENGER MOLECULES	Reactome Pathways	1.47E-05	1.74E-03	1.49E-02	4.18E-02	9	39	FALSE
+remission_down	Pathway	MM14662	REACTOME IMMUNE SYSTEM	Reactome Pathways	8.84E-13	1.26E-09	1.07E-08	2.51E-09	125	1707	FALSE
+remission_down	Pathway	M8240	REACTOME IMMUNOREGULATORY INTERACTIONS BETWEEN A LYMPHOID AND A NON LYMPHOID CELL	Reactome Pathways	1.46E-09	6.94E-07	5.92E-06	4.16E-06	28	191	FALSE
+remission_down	Pathway	MM14781	REACTOME IMMUNOREGULATORY INTERACTIONS BETWEEN A LYMPHOID AND A NON LYMPHOID CELL	Reactome Pathways	1.84E-07	4.35E-05	3.71E-04	5.22E-04	21	144	FALSE
+remission_down	Pathway	MM14661	REACTOME INNATE IMMUNE SYSTEM	Reactome Pathways	1.91E-13	5.43E-10	4.63E-09	5.43E-10	89	1011	TRUE
+remission_down	Pathway	M1036	REACTOME INNATE IMMUNE SYSTEM	Reactome Pathways	3.63E-10	2.06E-07	1.76E-06	1.03E-06	87	1124	FALSE
+remission_down	Pathway	M27620	REACTOME NEUTROPHIL DEGRANULATION	Reactome Pathways	1.12E-05	1.38E-03	1.18E-02	3.18E-02	39	478	FALSE
+remission_down	Pathway	MM15330	REACTOME NEUTROPHIL DEGRANULATION	Reactome Pathways	1.08E-08	3.41E-06	2.91E-05	3.07E-05	49	522	FALSE
+remission_down	Pathway	M41809	REACTOME RAC1 GTPASE CYCLE	Reactome Pathways	8.18E-07	1.55E-04	1.32E-03	2.32E-03	23	184	FALSE
+remission_down	Pathway	M27348	REACTOME REGULATION OF COMMISSURAL AXON PATHFINDING BY SLIT AND ROBO	Reactome Pathways	1.91E-05	2.17E-03	1.85E-02	5.43E-02	5	10	FALSE
+remission_down	Pathway	M746	REACTOME SIGNALING BY GPCR	Reactome Pathways	4.99E-08	1.29E-05	1.10E-04	1.42E-04	58	703	TRUE
+remission_down	Pathway	MM14962	REACTOME SIGNALING BY GPCR	Reactome Pathways	2.35E-07	5.14E-05	4.38E-04	6.68E-04	53	646	FALSE
+remission_down	GO: Cellular Component	GO:0043235	receptor complex	NA	2.63E-04	7.68E-03	5.46E-02	1.81E-01	38	590	FALSE
+remission_down	GO: Biological Process	GO:0050865	regulation of cell activation	NA	6.92E-25	5.56E-22	5.19E-21	4.45E-21	94	819	TRUE
+remission_down	GO: Biological Process	GO:0050776	regulation of immune response	NA	9.33E-26	9.99E-23	9.34E-22	6.00E-22	110	1050	FALSE
+remission_down	GO: Biological Process	GO:0002682	regulation of immune system process	NA	1.02E-29	2.18E-26	2.03E-25	6.53E-26	161	1812	FALSE
+remission_down	GO: Biological Process	GO:0002694	regulation of leukocyte activation	NA	1.12E-25	1.03E-22	9.58E-22	7.18E-22	91	754	FALSE
+remission_down	GO: Biological Process	GO:0002703	regulation of leukocyte mediated immunity	NA	3.15E-17	8.04E-15	7.51E-14	2.02E-13	47	316	FALSE
+remission_down	GO: Biological Process	GO:0051249	regulation of lymphocyte activation	NA	4.02E-20	1.72E-17	1.61E-16	2.58E-16	74	634	FALSE
+remission_down	ToppCell Atlas	291c59b609985167c98a40d4e2caeea2fad74941	renal cortex nuclei-Hypertensive with+without-CKD-Immune-Myeloid-Monocytic|Hypertensive with+without-CKD / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	1.35E-99	1.88E-96	2.06E-95	4.32E-95	86	196	FALSE
+remission_down	ToppCell Atlas	0866ab6792cee274a71991d5c37a37f574ff446e	renal medulla nuclei-Adult normal reference-Immune|Adult normal reference / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	8.06E-102	2.36E-98	2.58E-97	2.59E-97	87	194	FALSE
+remission_down	ToppCell Atlas	f597fefc54327a1ad136e2f66b6e81cc5c761eb7	renal medulla nuclei-Adult normal reference-Immune-Myeloid|Adult normal reference / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	2.45E-100	4.64E-97	5.09E-96	7.89E-96	86	193	FALSE
+remission_down	ToppCell Atlas	4370473693d2dd4a8c451a4c477eb79baa33ae12	renal medulla nuclei-Hypertensive with+without-CKD-Immune-Myeloid|Hypertensive with+without-CKD / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	1.50E-106	1.21E-102	1.32E-101	4.83E-102	90	196	FALSE
+remission_down	ToppCell Atlas	badefcec2af86cbcd97305f4843e84db0f3ebc66	renal medulla nuclei-Hypertensive with+without-CKD-Immune-Myeloid-Monocytic|Hypertensive with+without-CKD / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	8.06E-102	2.36E-98	2.58E-97	2.59E-97	87	194	FALSE
+remission_down	ToppCell Atlas	3e3d7cb3e7242ec9c9677e07e303835649852b52	renal medulla nuclei-Hypertensive with+without-CKD-Immune-Myeloid-Monocytic-Monocyte-derived Cell|Hypertensive with+without-CKD / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	8.11E-104	4.35E-100	4.76E-99	2.61E-99	88	193	FALSE
+remission_down	ToppCell Atlas	09df40ff9b493170861b3f6e57a942a834655b5c	renal medulla nuclei-Renal AKI (acute kidney injury)-Immune-Myeloid|Renal AKI (acute kidney injury) / Celltypes from Cells and Nuclei per compartment and clinical group	Integrated Single-nucleus and Single-cell RNA-seq of the Adult Human Kidney	7.66E-100	1.12E-96	1.23E-95	2.46E-95	86	195	FALSE
+remission_down	3	RGAGGAARY V$PU1 Q6	RGAGGAARY V$PU1 Q6	TFBS	1.71E-09	5.77E-07	4.33E-06	1.73E-06	34	400	FALSE
+remission_down	GO: Cellular Component	GO:0001726	ruffle	NA	1.61E-05	7.38E-04	5.25E-03	1.11E-02	21	209	FALSE
+remission_down	1	RYTTCCTG V$ETS2 B	RYTTCCTG V$ETS2 B	TFBS	6.38E-13	6.47E-10	4.85E-09	6.47E-10	62	866	FALSE
+remission_down	3	6179 DN	SAHA; Down 200; 10uM; HL60; HT HG-U133A	Broad Institute CMAP Down	4.75E-13	4.72E-09	5.13E-08	1.42E-08	29	176	FALSE
+remission_down	GO: Cellular Component	GO:0030141	secretory granule	NA	5.79E-06	3.06E-04	2.18E-03	3.98E-03	63	1002	FALSE
+remission_down	GO: Cellular Component	GO:0030667	secretory granule membrane	NA	1.41E-07	1.95E-05	1.38E-04	9.71E-05	33	339	TRUE
+remission_down	GO: Cellular Component	GO:0099503	secretory vesicle	NA	7.05E-06	3.46E-04	2.46E-03	4.84E-03	74	1248	FALSE
+remission_down	GO: Molecular Functio	GO:0033691	sialic acid binding	NA	2.23E-05	1.56E-03	1.21E-02	2.85E-02	7	25	FALSE
+remission_down	GO: Cellular Component	GO:0098552	side of membrane	NA	2.55E-18	5.83E-16	4.15E-15	1.75E-15	84	835	FALSE
+remission_down	GO: Molecular Functio	GO:0005102	signaling receptor binding	NA	4.31E-06	4.95E-04	3.83E-03	5.50E-03	100	1756	FALSE
+remission_down	GO: Cellular Component	GO:0036477	somatodendritic compartment	NA	1.40E-04	4.81E-03	3.42E-02	9.61E-02	68	1229	FALSE
+remission_down	GO: Cellular Component	GO:0035579	specific granule membrane	NA	8.05E-05	3.25E-03	2.31E-02	5.53E-02	12	91	FALSE
+remission_down	Coexpression Atlas	spleen	spleen	Human Protein Atlas	1.34E-60	1.36E-57	1.21E-56	5.43E-57	93	315	FALSE
+remission_down	GO: Biological Process	GO:0042110	T cell activation	NA	2.94E-22	1.89E-19	1.76E-18	1.89E-18	83	717	TRUE
+remission_down	GO: Cellular Component	GO:0070820	tertiary granule	NA	2.25E-04	7.36E-03	5.24E-02	1.55E-01	16	164	FALSE
+remission_down	GO: Cellular Component	GO:0070821	tertiary granule membrane	NA	1.38E-06	1.09E-04	7.72E-04	9.51E-04	13	73	FALSE
+remission_down	3	12975309	The secreted protein discovery initiative (SPDI), a large-scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment.	Pubmed	1.13E-16	3.70E-12	4.46E-11	1.11E-11	67	985	FALSE
+remission_down	ToppCell Atlas	fc6aebc20ecaa67606154540a691242dc0aea867	Tracheal-10x5prime-Immune Myeloid|10x5prime / Cell types per location group and 10X technology with lineage, and cell group designations	A spatial multi-omics atlas of the human lung reveals a novel immune cell survival niche	4.62E-102	1.65E-98	1.81E-97	1.48E-97	88	200	FALSE
+remission_down	ToppCell Atlas	1438b84096de9b4abe9e6213caa07f6bdff67358	Tracheal-10x5prime-Immune Myeloid-Macrophage other|10x5prime / Cell types per location group and 10X technology with lineage, and cell group designations	A spatial multi-omics atlas of the human lung reveals a novel immune cell survival niche	2.41E-100	4.64E-97	5.09E-96	7.74E-96	87	200	FALSE
+remission_down	ToppCell Atlas	ad7ae5106141669b353800fece833b3cd5bdccee	Tracheal-NucSeq-Immune Myeloid|NucSeq / Cell types per location group and 10X technology with lineage, and cell group designations	A spatial multi-omics atlas of the human lung reveals a novel immune cell survival niche	4.62E-102	1.65E-98	1.81E-97	1.48E-97	88	200	FALSE
+remission_down	GO: Molecular Functio	GO:0004888	transmembrane signaling receptor activity	NA	2.46E-11	1.57E-08	1.21E-07	3.14E-08	99	1362	FALSE
+remission_down	5	V$ELF1 Q6	V$ELF1 Q6	TFBS	1.41E-07	2.86E-05	2.15E-04	1.43E-04	20	191	FALSE
+remission_down	4	V$STAT6 02	V$STAT6 02	TFBS	1.19E-07	2.86E-05	2.15E-04	1.21E-04	21	207	FALSE
+remission_down	GO: Cellular Component	GO:0012506	vesicle membrane	NA	7.41E-07	7.69E-05	5.47E-04	5.09E-04	81	1324	FALSE
+remission_down	2	MODULE 45	Whole blood genes.	C4:CM: Cancer Modules	1.15E-21	3.86E-19	2.74E-18	7.73E-19	80	581	FALSE
+remission_down	Pathway	M39400	WP CHEMOKINE SIGNALING PATHWAY	WikiPathways	4.65E-07	9.43E-05	8.05E-04	1.32E-03	22	165	FALSE
+remission_down	Pathway	MM15943	WP CHEMOKINE SIGNALING PATHWAY	WikiPathways	2.99E-06	4.48E-04	3.82E-03	8.51E-03	22	184	FALSE
+remission_down	Pathway	M39695	WP MICROGLIA PATHOGEN PHAGOCYTOSIS PATHWAY	WikiPathways	1.48E-10	1.05E-07	8.99E-07	4.22E-07	14	40	FALSE
+remission_down	Pathway	MM15837	WP MICROGLIA PATHOGEN PHAGOCYTOSIS PATHWAY	WikiPathways	7.90E-12	7.48E-09	6.38E-08	2.24E-08	16	46	FALSE
+remission_down	Pathway	M39508	WP TYROBP CAUSAL NETWORK IN MICROGLIA	WikiPathways	6.49E-09	2.31E-06	1.97E-05	1.85E-05	15	60	FALSE
+remission_down	Pathway	MM15966	WP TYROBP CAUSAL NETWORK IN MICROGLIA	WikiPathways	3.90E-09	1.59E-06	1.35E-05	1.11E-05	15	58	FALSE
+remission_down	1	int:ZAP70	ZAP70 interactions	NA	1.37E-07	1.65E-03	1.65E-02	1.65E-03	16	91	FALSE
+remission_up	ToppCell Atlas	219c5d0cde7f6082755154f54db221413ec555cb	3'-Pediatric IBD-SmallIntestine-Epithelial-goblet-Goblet cell|Pediatric IBD / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	3.79E-60	1.16E-55	1.26E-54	1.17E-55	48	195	TRUE
+remission_up	ToppCell Atlas	c0275b5011c2bb08e873955afe2e213ec8070d0e	distal-2-Epithelial-Mucous|2 / Location, Lineage, Cell class (ontology) and Donor from 10X sequencing (macrophage renamed)	Human Lung Cell Atlas (HLCA)	1.13E-59	1.16E-55	1.26E-54	3.47E-55	48	199	TRUE
+remission_up	ToppCell Atlas	0af89ef40807fc4ad79ab82a2186ab6e866c6931	distal-Epithelial-Mucous-2|distal / Location, Lineage, Cell class (ontology) and Donor from 10X sequencing (macrophage renamed)	Human Lung Cell Atlas (HLCA)	1.13E-59	1.16E-55	1.26E-54	3.47E-55	48	199	TRUE
+remission_up	ToppCell Atlas	c5f33b420c9ac14dc67fea632b8c2bc2442cbf3d	3'-Pediatric IBD-SmallIntestine-Epithelial-goblet|Pediatric IBD / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	2.05E-58	1.58E-54	1.72E-53	6.32E-54	47	195	FALSE
+remission_up	ToppCell Atlas	a7fe7b792d696f369ad0310a772160a1729ef223	distal-Epithelial-Mucous|distal / Location, Lineage, Cell class (ontology) and Donor from 10X sequencing (macrophage renamed)	Human Lung Cell Atlas (HLCA)	5.94E-58	3.66E-54	3.99E-53	1.83E-53	47	199	FALSE
+remission_up	ToppCell Atlas	fb935df966c451e659b8bde281f8aebcb632f6cf	3'-Child04-06-SmallIntestine-Epithelial-goblet|Child04-06 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	8.27E-57	3.64E-53	3.97E-52	2.55E-52	46	194	TRUE
+remission_up	ToppCell Atlas	49cc5f5de4380302100e8cd937f08abe317ac75e	3'-Child04-06-SmallIntestine-Epithelial-goblet-Goblet cell|Child04-06 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	8.27E-57	3.64E-53	3.97E-52	2.55E-52	46	194	FALSE
+remission_up	ToppCell Atlas	c2d17630f7bfc9e727de55e093c17fddac61b61f	3'-Child09-12-SmallIntestine-Epithelial-goblet|Child09-12 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	1.40E-56	4.30E-53	4.70E-52	4.30E-52	46	196	FALSE
+remission_up	ToppCell Atlas	54c30023d04e7265373647f56fc93885804938b0	3'-Child09-12-SmallIntestine-Epithelial-goblet-Goblet cell|Child09-12 / Celltypes from developing, pediatric, Crohn's, & adult GI tract	Cells of the human intestinal tract mapped across space and time	1.40E-56	4.30E-53	4.70E-52	4.30E-52	46	196	FALSE
+remission_up	ToppCell Atlas	60ea673ed887fe3890c5cf4ff4165384b76d7361	3'-Broncho-tracheal-Epithelial-Epithelial transtional-secretory-nasal mucosa goblet cell-Goblet (nasal)-Goblet (nasal) L.0.2.0.0|3' / 5'-vs-3', Tissue groups, Lineages, Lineage subclass, Cell type2, Cell subtype2 L4.5	The Integrated Human Lung Cell Atlas	1.40E-56	4.30E-53	4.70E-52	4.30E-52	46	196	FALSE
+remission_up	ToppCell Atlas	6f29ef9dcf126c5c19386f6aa9a20c38a2c8ccc8	moderate-Epithelial-Secretory-diff|moderate / Severity, Lineage and Cell class of Nasopharyngeal (NS) Samples from Patients and Controls	Upper Airway and Bronchi Atlas of COVID-19 Patients	3.92E-56	1.10E-52	1.20E-51	1.21E-51	46	200	FALSE
+remission_up	ToppCell Atlas	529068029fb461df766135576dd0d8b5980f9bc0	3'-Broncho-tracheal-Epithelial-Epithelial transtional-secretory-club cell-Club (nasal)-Club (nasal) L.0.2.3.0|3' / 5'-vs-3', Tissue groups, Lineages, Lineage subclass, Cell type2, Cell subtype2 L4.5	The Integrated Human Lung Cell Atlas	1.94E-55	4.98E-52	5.43E-51	5.98E-51	45	191	FALSE
+remission_up	ToppCell Atlas	5cb42e09f380c4468cdc603ec0c3de35eadd3213	C 06|World / shred on cell type and cluster	Human Ileal Epithelial cells from Crohn’s Disease	4.23E-55	1.00E-51	1.09E-50	1.30E-50	45	194	FALSE
+remission_up	ToppCell Atlas	a52879a4c822c5e4be569f01f845a795e00c5f4b	3'-Broncho-tracheal-Epithelial-Epithelial transtional-secretory-nasal mucosa goblet cell-Goblet (nasal)|3' / 5'-vs-3', Tissue groups, Lineages, Lineage subclass, Cell type2, Cell subtype2 L4.5	The Integrated Human Lung Cell Atlas	7.05E-55	1.45E-51	1.58E-50	2.17E-50	45	196	FALSE
+remission_up	ToppCell Atlas	7a4d502550e9e37dc42f2ff1be3c896afe365d7f	3'-Broncho-tracheal-Epithelial-Epithelial transtional-secretory-nasal mucosa goblet cell|3' / 5'-vs-3', Tissue groups, Lineages, Lineage subclass, Cell type2, Cell subtype2 L4.5	The Integrated Human Lung Cell Atlas	7.05E-55	1.45E-51	1.58E-50	2.17E-50	45	196	FALSE
+remission_up	ToppCell Atlas	4737250b7ffa7cc19eb6b057d35d78f13b1afe66	medial-2-Epithelial-Mucous|2 / Location, Lineage, Cell class (ontology) and Donor from 10X sequencing (macrophage renamed)	Human Lung Cell Atlas (HLCA)	1.50E-54	2.57E-51	2.80E-50	4.62E-50	45	199	FALSE
+remission_up	ToppCell Atlas	4385963ab25b5378e7964b984028c25b27e5794e	medial-Epithelial-Mucous|medial / Location, Lineage, Cell class (ontology) and Donor from 10X sequencing (macrophage renamed)	Human Lung Cell Atlas (HLCA)	1.50E-54	2.57E-51	2.80E-50	4.62E-50	45	199	FALSE
+remission_up	ToppCell Atlas	53198bcf5f2f012a3ed1600d95c0923d6976a099	medial-Epithelial-Mucous-2|medial / Location, Lineage, Cell class (ontology) and Donor from 10X sequencing (macrophage renamed)	Human Lung Cell Atlas (HLCA)	1.50E-54	2.57E-51	2.80E-50	4.62E-50	45	199	FALSE
+remission_up	ToppCell Atlas	8f179b5768fd504af6dd6f6749a0bed7b689e77f	NS-moderate-d 16-33-Epithelial-Secretory-diff|d 16-33 / Location, Severity, dps group, Lineage and Cell class of Upper airway (combined)	Upper Airway and Bronchi Atlas of COVID-19 Patients	9.17E-53	1.41E-49	1.54E-48	2.82E-48	44	200	FALSE
+remission_up	ToppCell Atlas	133853d0f55c63ebe94dd54151f9f1f90650a0d8	Tracheal-10x3prime v2-Epithelial-Epi airway secretory-Secretory Goblet|10x3prime v2 / Cell types per location group and 10X technology with lineage, and cell group designations	A spatial multi-omics atlas of the human lung reveals a novel immune cell survival niche	9.17E-53	1.41E-49	1.54E-48	2.82E-48	44	200	FALSE
+remission_up	ToppCell Atlas	855d6acfcf323868ba98b213f06186ad4793d4ed	3'-Parenchyma lung-Epithelial-Epithelial transtional-secretory-club cell-Club (non-nasal)|3' / 5'-vs-3', Tissue groups, Lineages, Lineage subclass, Cell type2, Cell subtype2 L4.5	The Integrated Human Lung Cell Atlas	1.00E-51	1.40E-48	1.53E-47	3.09E-47	43	194	FALSE
+remission_up	ToppCell Atlas	29a7770bdbea6081a9ed64a997cd92a1cbf4af58	3'-Parenchyma lung-Epithelial-Epithelial transtional-secretory-club cell|3' / 5'-vs-3', Tissue groups, Lineages, Lineage subclass, Cell type2, Cell subtype2 L4.5	The Integrated Human Lung Cell Atlas	1.00E-51	1.40E-48	1.53E-47	3.09E-47	43	194	FALSE
+remission_up	ToppCell Atlas	c18874f37b90e6afacc562b2082b67ea8a7cb4a4	3'-Broncho-tracheal-Epithelial-Epithelial transtional-secretory|3' / 5'-vs-3', Tissue groups, Lineages, Lineage subclass, Cell type2, Cell subtype2 L4.5	The Integrated Human Lung Cell Atlas	1.63E-51	2.18E-48	2.38E-47	5.02E-47	43	196	FALSE
+remission_up	ToppCell Atlas	dc531cf9089f2c956621d70d49a2b8219b4b45c1	3'-Parenchyma lung-Epithelial-Epithelial transtional-secretory|3' / 5'-vs-3', Tissue groups, Lineages, Lineage subclass, Cell type2, Cell subtype2 L4.5	The Integrated Human Lung Cell Atlas	4.65E-50	5.96E-47	6.51E-46	1.43E-45	42	194	FALSE
+remission_up	ToppCell Atlas	7509b980b6b293df02bec619ef5b83a6c7b49c03	Nasal Brush|World / Tissue, Lineage and Cell class of Lung Cells from 10X	A Cellular Census of Human Lungs (Vieira Braga et al)	5.89E-50	6.97E-47	7.61E-46	1.81E-45	42	195	FALSE
+remission_up	1	M39174	MURARO PANCREAS ACINAR CELL	C8: Cell Type Signature	1.92E-38	1.69E-34	1.63E-33	1.69E-34	66	732	FALSE
+remission_up	2	M39173	MURARO PANCREAS DUCTAL CELL	C8: Cell Type Signature	3.03E-36	1.34E-32	1.29E-31	2.68E-32	81	1276	FALSE
+remission_up	3	M41656	TRAVAGLINI LUNG MUCOUS CELL	C8: Cell Type Signature	1.39E-30	4.09E-27	3.95E-26	1.23E-26	30	125	FALSE
+remission_up	4	M929	SABATES COLORECTAL ADENOMA UP	C2:CGP: Chemical and Genetic Perturbations	5.52E-29	1.22E-25	1.18E-24	4.87E-25	30	140	FALSE
+remission_up	1	ctd:C088658	zoledronic acid	CTD	8.36E-29	2.44E-24	2.65E-23	2.44E-24	82	1472	FALSE
+remission_up	5	M40175	DESCARTES FETAL EYE CORNEAL AND CONJUNCTIVAL EPITHELIAL CELLS	C8: Cell Type Signature	2.82E-27	4.97E-24	4.80E-23	2.48E-23	35	245	FALSE
+remission_up	1	rectum	rectum	Human Protein Atlas	2.44E-26	4.39E-23	3.86E-22	9.05E-23	32	168	FALSE
+remission_up	Coexpression Atlas	PCBC ctl SmallAirwayEpithel 1000	Progenitor-Cell-Biology-Consortium reference SmallAirwayEpithel top-relative-expression-ranked 1000	PCBC	2.98E-26	4.39E-23	3.86E-22	1.11E-22	67	987	FALSE
+remission_up	Coexpression Atlas	PCBC ctl BronchioEpithel 1000	Progenitor-Cell-Biology-Consortium reference BronchioEpithel top-relative-expression-ranked 1000	PCBC	3.54E-26	4.39E-23	3.86E-22	1.32E-22	67	990	FALSE
+remission_up	Coexpression Atlas	colon	colon	Human Protein Atlas	7.15E-26	6.64E-23	5.84E-22	2.66E-22	31	159	FALSE
+remission_up	1	23376485	Proteomic analysis of podocyte exosome-enriched fraction from normal human urine.	Pubmed	1.95E-23	1.38E-18	1.63E-17	1.38E-18	66	1744	FALSE
+remission_up	Coexpression Atlas	PCBC ctl SmallAirwayEpithel 500	Progenitor-Cell-Biology-Consortium reference SmallAirwayEpithel top-relative-expression-ranked 500	PCBC	7.19E-22	5.34E-19	4.70E-18	2.67E-18	44	493	FALSE
+remission_up	Coexpression Atlas	PCBC ctl BronchioEpithel 500	Progenitor-Cell-Biology-Consortium reference BronchioEpithel top-relative-expression-ranked 500	PCBC	9.15E-22	5.66E-19	4.98E-18	3.40E-18	44	496	FALSE
+remission_up	Coexpression Atlas	stomach	stomach	Human Protein Atlas	6.29E-21	3.34E-18	2.94E-17	2.34E-17	27	160	FALSE
+remission_up	2	23533145	In-depth proteomic analyses of exosomes isolated from expressed prostatic secretions in urine.	Pubmed	1.32E-21	4.70E-17	5.52E-16	9.39E-17	50	1070	FALSE
+remission_up	1	GAVISH 3CA METAPROGRAM EPITHELIAL PDAC RELATED 2	Genes upregulated in subsets of cells of a given type within various tumors	C4:3CA: Curated Cancer Cell Atlas gene sets	1.52E-19	9.39E-17	6.57E-16	9.39E-17	19	50	FALSE
+remission_up	2	ctd:C029297	vinylidene chloride	CTD	4.21E-21	6.14E-17	6.67E-16	1.23E-16	71	1475	FALSE
+remission_up	Coexpression Atlas	BM Top 100 - bronchus	BM Top 100 - bronchus	Body Map	7.04E-20	3.27E-17	2.88E-16	2.61E-16	20	76	FALSE
+remission_up	GO: Biological Process	GO:0009617	response to bacterium		1.42E-19	7.74E-16	7.11E-15	7.74E-16	60	1043	TRUE
+remission_up	Coexpression Atlas	duodenum	duodenum	Human Protein Atlas	2.14E-19	8.81E-17	7.75E-16	7.93E-16	34	321	FALSE
+remission_up	2	MODULE 6	Trachea genes.	C4:CM: Cancer Modules	2.17E-18	5.53E-16	3.87E-15	1.34E-15	43	413	FALSE
+remission_up	3	GAVISH 3CA MALIGNANT METAPROGRAM 23 SECRETED 2	Genes upregulated in subsets of cells of a given type within various tumors	C4:3CA: Curated Cancer Cell Atlas gene sets	4.49E-18	5.53E-16	3.87E-15	2.77E-15	18	50	FALSE
+remission_up	4	GAVISH 3CA MALIGNANT METAPROGRAM 30 PDAC CLASSICAL	Genes upregulated in subsets of cells of a given type within various tumors	C4:3CA: Curated Cancer Cell Atlas gene sets	4.49E-18	5.53E-16	3.87E-15	2.77E-15	18	50	FALSE
+remission_up	5	GAVISH 3CA METAPROGRAM EPITHELIAL SECRETED	Genes upregulated in subsets of cells of a given type within various tumors	C4:3CA: Curated Cancer Cell Atlas gene sets	4.49E-18	5.53E-16	3.87E-15	2.77E-15	18	50	FALSE
+remission_up	1	DOID:9970 (is marker for)	obesity (is marker for)	AllianceGenome	7.71E-19	3.35E-15	3.00E-14	3.35E-15	19	101	FALSE
+remission_up	3	ctd:D017632	Asbestos, Serpentine	CTD	2.84E-19	2.77E-15	3.00E-14	8.30E-15	38	451	FALSE
+remission_up	GO: Biological Process	GO:0009607	response to biotic stimulus		3.27E-18	8.93E-15	8.21E-14	1.79E-14	83	1998	FALSE
+remission_up	GO: Biological Process	GO:0006959	humoral immune response		6.59E-18	1.20E-14	1.10E-13	3.60E-14	33	330	FALSE
+remission_up	Coexpression Atlas	small intestine	small intestine	Human Protein Atlas	9.77E-18	3.63E-15	3.19E-14	3.63E-14	33	339	FALSE
+remission_up	GO: Biological Process	GO:0051707	response to other organism		9.84E-18	1.22E-14	1.12E-13	5.38E-14	81	1951	FALSE
+remission_up	4	ctd:D003035	Cobalt	CTD	1.96E-18	1.43E-14	1.55E-13	5.72E-14	30	277	FALSE
+remission_up	GO: Biological Process	GO:0043207	response to external biotic stimulus		1.11E-17	1.22E-14	1.12E-13	6.08E-14	81	1955	FALSE
+remission_up	GO: Biological Process	GO:0098542	defense response to other organism		1.52E-17	1.38E-14	1.27E-13	8.29E-14	68	1445	TRUE
+remission_up	5	ctd:C023035	3,4,5,3',4'-pentachlorobiphenyl	CTD	3.01E-18	1.76E-14	1.91E-13	8.79E-14	60	1219	FALSE
+remission_up	Coexpression Atlas	PCBC ratio MESO-30 blastocyst vs MESO-30 amniotic fluid MSC cfr-2X-p05	MESO-30 blastocyst vs MESO-30 amniotic fluid MSC-Confounder removed-fold2.0 adjp0.05	PCBC_AltAnalyze	8.10E-17	2.74E-14	2.41E-13	3.01E-13	47	761	FALSE
+remission_up	GO: Biological Process	GO:0019730	antimicrobial humoral response		9.45E-17	7.38E-14	6.78E-13	5.17E-13	25	188	TRUE
+remission_up	GO: Cellular Component	GO:0045177	apical part of cell		2.34E-15	1.01E-12	6.73E-12	1.01E-12	40	604	FALSE
+remission_up	Coexpression Atlas	BM Top 100 - trachea	BM Top 100 - trachea	Body Map	3.27E-16	1.01E-13	8.89E-13	1.21E-12	17	72	FALSE
+remission_up	3	19199708	Proteomic analysis of human parotid gland exosomes by multidimensional protein identification technology (MudPIT).	Pubmed	2.47E-17	5.84E-13	6.86E-12	1.75E-12	29	417	FALSE
+remission_up	Coexpression Atlas	gudmap developingLowerUrinaryTract P2 bladder urothelium (LCM) 1000	DevelopingLowerUrinaryTract P2 bladder urothelium (LCM) emap-30380 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	9.26E-16	2.65E-13	2.33E-12	3.44E-12	46	778	FALSE
+remission_up	1	hsa-miR-26b-5p:Functional MTI (Weak)	Functional MTI (Weak)	miRTarbase	5.33E-16	3.70E-12	3.48E-11	3.70E-12	44	1873	FALSE
+remission_up	Coexpression Atlas	gudmap developingLowerUrinaryTract adult ureter 500	DevelopingLowerUrinaryTract adult ureter emap-29479 top-relative-expression-ranked 500	Gudmap Mouse MOE430.2	1.21E-15	3.21E-13	2.83E-12	4.50E-12	32	373	FALSE
+remission_up	GO: Biological Process	GO:0042742	defense response to bacterium		1.62E-15	1.11E-12	1.02E-11	8.88E-12	35	450	FALSE
+remission_up	2	hsa-miR-582-5p:mirSVR highEffct	hsa-miR-582-5p:mirSVR nonconserved highEffect-0.5	MicroRNA.org	1.50E-15	5.22E-12	4.91E-11	1.04E-11	43	1843	FALSE
+remission_up	Coexpression Atlas	BM Top 100 - stomach pyloric	BM Top 100 - stomach pyloric	Body Map	3.37E-15	8.34E-13	7.34E-12	1.25E-11	16	69	FALSE
+remission_up	3	hsa-miR-607		MirDB	3.24E-15	7.49E-12	7.06E-11	2.25E-11	44	1971	FALSE
+remission_up	GO: Biological Process	GO:0002697	regulation of immune effector process		8.28E-15	5.03E-12	4.62E-11	4.53E-11	37	532	FALSE
+remission_up	Coexpression Atlas	PCBC ctl CardiacMyocyte 1000	Progenitor-Cell-Biology-Consortium reference CardiacMyocyte top-relative-expression-ranked 1000	PCBC	1.28E-14	2.94E-12	2.59E-11	4.75E-11	50	975	FALSE
+remission_up	Coexpression Atlas	gudmap developingLowerUrinaryTract adult ureter 1000	DevelopingLowerUrinaryTract adult ureter emap-29479 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	1.35E-14	2.94E-12	2.59E-11	5.00E-11	43	736	FALSE
+remission_up	GO: Biological Process	GO:0006954	inflammatory response		9.47E-15	5.18E-12	4.76E-11	5.18E-11	53	1061	FALSE
+remission_up	Coexpression Atlas	mendel RNAseq e17.5 Urothelium ShhCreRFP 2500 K1	mendel RNAseq e17.5 Urothelium ShhCreRFP 2500 K1	Gudmap RNAseq	2.06E-14	4.24E-12	3.73E-11	7.63E-11	50	987	FALSE
+remission_up	4	20237496	New genetic associations detected in a host response study to hepatitis B vaccine.	Pubmed	1.28E-15	2.28E-11	2.68E-10	9.12E-11	37	824	FALSE
+remission_up	4	hsa-miR-633:mirSVR lowEffct	hsa-miR-633:mirSVR nonconserved lowEffect-0.1-0.5	MicroRNA.org	2.78E-14	3.99E-11	3.76E-10	1.93E-10	41	1830	FALSE
+remission_up	5	hsa-miR-4666a-3p		MirDB	2.88E-14	3.99E-11	3.76E-10	2.00E-10	33	1182	FALSE
+remission_up	Coexpression Atlas	gudmap developingLowerUrinaryTract adult ureter 200	DevelopingLowerUrinaryTract adult ureter emap-29479 top-relative-expression-ranked 200	Gudmap Mouse MOE430.2	7.70E-14	1.50E-11	1.32E-10	2.86E-10	20	149	FALSE
+remission_up	GO: Cellular Component	GO:0016324	apical plasma membrane		7.25E-13	1.57E-10	1.04E-09	3.13E-10	33	497	FALSE
+remission_up	Coexpression Atlas	gudmap developingLowerUrinaryTract e15.5 Urothelium 1000 k5	DevelopingLowerUrinaryTract e15.5 Urothelium emap-28091 k-means-cluster#5 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	1.01E-13	1.88E-11	1.65E-10	3.76E-10	26	280	FALSE
+remission_up	Coexpression Atlas	gudmap developingLowerUrinaryTract P2 bladder stroma (LCM) 1000	DevelopingLowerUrinaryTract P2 bladder stroma (LCM) emap-30396 top-relative-expression-ranked 1000	Gudmap Mouse MOE430.2	1.13E-13	2.01E-11	1.76E-10	4.21E-10	43	783	FALSE
+remission_up	GO: Biological Process	GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide		1.01E-13	5.00E-11	4.60E-10	5.50E-10	19	131	TRUE
+remission_up	Coexpression Atlas	gudmap developingLowerUrinaryTract e13.5 bladder epithelial cells 200	DevelopingLowerUrinaryTract e13.5 bladder epithelial cells emap-30875 top-relative-expression-ranked 200	Gudmap Mouse MOE430.2	6.14E-13	1.04E-10	9.12E-10	2.28E-09	20	166	FALSE
+remission_up	Coexpression Atlas	GSM854302 500	Stromal Cells, Ep.MEChi.Th, CD45-EpCAm+Ly51-MHCIIhi, Thymus, avg-1	Immgen.org, GSE15907	6.82E-13	1.10E-10	9.68E-10	2.53E-09	30	411	FALSE
+remission_up	Coexpression Atlas	gallbladder	gallbladder	Human Protein Atlas	7.42E-13	1.15E-10	1.01E-09	2.76E-09	19	148	FALSE
+remission_up	Coexpression Atlas	PCBC ctl BronchioEpithel 100	Progenitor-Cell-Biology-Consortium reference BronchioEpithel top-relative-expression-ranked 100	PCBC	1.14E-12	1.69E-10	1.48E-09	4.21E-09	16	98	FALSE
+remission_up	5	16740002	Identification of N-linked glycoproteins in human saliva by glycoprotein capture and mass spectrometry.	Pubmed	6.74E-14	9.58E-10	1.13E-08	4.79E-09	11	41	FALSE
+remission_up	2	DOID:1485 (is marker for)	cystic fibrosis (is marker for)	AllianceGenome	1.58E-12	3.43E-09	3.08E-08	6.87E-09	12	62	FALSE
+remission_up	GO: Molecular Functio	GO:0030545	signaling receptor regulator activity		9.96E-12	9.59E-09	7.14E-08	9.59E-09	36	619	FALSE
+remission_up	GO: Biological Process	GO:0002699	positive regulation of immune effector process		3.61E-12	1.65E-09	1.51E-08	1.97E-08	28	376	FALSE
+remission_up	GO: Biological Process	GO:0001906	cell killing		5.42E-12	2.28E-09	2.09E-08	2.96E-08	26	328	FALSE
+remission_up	GO: Molecular Functio	GO:0048018	receptor ligand activity		3.10E-11	1.49E-08	1.11E-07	2.99E-08	33	548	FALSE
+remission_up	GO: Biological Process	GO:0002252	immune effector process		8.26E-12	3.23E-09	2.96E-08	4.52E-08	42	842	FALSE
+remission_up	GO: Molecular Functio	GO:0030546	signaling receptor activator activity		5.00E-11	1.60E-08	1.19E-07	4.81E-08	33	558	FALSE
+remission_up	Pathway	MM15636	REACTOME O LINKED GLYCOSYLATION OF MUCINS	Reactome Pathways	3.66E-11	5.64E-08	4.60E-07	7.24E-08	13	60	TRUE
+remission_up	Pathway	M546	REACTOME O LINKED GLYCOSYLATION OF MUCINS	Reactome Pathways	5.70E-11	5.64E-08	4.60E-07	1.13E-07	13	62	FALSE
+remission_up	GO: Biological Process	GO:0031347	regulation of defense response		2.29E-11	8.34E-09	7.66E-08	1.25E-07	46	1019	FALSE
+remission_up	1	542	Endogenous ligands	genenames.org	1.30E-09	1.95E-07	1.09E-06	1.95E-07	18	237	FALSE
+remission_up	GO: Biological Process	GO:0022407	regulation of cell-cell adhesion		4.72E-11	1.61E-08	1.48E-07	2.58E-07	34	608	FALSE
+remission_up	GO: Biological Process	GO:0030155	regulation of cell adhesion		6.02E-11	1.94E-08	1.78E-07	3.29E-07	44	972	FALSE
+remission_up	GO: Molecular Functio	GO:0005102	signaling receptor binding		5.97E-10	1.44E-07	1.07E-06	5.75E-07	62	1756	FALSE
+remission_up	3	C0023893	Liver Cirrhosis, Experimental	DisGeNET Curated	1.46E-10	2.12E-07	1.90E-06	6.36E-07	31	774	FALSE
+remission_up	GO: Biological Process	GO:0019731	antibacterial humoral response		1.75E-10	5.31E-08	4.88E-07	9.55E-07	14	96	FALSE
+remission_up	GO: Biological Process	GO:0002682	regulation of immune system process		2.09E-10	6.00E-08	5.51E-07	1.14E-06	63	1812	FALSE
+remission_up	GO: Biological Process	GO:0050727	regulation of inflammatory response		2.35E-10	6.44E-08	5.91E-07	1.29E-06	31	545	FALSE
+remission_up	GO: Biological Process	GO:0002702	positive regulation of production of molecular mediator of immune response		2.62E-10	6.81E-08	6.26E-07	1.43E-06	18	180	FALSE
+remission_up	GO: Cellular Component	GO:0031528	microvillus membrane		4.17E-09	6.00E-07	3.99E-06	1.80E-06	10	52	FALSE
+remission_up	GO: Biological Process	GO:0032101	regulation of response to external stimulus		3.52E-10	8.75E-08	8.03E-07	1.92E-06	53	1396	FALSE
+remission_up	Pathway	M42533	WP OVERVIEW OF PROINFLAMMATORY AND PROFIBROTIC MEDIATORS	WikiPathways	1.14E-09	7.54E-07	6.16E-06	2.26E-06	16	128	FALSE
+remission_up	GO: Biological Process	GO:0002703	regulation of leukocyte mediated immunity		5.15E-10	1.22E-07	1.12E-06	2.81E-06	23	316	FALSE
+remission_up	GO: Biological Process	GO:0016266	O-glycan processing		6.23E-10	1.38E-07	1.26E-06	3.40E-06	10	43	TRUE
+remission_up	GO: Biological Process	GO:0002526	acute inflammatory response		6.28E-10	1.38E-07	1.26E-06	3.44E-06	17	167	FALSE
+remission_up	Pathway	M39428	WP NUCLEAR RECEPTORS META PATHWAY	WikiPathways	2.36E-09	1.17E-06	9.52E-06	4.66E-06	24	314	FALSE
+remission_up	4	DOID:4947 (is marker for)	cholangiocarcinoma (is marker for)	AllianceGenome	1.08E-09	7.20E-07	6.44E-06	4.71E-06	10	64	FALSE
+remission_up	Mouse Phenotype	MP:0001663	abnormal digestive system physiology		1.38E-09	4.76E-06	4.16E-05	4.76E-06	35	618	FALSE
+remission_up	5	C0007570	Celiac Disease	DisGeNET Curated	1.13E-09	7.20E-07	6.44E-06	4.90E-06	9	47	FALSE
+remission_up	GO: Cellular Component	GO:0031526	brush border membrane		2.45E-08	2.65E-06	1.76E-05	1.06E-05	12	98	TRUE
+remission_up	2	483	Chemokine ligands|Endogenous ligands	genenames.org	8.16E-08	6.12E-06	3.42E-05	1.22E-05	8	45	FALSE
+remission_up	GO: Molecular Functio	GO:0005125	cytokine activity		1.34E-08	2.58E-06	1.92E-05	1.29E-05	19	249	FALSE
+remission_up	Pathway	M48092	WP PANCREATIC CANCER SUBTYPES	WikiPathways	1.06E-08	4.18E-06	3.42E-05	2.09E-05	10	48	FALSE
+remission_up	Mouse Phenotype	MP:0001845	abnormal inflammatory response		8.26E-09	1.20E-05	1.04E-04	2.86E-05	53	1301	FALSE
+remission_up	Mouse Phenotype	MP:0005164	abnormal response to injury		1.04E-08	1.20E-05	1.04E-04	3.59E-05	33	604	FALSE
+remission_up	1	TATAAA V$TATA 01	TATAAA V$TATA 01	TFBS	4.99E-08	4.40E-05	3.24E-04	4.40E-05	34	1070	FALSE
+remission_up	Pathway	M46456	WP IMMUNE INFILTRATION IN PANCREATIC CANCER	WikiPathways	2.25E-08	7.41E-06	6.05E-05	4.45E-05	9	39	FALSE
+remission_up	GO: Cellular Component	GO:0005902	microvillus		1.17E-07	1.01E-05	6.71E-05	5.04E-05	13	135	TRUE
+remission_up	GO: Molecular Functio	GO:0008233	peptidase activity		8.75E-08	1.41E-05	1.05E-04	8.43E-05	31	679	FALSE
+remission_up	GO: Cellular Component	GO:0031253	cell projection membrane		2.18E-07	1.17E-05	7.76E-05	9.42E-05	23	441	FALSE
+remission_up	GO: Cellular Component	GO:0098590	plasma membrane region		2.25E-07	1.17E-05	7.76E-05	9.71E-05	50	1565	FALSE
+remission_up	GO: Cellular Component	GO:0005903	brush border		2.32E-07	1.17E-05	7.76E-05	1.00E-04	14	168	FALSE
+remission_up	GO: Molecular Functio	GO:0005153	interleukin-8 receptor binding		1.04E-07	1.44E-05	1.07E-04	1.01E-04	5	9	FALSE
+remission_up	GO: Cellular Component	GO:0031012	extracellular matrix		2.54E-07	1.17E-05	7.76E-05	1.10E-04	29	665	FALSE
+remission_up	GO: Cellular Component	GO:0030312	external encapsulating structure		2.70E-07	1.17E-05	7.76E-05	1.17E-04	29	667	FALSE
+remission_up	Pathway	M625	REACTOME CHEMOKINE RECEPTORS BIND CHEMOKINES	Reactome Pathways	7.21E-08	1.87E-05	1.52E-04	1.43E-04	10	58	FALSE
+remission_up	GO: Cellular Component	GO:0030141	secretory granule		3.46E-07	1.36E-05	9.02E-05	1.49E-04	37	1002	FALSE
+remission_up	Pathway	MM15164	REACTOME O LINKED GLYCOSYLATION	Reactome Pathways	7.58E-08	1.87E-05	1.52E-04	1.50E-04	13	109	FALSE
+remission_up	GO: Molecular Functio	GO:1901618	organic hydroxy compound transmembrane transporter activity		1.61E-07	1.93E-05	1.44E-04	1.55E-04	10	72	FALSE
+remission_up	Pathway	M27416	REACTOME O LINKED GLYCOSYLATION	Reactome Pathways	9.43E-08	1.87E-05	1.52E-04	1.87E-04	13	111	FALSE
+remission_up	Pathway	M27609	REACTOME INTERLEUKIN 4 AND INTERLEUKIN 13 SIGNALING	Reactome Pathways	9.43E-08	1.87E-05	1.52E-04	1.87E-04	13	111	FALSE
+remission_up	GO: Molecular Functio	GO:0045236	CXCR chemokine receptor binding		2.11E-07	2.08E-05	1.55E-04	2.03E-04	6	18	TRUE
+remission_up	GO: Molecular Functio	GO:0005126	cytokine receptor binding		2.16E-07	2.08E-05	1.55E-04	2.08E-04	20	327	FALSE
+remission_up	GO: Cellular Component	GO:0099503	secretory vesicle		6.25E-07	2.25E-05	1.49E-04	2.70E-04	42	1248	FALSE
+remission_up	Mouse Phenotype	MP:0001793	abnormal susceptibility to infection		9.99E-08	7.65E-05	6.68E-04	3.46E-04	33	664	FALSE
+remission_up	Mouse Phenotype	MP:0020186	abnormal susceptibility to bacterial infection		1.15E-07	7.65E-05	6.68E-04	3.99E-04	23	357	FALSE
+remission_up	Mouse Phenotype	MP:0005025	abnormal response to infection		1.33E-07	7.65E-05	6.68E-04	4.59E-04	34	706	FALSE
+remission_up	Pathway	M39363	WP TYPE II INTERFERON SIGNALING	WikiPathways	2.40E-07	4.32E-05	3.52E-04	4.75E-04	8	37	FALSE
+remission_up	GO: Molecular Functio	GO:0001664	G protein-coupled receptor binding		5.06E-07	4.43E-05	3.30E-04	4.88E-04	20	345	FALSE
+remission_up	GO: Cellular Component	GO:0045178	basal part of cell		1.24E-06	3.90E-05	2.59E-04	5.36E-04	20	381	FALSE
+remission_up	1	int:MMP9	MMP9 interactions		5.97E-08	5.36E-04	5.19E-03	5.36E-04	10	66	FALSE
+remission_up	GO: Molecular Functio	GO:0042379	chemokine receptor binding		5.58E-07	4.48E-05	3.34E-04	5.38E-04	10	82	FALSE
+remission_up	1	SM00199	SCY	SMART	3.53E-07	2.64E-04	2.09E-03	5.43E-04	8	42	FALSE
+remission_up	GO: Cellular Component	GO:0042824	MHC class I peptide loading complex		1.26E-06	3.90E-05	2.59E-04	5.45E-04	5	14	FALSE
+remission_up	1	chr4q13	Ensembl 110 genes in cytogenetic band chr4q13	MSigDB C1	1.46E-06	5.83E-04	3.83E-03	5.83E-04	9	156	FALSE
+remission_up	Mouse Phenotype	MP:0020000	abnormal response to antigen		1.98E-07	9.77E-05	8.52E-04	6.84E-04	34	718	FALSE
+remission_up	2	IPR001811	Chemokine IL8-like dom	InterPro	5.16E-07	2.64E-04	2.09E-03	7.92E-04	8	44	FALSE
+remission_up	3	PF00048	IL8	Pfam	5.16E-07	2.64E-04	2.09E-03	7.92E-04	8	44	FALSE
+remission_up	Pathway	M42569	WP NETWORK MAP OF SARS COV 2 SIGNALING PATHWAY	WikiPathways	4.18E-07	6.90E-05	5.63E-04	8.28E-04	17	218	FALSE
+remission_up	GO: Molecular Functio	GO:0034235	GPI anchor binding		1.08E-06	7.97E-05	5.93E-04	1.04E-03	6	23	TRUE
+remission_up	2	TGGNNNNNNKCCAR UNKNOWN	TGGNNNNNNKCCAR UNKNOWN	TFBS	1.38E-06	6.07E-04	4.47E-03	1.21E-03	16	335	FALSE
+remission_up	GO: Molecular Functio	GO:0008009	chemokine activity		1.28E-06	8.79E-05	6.54E-04	1.23E-03	8	52	FALSE
+remission_up	GO: Cellular Component	GO:0016328	lateral plasma membrane		3.48E-06	9.93E-05	6.60E-04	1.50E-03	10	104	FALSE
+remission_up	GO: Cellular Component	GO:0035580	specific granule lumen		3.68E-06	9.93E-05	6.60E-04	1.59E-03	8	62	FALSE
+remission_up	GO: Molecular Functio	GO:0004175	endopeptidase activity		1.81E-06	1.16E-04	8.65E-04	1.74E-03	23	478	FALSE
+remission_up	Pathway	MM14978	REACTOME CHEMOKINE RECEPTORS BIND CHEMOKINES	Reactome Pathways	9.75E-07	1.42E-04	1.16E-03	1.93E-03	9	59	FALSE
+remission_up	Pathway	M507	REACTOME GPCR LIGAND BINDING	Reactome Pathways	1.01E-06	1.42E-04	1.16E-03	1.99E-03	25	464	FALSE
+remission_up	4	IPR018048	Chemokine CXC CS	InterPro	1.34E-06	5.16E-04	4.08E-03	2.06E-03	5	13	FALSE
+remission_up	Pathway	M47528	KEGG MEDICUS REFERENCE ANTIGEN PROCESSING AND PRESENTATION BY MHC CLASS I MOLECULES	KEGG Medicus Pathways	1.29E-06	1.70E-04	1.39E-03	2.55E-03	5	12	FALSE
+remission_up	GO: Molecular Functio	GO:0004252	serine-type endopeptidase activity		2.76E-06	1.66E-04	1.24E-03	2.66E-03	14	198	FALSE
+remission_up	GO: Cellular Component	GO:0009897	external side of plasma membrane		6.20E-06	1.57E-04	1.05E-03	2.68E-03	24	576	FALSE
+remission_up	Pathway	M27605	REACTOME INTERLEUKIN 10 SIGNALING	Reactome Pathways	1.41E-06	1.74E-04	1.42E-03	2.79E-03	8	46	FALSE
+remission_up	GO: Cellular Component	GO:0009986	cell surface		6.80E-06	1.59E-04	1.06E-03	2.94E-03	38	1184	FALSE
+remission_up	Pathway	M39454	WP NRF2 PATHWAY	WikiPathways	1.54E-06	1.79E-04	1.46E-03	3.05E-03	13	141	FALSE
+remission_up	GO: Cellular Component	GO:0016323	basolateral plasma membrane		7.31E-06	1.59E-04	1.06E-03	3.16E-03	17	322	FALSE
+remission_up	5	IPR033899	CXC Chemokine domain	InterPro	2.06E-06	6.33E-04	5.01E-03	3.17E-03	5	14	FALSE
+remission_up	GO: Cellular Component	GO:0005794	Golgi apparatus		7.35E-06	1.59E-04	1.06E-03	3.18E-03	51	1816	FALSE
+remission_up	Pathway	M48073	WP IL 26 SIGNALING PATHWAYS	WikiPathways	1.67E-06	1.84E-04	1.50E-03	3.31E-03	8	47	FALSE
+remission_up	Mouse Phenotype	MP:0001846	increased inflammatory response		1.06E-06	4.57E-04	3.99E-03	3.66E-03	42	1070	FALSE
+remission_up	2	4q21	4q21		9.58E-06	1.01E-03	6.66E-03	3.83E-03	4	20	FALSE
+remission_up	3	chr11q22	Ensembl 110 genes in cytogenetic band chr11q22	MSigDB C1	9.59E-06	1.01E-03	6.66E-03	3.83E-03	7	107	FALSE
+remission_up	GO: Cellular Component	GO:0042612	MHC class I protein complex		9.38E-06	1.93E-04	1.28E-03	4.05E-03	4	10	FALSE
+remission_up	4	6p21.3	6p21.3		1.01E-05	1.01E-03	6.66E-03	4.05E-03	10	250	FALSE
+remission_up	Pathway	M48055	WP LACTATE SHUTTLE IN GLIAL CELLS	WikiPathways	2.06E-06	2.15E-04	1.76E-03	4.08E-03	5	13	FALSE
+remission_up	2	int:GNG8	GNG8 interactions		4.97E-07	1.63E-03	1.58E-02	4.46E-03	12	125	FALSE
+remission_up	GO: Molecular Functio	GO:0008194	UDP-glycosyltransferase activity		4.95E-06	2.80E-04	2.09E-03	4.77E-03	12	153	TRUE
+remission_up	3	TGANTCA V$AP1 C	TGANTCA V$AP1 C	TFBS	5.42E-06	1.59E-03	1.17E-02	4.78E-03	27	918	FALSE
+remission_up	3	int:CXCR1	CXCR1 interactions		5.44E-07	1.63E-03	1.58E-02	4.88E-03	6	21	FALSE
+remission_up	5	11q22.3	11q22.3		1.27E-05	1.02E-03	6.69E-03	5.09E-03	5	44	FALSE
+remission_up	GO: Cellular Component	GO:0098862	cluster of actin-based cell projections		1.35E-05	2.66E-04	1.77E-03	5.85E-03	14	237	FALSE
+remission_up	Pathway	M22023	BIOCARTA MHC PATHWAY	BioCarta Pathways	3.16E-06	2.98E-04	2.43E-03	6.26E-03	5	14	FALSE
+remission_up	Pathway	M47780	KEGG MEDICUS PATHOGEN SARS COV 2 S TO ANGII AT1R NOX2 SIGNALING PATHWAY	KEGG Medicus Pathways	3.16E-06	2.98E-04	2.43E-03	6.26E-03	5	14	FALSE
+remission_up	Pathway	M47581	KEGG MEDICUS PATHOGEN HTLV 1 P12 TO ANTIGEN PROCESSING AND PRESENTATION BY MHC CLASS I MOLECULES	KEGG Medicus Pathways	3.42E-06	3.08E-04	2.51E-03	6.77E-03	4	7	FALSE
+remission_up	GO: Molecular Functio	GO:0008236	serine-type peptidase activity		7.58E-06	4.05E-04	3.02E-03	7.30E-03	14	216	FALSE
+remission_up	4	YATGNWAAT V$OCT C	YATGNWAAT V$OCT C	TFBS	8.86E-06	1.95E-03	1.44E-02	7.81E-03	14	302	FALSE
+remission_up	Mouse Phenotype	MP:0000501	abnormal digestive secretion		2.38E-06	8.67E-04	7.56E-03	8.24E-03	7	35	FALSE
+remission_up	4	int:CXCL3	CXCL3 interactions		9.41E-07	2.11E-03	2.04E-02	8.45E-03	5	13	FALSE
+remission_up	Mouse Phenotype	MP:0001664	abnormal digestion		2.51E-06	8.67E-04	7.56E-03	8.67E-03	11	104	FALSE
+remission_up	GO: Molecular Functio	GO:0017171	serine hydrolase activity		9.84E-06	4.65E-04	3.46E-03	9.48E-03	14	221	FALSE
+remission_up	GO: Molecular Functio	GO:0030246	carbohydrate binding		1.03E-05	4.65E-04	3.46E-03	9.91E-03	17	317	FALSE
+remission_up	GO: Molecular Functio	GO:0046978	TAP1 binding		1.11E-05	4.65E-04	3.46E-03	1.07E-02	4	10	FALSE
+remission_up	GO: Molecular Functio	GO:0046979	TAP2 binding		1.11E-05	4.65E-04	3.46E-03	1.07E-02	4	10	FALSE
+remission_up	GO: Molecular Functio	GO:0046977	TAP binding		1.11E-05	4.65E-04	3.46E-03	1.07E-02	4	10	FALSE
+remission_up	GO: Cellular Component	GO:0009925	basal plasma membrane		2.57E-05	4.83E-04	3.21E-03	1.11E-02	17	355	FALSE
+remission_up	GO: Cellular Component	GO:0098858	actin-based cell projection		3.46E-05	6.23E-04	4.14E-03	1.49E-02	15	292	FALSE
+remission_up	3	433	Polypeptide N-acetylgalactosaminyltransferases	genenames.org	1.02E-04	5.09E-03	2.85E-02	1.53E-02	4	20	FALSE
+remission_up	Pathway	MM15330	REACTOME NEUTROPHIL DEGRANULATION	Reactome Pathways	8.15E-06	7.01E-04	5.72E-03	1.61E-02	25	522	FALSE
+remission_up	Mouse Phenotype	MP:0010155	abnormal intestine physiology		5.91E-06	1.82E-03	1.59E-02	2.05E-02	18	294	FALSE
+remission_up	GO: Molecular Functio	GO:0008083	growth factor activity		2.17E-05	8.72E-04	6.50E-03	2.09E-02	12	177	FALSE
+remission_up	5	int:SSUH2	SSUH2 interactions		2.47E-06	3.45E-03	3.34E-02	2.22E-02	14	199	FALSE
+remission_up	Mouse Phenotype	MP:0005381	digestive/alimentary phenotype		6.69E-06	1.82E-03	1.59E-02	2.31E-02	50	1479	FALSE
+remission_up	Mouse Phenotype	MP:0000343	abnormal response to cardiac infarction		6.85E-06	1.82E-03	1.59E-02	2.37E-02	10	94	FALSE
+remission_up	Pathway	MM14527	REACTOME ENDOSOMAL VACUOLAR PATHWAY	Reactome Pathways	1.20E-05	9.63E-04	7.86E-03	2.37E-02	4	9	FALSE
+remission_up	Pathway	MM14624	REACTOME POST TRANSLATIONAL MODIFICATION SYNTHESIS OF GPI ANCHORED PROTEINS	Reactome Pathways	1.23E-05	9.63E-04	7.86E-03	2.44E-02	10	100	FALSE
+remission_up	GO: Cellular Component	GO:0000139	Golgi membrane		5.89E-05	1.02E-03	6.76E-03	2.54E-02	25	705	FALSE
+remission_up	GO: Molecular Functio	GO:0008028	monocarboxylic acid transmembrane transporter activity		2.81E-05	1.07E-03	7.93E-03	2.70E-02	8	78	FALSE
+remission_up	4	601	Interleukins	genenames.org	1.99E-04	5.37E-03	3.00E-02	2.98E-02	5	43	FALSE
+remission_up	Mouse Phenotype	MP:0000187	abnormal triglyceride level		8.91E-06	2.15E-03	1.88E-02	3.08E-02	28	631	FALSE
+remission_up	5	891	Matrix metallopeptidases	genenames.org	2.15E-04	5.37E-03	3.00E-02	3.22E-02	4	24	FALSE
+remission_up	Mouse Phenotype	MP:0005166	decreased susceptibility to injury		9.34E-06	2.15E-03	1.88E-02	3.23E-02	14	192	FALSE
+remission_up	Mouse Phenotype	MP:0002425	abnormal susceptibility to autoimmune disorder		1.07E-05	2.22E-03	1.94E-02	3.71E-02	18	307	FALSE
+remission_up	Mouse Phenotype	MP:0002406	increased susceptibility to infection		1.09E-05	2.22E-03	1.94E-02	3.77E-02	24	499	FALSE
+remission_up	Mouse Phenotype	MP:0002412	increased susceptibility to bacterial infection		1.20E-05	2.31E-03	2.02E-02	4.16E-02	17	280	FALSE
+remission_up	Mouse Phenotype	MP:0011969	abnormal circulating triglyceride level		1.47E-05	2.67E-03	2.33E-02	5.07E-02	24	508	FALSE
+remission_up	Mouse Phenotype	MP:0001657	abnormal induced morbidity/mortality		1.63E-05	2.81E-03	2.45E-02	5.62E-02	30	725	FALSE
+remission_up	5	STTTCRNTTT V$IRF Q6	STTTCRNTTT V$IRF Q6	TFBS	7.25E-05	1.11E-02	8.15E-02	6.40E-02	9	157	FALSE
+remission_up	Mouse Phenotype	MP:0020948	abnormal susceptibility to Coronaviridae infection		2.46E-05	4.05E-03	3.53E-02	8.50E-02	7	49	FALSE
+remission_up	Mouse Phenotype	MP:0013296	abnormal susceptibility to induced colitis		2.91E-05	4.41E-03	3.85E-02	1.01E-01	12	159	FALSE
+remission_up	Mouse Phenotype	MP:0002644	decreased circulating triglyceride level		2.93E-05	4.41E-03	3.85E-02	1.02E-01	16	270	FALSE
+remission_up	Mouse Phenotype	MP:0001844	autoimmune response		3.17E-05	4.57E-03	3.99E-02	1.10E-01	20	397	FALSE
+remission_up	Mouse Phenotype	MP:0005005	abnormal self tolerance		3.41E-05	4.71E-03	4.11E-02	1.18E-01	20	399	FALSE

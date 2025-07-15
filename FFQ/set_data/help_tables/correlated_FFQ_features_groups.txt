@@ -1,0 +1,45 @@
+FFQ_feature	corr_group	what_to_do
+Alcohol_drinks_serv.wk_cal	Alcohol_g.d_cal	rm
+Alcohol_g.d_cal	Alcohol_g.d_cal	as is
+Butyric_g.d_cal	Capric_g.d_cal	z score average
+Capric_g.d_cal	Capric_g.d_cal	z score average
+Caproic_g.d_cal	Capric_g.d_cal	z score average
+Caprylic_g.d_cal	Capric_g.d_cal	z score average
+Lauric_g.d_cal	Capric_g.d_cal	z score average
+Myristic_g.d_cal	Capric_g.d_cal	z score average
+Palmitic_g.d_cal	SFA_per_kcal	z score average
+SFA_per_kcal	SFA_per_kcal	z score average
+Stearic_g.d_cal	SFA_per_kcal	z score average
+Arachidonic_g.d_cal	Cholesterol_mg.d_cal	rm
+Cholesterol_mg.d_cal	Cholesterol_mg.d_cal	z score average
+Choline_g.d_cal	Cholesterol_mg.d_cal	z score average
+Eggs_serv.wk_cal	Cholesterol_mg.d_cal	z score average
+DHA_g.d_cal	DHA_g.d_cal?	z score average
+EPA_g.d_cal	DHA_g.d_cal?	z score average
+Erucic_g.d_cal	Erucic_g.d_cal?	z score average
+Parinaric_g.d_cal	Erucic_g.d_cal?	z score average
+LA_g.d_cal	PUFA_g.d_cal	rm
+PUFA_g.d_cal	PUFA_g.d_cal	as is
+Carotene_mcg.d_cal	Sretinol_mcg.d_cal?	z score average
+Sretinol_mcg.d_cal	Sretinol_mcg.d_cal?	z score average
+NOL_mg.d_cal	Sugary_drinks_serv.d_cal	rm
+Sugary_drinks_serv.d_cal	Sugary_drinks_serv.d_cal	as is
+MUFA_per_kcal	Tot_fat_per_kcal	z score average
+Oleic_g.d_cal	Tot_fat_per_kcal	z score average
+Tot_fat_per_kcal	Tot_fat_per_kcal	z score average
+Lowfat_dairy_serv.d_cal	Total_dairy_serv.d_cal	rm
+Total_dairy_serv.d_cal	Total_dairy_serv.d_cal	as is
+Cystine_g.d_cal	Tryptophan_g.d_cal	z score average
+histidine_g.d_cal	Tryptophan_g.d_cal	z score average
+Isoleucine_g.d_cal	Tryptophan_g.d_cal	z score average
+Leucine_g.d_cal	Tryptophan_g.d_cal	z score average
+Lysine_g.d_cal	Tryptophan_g.d_cal	z score average
+Methionine_g.d_cal	Tryptophan_g.d_cal	z score average
+phenylalanine_g.d_cal	Tryptophan_g.d_cal	z score average
+Serine_g.d_cal	Tryptophan_g.d_cal	z score average
+Threonine_g.d_cal	Tryptophan_g.d_cal	z score average
+Tryptophan_g.d_cal	Tryptophan_g.d_cal	z score average
+Tyrosine_g.d_cal	Tryptophan_g.d_cal	z score average
+Valine_g.d_cal	Tryptophan_g.d_cal	z score average
+Iodine_mcg.d_cal	Vitamin_D_mcg.d_cal	z score average
+Vitamin_D_mcg.d_cal	Vitamin_D_mcg.d_cal	z score average
