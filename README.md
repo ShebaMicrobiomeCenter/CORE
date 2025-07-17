@@ -15,7 +15,7 @@ Conclusion: Perturbations in dietary, ileal, microbial, and metabolic signatures
 The functions used through the code should all be available under the funcs/ directory (with some additional functions that were not eventually used here).  
 
 
-### Raw data is publicly available at the following:
+### Raw data:
 
 The 16S amplicon sequencing dataset generated in this study has been deposited in BioProject under accession code: [PRJNA1288731](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1288731).
 
